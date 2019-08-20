@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>43b9</objectGroupId>
+	<objectId>43b9a54a-36fd-0c37-c074-48b2617fcbc2</objectId>
+	<internal-name>Read Learn Profit</internal-name>
+	<heading>sample text</heading>
+	<action_label>sample text</action_label>
+	<action_route>sample text</action_route>
+	<file-name>read_learn_profit.xml</file-name>
+	<folder-name/>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+	<subComp item-list="true">	<item>	<heading>sample text</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+	<amount>sample text</amount>
+	<action_label>sample text</action_label>
+	<action-route>sample text</action-route>
+	<image/>
+	</item></subComp>
+	<createdDate>2019-08-20T20:18:20.619Z</createdDate>
+	<createdDate_dt>2019-08-20T20:18:20.619Z</createdDate_dt>
+	<lastModifiedDate>2019-08-20T20:18:20.619Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-08-20T20:18:20.619Z</lastModifiedDate_dt>
+</component>
