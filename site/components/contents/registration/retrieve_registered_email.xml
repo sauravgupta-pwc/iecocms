@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d9ce</objectGroupId>
+	<objectId>d9ce77b4-2de4-3537-93db-425e161f7e47</objectId>
+	<file-name>retrieve_registered_email.xml</file-name>
+	<folder-name/>
+	<internal-name>Retrieve Registered Email</internal-name>
+	<heading>sampel text</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+	<createdDate>2019-08-20T20:40:26.979Z</createdDate>
+	<createdDate_dt>2019-08-20T20:40:26.979Z</createdDate_dt>
+	<lastModifiedDate>2019-08-20T20:40:26.979Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-08-20T20:40:26.979Z</lastModifiedDate_dt>
+</component>
