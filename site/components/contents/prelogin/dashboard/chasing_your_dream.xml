@@ -24,13 +24,15 @@
 	<action_label>sample text</action_label>
 	<action-route>sample text</action-route>
 	</item></subComp>
-	<attrs item-list="true">	<item>	<key>sample text</key>
+	<attrs item-list="true">	<item>	<key>footer_label</key>
 	<value>sample text</value>
-	</item>	<item>	<key>sample text</key>
+	</item>	<item>	<key>footer_button_label</key>
+	<value>sample text</value>
+	</item>	<item>	<key>footer_action</key>
 	<value>sample text</value>
 	</item></attrs>
 	<createdDate>2019-08-20T19:53:00.965Z</createdDate>
 	<createdDate_dt>2019-08-20T19:53:00.965Z</createdDate_dt>
-	<lastModifiedDate>2019-08-20T19:53:00.965Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-08-20T19:53:00.965Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-08-20T20:04:23.677Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-08-20T20:04:23.677Z</lastModifiedDate_dt>
 </component>
