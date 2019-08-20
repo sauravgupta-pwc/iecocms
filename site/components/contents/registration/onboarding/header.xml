@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>30ac</objectGroupId>
+	<objectId>30ac8fb8-d31d-a47f-5c35-08d3fbd10f86</objectId>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+	<internal-name>Header</internal-name>
+	<heading>sample data</heading>
+	<file-name>header.xml</file-name>
+	<folder-name/>
+	<createdDate>2019-08-20T20:22:15.589Z</createdDate>
+	<createdDate_dt>2019-08-20T20:22:15.589Z</createdDate_dt>
+	<lastModifiedDate>2019-08-20T20:22:15.589Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-08-20T20:22:15.589Z</lastModifiedDate_dt>
+</component>
