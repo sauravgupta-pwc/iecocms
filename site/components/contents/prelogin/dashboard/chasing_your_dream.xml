@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0cf3</objectGroupId>
+	<objectId>0cf36940-7665-da89-c3c0-37709fbb6a1d</objectId>
+	<file-name>chasing_your_dream.xml</file-name>
+	<folder-name/>
+	<internal-name>Chasing your Dream</internal-name>
+	<heading>sample text</heading>
+	<action_label>sample text</action_label>
+	<action_route>sample text</action_route>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+	<subComp item-list="true">	<item>	<heading>sample text</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+	<amount>sample text</amount>
+	<action_label>sample text</action_label>
+	<action-route>sample text</action-route>
+	<image/>
+	</item>	<item>	<heading>sample text</heading>
+	<image/>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+	<amount>sample text</amount>
+	<action_label>sample text</action_label>
+	<action-route>sample text</action-route>
+	</item></subComp>
+	<attrs item-list="true">	<item>	<key>sample text</key>
+	<value>sample text</value>
+	</item>	<item>	<key>sample text</key>
+	<value>sample text</value>
+	</item></attrs>
+	<createdDate>2019-08-20T19:53:00.965Z</createdDate>
+	<createdDate_dt>2019-08-20T19:53:00.965Z</createdDate_dt>
+	<lastModifiedDate>2019-08-20T19:53:00.965Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-08-20T19:53:00.965Z</lastModifiedDate_dt>
+</component>
