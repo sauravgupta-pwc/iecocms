@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e6a3</objectGroupId>
+	<objectId>e6a321fc-02f3-ccce-48fc-d6f17595f312</objectId>
+	<file-name>landing_page.xml</file-name>
+	<folder-name/>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+	<internal-name>Landing Page</internal-name>
+	<heading>sample text</heading>
+	<attrs item-list="true">	<item>	<key>terms</key>
+	<value>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</value>
+	</item></attrs>
+	<createdDate>2019-08-20T21:08:17.891Z</createdDate>
+	<createdDate_dt>2019-08-20T21:08:17.891Z</createdDate_dt>
+	<lastModifiedDate>2019-08-20T21:08:17.891Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-08-20T21:08:17.891Z</lastModifiedDate_dt>
+</component>
