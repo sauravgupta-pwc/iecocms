@@ -16,5 +16,6 @@ document.selectSingleNode("component/lastModifiedDate").detach();
 document.selectSingleNode("component/folder-name").detach();
 document.selectSingleNode("component/file-name").detach();
 document.selectSingleNode("component/internal-name").detach();
+document.selectSingleNode("component/lastModifiedDate_dt").detach();
 
 return document;
