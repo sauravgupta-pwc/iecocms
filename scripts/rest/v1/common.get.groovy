@@ -13,6 +13,8 @@ document.selectSingleNode("component/objectId").detach();
 document.selectSingleNode("component/createdDate").detach();
 document.selectSingleNode("component/createdDate_dt").detach();
 document.selectSingleNode("component/lastModifiedDate").detach();
-document.selectSingleNode("component/lastModifiedDate_dt").detach();
+document.selectSingleNode("component/folder-name").detach();
+document.selectSingleNode("component/file-name").detach();
+document.selectSingleNode("component/internal-name").detach();
 
 return document;
