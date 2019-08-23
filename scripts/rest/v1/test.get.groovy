@@ -15,5 +15,4 @@ document.selectSingleNode("component/file-name").detach();
 document.selectSingleNode("component/internal-name").detach();
 
 
-
-return document.selectSingleNode("component/lastModifiedDate");
+return document.lastModifiedDate;
