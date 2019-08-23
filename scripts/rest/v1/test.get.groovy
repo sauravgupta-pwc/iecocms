@@ -14,4 +14,6 @@ document.selectSingleNode("component/folder-name").detach();
 document.selectSingleNode("component/file-name").detach();
 document.selectSingleNode("component/internal-name").detach();
 
-return document;
+String dateTime = document.selectSingleNode("component/lastModifiedDate")
+
+return dateTime;
