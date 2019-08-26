@@ -5,7 +5,7 @@
 	<objectGroupId>43b9</objectGroupId>
 	<objectId>43b9a54a-36fd-0c37-c074-48b2617fcbc2</objectId>
 	<internal-name>Read Learn Profit</internal-name>
-	<heading>sample text</heading>
+	<heading>Read. Learn. Profit.</heading>
 	<action_label>sample text</action_label>
 	<action_route>sample text</action_route>
 	<file-name>read_learn_profit.xml</file-name>
@@ -20,6 +20,6 @@
 	</item></subComp>
 	<createdDate>2019-08-20T20:18:20.619Z</createdDate>
 	<createdDate_dt>2019-08-20T20:18:20.619Z</createdDate_dt>
-	<lastModifiedDate>2019-08-20T20:18:20.619Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-08-20T20:18:20.619Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-08-26T09:30:39.786Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-08-26T09:30:39.786Z</lastModifiedDate_dt>
 </component>
