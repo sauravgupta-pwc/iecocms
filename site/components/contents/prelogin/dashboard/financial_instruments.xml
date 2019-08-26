@@ -5,8 +5,8 @@
 	<objectGroupId>37f8</objectGroupId>
 	<objectId>37f843ea-7960-e695-58fd-963c88c803c0</objectId>
 	<internal-name>Financial Instruments</internal-name>
-	<heading>sample text</heading>
-	<action_label/>
+	<heading>Make the most powerful financial instruments work</heading>
+	<action_label>Learn more</action_label>
 	<action_route/>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
 	<file-name>financial_instruments.xml</file-name>
@@ -20,6 +20,6 @@
 	</item></subComp>
 	<createdDate>2019-08-20T20:02:20.137Z</createdDate>
 	<createdDate_dt>2019-08-20T20:02:20.137Z</createdDate_dt>
-	<lastModifiedDate>2019-08-20T20:02:20.137Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-08-20T20:02:20.137Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-08-26T09:18:03.403Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-08-26T09:18:03.403Z</lastModifiedDate_dt>
 </component>
