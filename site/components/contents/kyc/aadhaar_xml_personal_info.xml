@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b28f</objectGroupId>
+	<objectId>b28f40a4-cd16-6daf-3545-a859f5845680</objectId>
+	<file-name>aadhaar_xml_personal_info.xml</file-name>
+	<folder-name/>
+	<internal-name>Aadhar Personal Info</internal-name>
+	<heading>Personal Information</heading>
+	<description>Below is all the information fetched as per your Aadhaar and PAN. We will use the same information to open your account.</description>
+	<createdDate>2019-08-30T14:05:43.919Z</createdDate>
+	<createdDate_dt>2019-08-30T14:05:43.919Z</createdDate_dt>
+	<lastModifiedDate>2019-08-30T14:05:43.919Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-08-30T14:05:43.919Z</lastModifiedDate_dt>
+</component>
