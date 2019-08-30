@@ -5,14 +5,14 @@
 	<objectGroupId>a943</objectGroupId>
 	<objectId>a943893b-4bb0-60bb-3ef7-a236a88e1a09</objectId>
 	<internal-name>Free Portfolio Analysis</internal-name>
-	<heading>Already investing? Get a free analysis of your por</heading>
+	<heading>Get a free analysis of your portfolio</heading>
 	<action_label>Start analysis</action_label>
 	<action_route>sample text</action_route>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
 	<file-name>free_portfolio_analysis.xml</file-name>
 	<folder-name/>
 	<createdDate>2019-08-20T20:20:02.024Z</createdDate>
 	<createdDate_dt>2019-08-20T20:20:02.024Z</createdDate_dt>
-	<lastModifiedDate>2019-08-28T10:02:15.313Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-08-28T10:02:15.313Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-08-30T06:56:50.718Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-08-30T06:56:50.718Z</lastModifiedDate_dt>
 </component>
