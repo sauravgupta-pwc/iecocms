@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d918</objectGroupId>
+	<objectId>d918ab9b-15b8-e8c9-8cfd-c8bdd6e99fc8</objectId>
+	<internal-name>Banking Details</internal-name>
+	<heading>Banking Details</heading>
+	<description>Please provide the bank details you want to register with Asset Management Companies for mutual fund transactions and redeemed amount would be credited to this bank account.
+</description>
+	<file-name>banking_details.xml</file-name>
+	<folder-name/>
+	<createdDate>2019-08-30T14:08:43.404Z</createdDate>
+	<createdDate_dt>2019-08-30T14:08:43.404Z</createdDate_dt>
+	<lastModifiedDate>2019-08-30T14:08:43.404Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-08-30T14:08:43.404Z</lastModifiedDate_dt>
+</component>
