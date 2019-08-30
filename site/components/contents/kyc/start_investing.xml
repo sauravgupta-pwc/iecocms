@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ec50</objectGroupId>
+	<objectId>ec50d3ec-e7ef-9026-c0a9-f54713aac609</objectId>
+	<file-name>start_investing.xml</file-name>
+	<folder-name/>
+	<description>We will complete paperless offline eKYC using Aadhaar authentication. Please keep your Aadhaar no handy which you have to enter on UIDAI website and your mobile number should be registered with your Aadhaar number.</description>
+	<internal-name>Start Investing</internal-name>
+	<heading>Let’s get you ready for investment</heading>
+	<attrs item-list="true">	<item>	<key>Agreement</key>
+	<value>"• I hereby give my free consent that I understand Aadhaar paperless Offline e-kyc is a secure, digitally signed sharable document which I have to generate by accessing UIDAI resident portal and upload it on &lt;entity name&gt; platform for offline verification of my identification without sharing the Aadhaar number. The details will contain Name, Address, Photo, Gender, DOB, hash of registered Mobile Number, hash of registered Email Address and reference Id which contains last 4 digits of Aadhaar number followed by timestamp in a digitally signed XML.
+• I agree to voluntarily use my Aadhaar details for doing full KYC of my &lt;platform name&gt;  account as per the above process and authorize &lt;entity name&gt; to fetch my personal details from the Aadhaar Paperless Offline e-kyc details uploaded by me on &lt;platform name&gt; platform to authenticate and verify my profile."</value>
+	</item></attrs>
+	<createdDate>2019-08-30T13:59:11.795Z</createdDate>
+	<createdDate_dt>2019-08-30T13:59:11.795Z</createdDate_dt>
+	<lastModifiedDate>2019-08-30T13:59:11.795Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-08-30T13:59:11.795Z</lastModifiedDate_dt>
+</component>
