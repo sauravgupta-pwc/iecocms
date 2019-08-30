@@ -7,7 +7,7 @@
 	<file-name>video_verification_success.xml</file-name>
 	<folder-name/>
 	<internal-name>Video Verification Success</internal-name>
-	<heading>sample text</heading>
+	<heading>Verification successful</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
 	<attrs item-list="true">	<item>	<key>action_label</key>
 	<value>sample text</value>
@@ -16,6 +16,6 @@
 	</item></attrs>
 	<createdDate>2019-08-20T20:44:26.070Z</createdDate>
 	<createdDate_dt>2019-08-20T20:44:26.070Z</createdDate_dt>
-	<lastModifiedDate>2019-08-20T20:44:26.070Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-08-20T20:44:26.070Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-08-30T14:24:21.705Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-08-30T14:24:21.705Z</lastModifiedDate_dt>
 </component>
