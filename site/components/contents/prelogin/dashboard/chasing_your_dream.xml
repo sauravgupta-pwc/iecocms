@@ -10,16 +10,16 @@
 	<heading>Chasing a dream ?</heading>
 	<action_label>Learn more</action_label>
 	<action_route>sample text</action_route>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </description>
 	<subComp item-list="true">	<item>	<heading>Vacation in Bali</heading>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </description>
 	<amount>50,000</amount>
 	<action_label>Live it in April 2020</action_label>
 	<action-route>sample text</action-route>
 	<image/>
 	</item>	<item>	<heading>IPL'20 season ticket</heading>
 	<image/>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </description>
 	<amount>30,000</amount>
 	<action_label>Live it in April 2020</action_label>
 	<action-route>sample text</action-route>
@@ -33,6 +33,6 @@
 	</item></attrs>
 	<createdDate>2019-08-20T19:53:00.965Z</createdDate>
 	<createdDate_dt>2019-08-20T19:53:00.965Z</createdDate_dt>
-	<lastModifiedDate>2019-08-28T09:47:16.861Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-08-28T09:47:16.861Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-08-30T06:48:17.003Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-08-30T06:48:17.003Z</lastModifiedDate_dt>
 </component>
