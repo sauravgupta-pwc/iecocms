@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>01ef</objectGroupId>
+	<objectId>01eff0e3-ad25-85ab-e482-d47d9538d8de</objectId>
+	<file-name>add_new_bank_account.xml</file-name>
+	<folder-name/>
+	<description>"• Please provide the bank details you want to register with Asset Management Companies for mutual fund transactions.
+• Any redeemed amount would be credited to this bank account."
+</description>
+	<internal-name>Add new bank account</internal-name>
+	<heading>Add a new bank account </heading>
+	<createdDate>2019-08-30T14:09:57.920Z</createdDate>
+	<createdDate_dt>2019-08-30T14:09:57.920Z</createdDate_dt>
+	<lastModifiedDate>2019-08-30T14:09:57.920Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-08-30T14:09:57.920Z</lastModifiedDate_dt>
+</component>
