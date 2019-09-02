@@ -1,4 +1,5 @@
-import java.net.URL
+import java.net.URL;
+import java.util.Map;
 
 def post = new URL("http://iecocms.eastus.cloudapp.azure.com:8080/studio/api/1/services/api/1/security/login.json").openConnection();
 def message = '{ "username" : "admin", "password" : "Q!w2e3r4t5y6" }'
@@ -15,6 +16,14 @@ if(postRC.equals(200)) {
     //println(post.getInputStream().getText());
     //return post.getInputStream().getText();
     //return post.getInputStream().Cookie();
+    Map<String, List<String>> map = conn.getHeaderFields();
+
+    println("Printing Response Header...\n");
+
+	for (Map.Entry<String, List<String>> entry : map.entrySet()) {
+		println("Key : " + entry.getKey() 
+                           + " ,Value : " + entry.getValue());
+	}
     return post.getInputStream().getText();
   // return x;
 }
