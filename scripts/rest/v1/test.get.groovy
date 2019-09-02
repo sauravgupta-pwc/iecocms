@@ -5,8 +5,8 @@ def getRC = get.getResponseCode();
 println(getRC);
 if(getRC.equals(200)) {
     //println(get.getInputStream().getText());
-    //return get.getInputStream().getText();
-    return "Success";
+    return get.getInputStream().getText();
+    //return "Success";
 }
 
 return "Failed";
