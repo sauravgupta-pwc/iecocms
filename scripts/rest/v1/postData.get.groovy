@@ -13,8 +13,8 @@ def postRC = post.getResponseCode();
 println(postRC);
 if(postRC.equals(200)) {
     //println(post.getInputStream().getText());
-    //return post.getInputStream().getText();
-    return post.getInputStream().cookies();
+    return post.getInputStream().getText();
+    //return post.getInputStream().cookies();
 }
 
 
