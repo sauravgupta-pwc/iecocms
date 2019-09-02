@@ -16,16 +16,8 @@ if(postRC.equals(200)) {
     //println(post.getInputStream().getText());
     //return post.getInputStream().getText();
     //return post.getInputStream().Cookie();
-    Map<String, List<String>> map = conn.getHeaderFields();
-
-    println("Printing Response Header...\n");
-
-	for (Map.Entry<String, List<String>> entry : map.entrySet()) {
-		println("Key : " + entry.getKey() 
-                           + " ,Value : " + entry.getValue());
-	}
+    
     return post.getInputStream().getText();
-  // return x;
 }
 
 
