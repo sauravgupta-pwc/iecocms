@@ -15,7 +15,7 @@ if(postRC.equals(200)) {
     //println(post.getInputStream().getText());
     //return post.getInputStream().getText();
     //return post.getInputStream().Cookie();
-    return post.getInputStream();
+    return post.getInputStream().getText();
   // return x;
 }
 
