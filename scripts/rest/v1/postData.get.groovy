@@ -13,7 +13,8 @@ def postRC = post.getResponseCode();
 println(postRC);
 if(postRC.equals(200)) {
     println(post.getInputStream().getText());
-    return "Success";
+    return post.cookies;
 }
+
 
 return "Failed";
