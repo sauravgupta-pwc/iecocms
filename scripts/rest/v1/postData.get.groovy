@@ -8,14 +8,14 @@ post.setRequestProperty("Content-Type", "application/json")
 post.setRequestProperty("Cookie", "XSRF-TOKEN=1234567890")
 post.setRequestProperty("X-XSRF-TOKEN", "1234567890")
 
-post.getOutputStream().write(message.getBytes("UTF-8"));
+var x =post.getOutputStream().write(message.getBytes("UTF-8"));
 def postRC = post.getResponseCode();
 println(postRC);
 if(postRC.equals(200)) {
     //println(post.getInputStream().getText());
     //return post.getInputStream().getText();
     //return post.getInputStream().Cookie();
-   return post.response();
+   return x;
 }
 
 
