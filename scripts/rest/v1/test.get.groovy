@@ -6,7 +6,7 @@ logger.info('flag 1')
 println(getRC);
 if(getRC.equals(200)) {
     println(get.getInputStream().getText());
-    return get.getInputStream().getText()
+    return get.getInputStream().getText();
 }
 
 logger.info('flag 2')
