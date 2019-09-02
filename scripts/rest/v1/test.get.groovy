@@ -1,6 +1,6 @@
 import java.net.URL
 
-def get = new URL("http:localhost:8080/studio/api/2/audit").openConnection();
+def get = new URL("https://docs.oracle.com/javase/8/docs/api/overview-summary.html").openConnection();
 def getRC = get.getResponseCode();
 logger.info('flag 1')
 println(getRC);
