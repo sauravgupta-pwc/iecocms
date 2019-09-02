@@ -1,6 +1,6 @@
 import java.net.URL
 
-def get = new URL("https://docs.oracle.com/javase/8/docs/api/overview-summary.html").openConnection();
+def get = new URL("http://iecocms.eastus.cloudapp.azure.com:8080/studio/api/2/audit").openConnection();
 def getRC = get.getResponseCode();
 println(getRC);
 if(getRC.equals(200)) {
