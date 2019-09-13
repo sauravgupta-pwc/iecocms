@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/postloginoverallcommon</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7c13</objectGroupId>
+	<objectId>7c13c489-a94a-6888-3984-2c97ab43a56e</objectId>
+	<internal-name>common</internal-name>
+	<intro_image_icon>q</intro_image_icon>
+	<overall_portfolio>q</overall_portfolio>
+	<one_day_gain_loss>q</one_day_gain_loss>
+	<total_gain_loss>q</total_gain_loss>
+	<absolute_return>q</absolute_return>
+	<inv_performance>q</inv_performance>
+	<overall_performance>q</overall_performance>
+	<benchmark_performance>q</benchmark_performance>
+	<inv_distribution>q</inv_distribution>
+	<ready_to_invest>q</ready_to_invest>
+	<ready_to_invest_action>q</ready_to_invest_action>
+	<adjust_course_heading>q</adjust_course_heading>
+	<adjust_course_action>q</adjust_course_action>
+	<intro_desc>q</intro_desc>
+	<adjust_course_description>q</adjust_course_description>
+	<file-name>common.xml</file-name>
+	<folder-name/>
+	<createdDate>2019-09-13T06:33:23.223Z</createdDate>
+	<createdDate_dt>2019-09-13T06:33:23.223Z</createdDate_dt>
+	<lastModifiedDate>2019-09-13T06:33:23.223Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-13T06:33:23.223Z</lastModifiedDate_dt>
+</component>
