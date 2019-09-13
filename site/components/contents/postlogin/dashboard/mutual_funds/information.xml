@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/postloginsubcomp</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e05f</objectGroupId>
+	<objectId>e05fe1df-ae13-c717-148f-bced38c2543b</objectId>
+	<internal-name>information</internal-name>
+	<file-name>information.xml</file-name>
+	<folder-name/>
+	<array_of_fields item-list="true">	<item>	<image/>
+	<heading>Your top performing fund is</heading>
+	<description>Lorem ipsum dolor sit amet
+</description>
+	</item>	<item>	<image/>
+	<heading>Your top performing fund is</heading>
+	<description>Lorem ipsum dolor sit amet
+</description>
+	</item>	<item>	<image/>
+	<heading>Your top performing fund is</heading>
+	<description>Lorem ipsum dolor sit amet
+</description>
+	</item></array_of_fields>
+	<createdDate>2019-09-13T05:35:51.247Z</createdDate>
+	<createdDate_dt>2019-09-13T05:35:51.247Z</createdDate_dt>
+	<lastModifiedDate>2019-09-13T05:35:51.247Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-13T05:35:51.247Z</lastModifiedDate_dt>
+</component>
