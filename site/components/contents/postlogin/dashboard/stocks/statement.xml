@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/postloginstockstatement</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9669</objectGroupId>
+	<objectId>96692d47-c045-1012-f03f-570dc086c539</objectId>
+	<file-name>statement.xml</file-name>
+	<folder-name/>
+	<internal-name>Statement</internal-name>
+	<account_statement_label>Account statement</account_statement_label>
+	<holding_statement_label>Holding statement</holding_statement_label>
+	<capital_gain_statement_label>Capital gain statement</capital_gain_statement_label>
+	<completed_transacrions_label>Completed transacrions</completed_transacrions_label>
+	<favourites_label>Favourites</favourites_label>
+	<learn_about_investing_in_stocks_label>Learn about investing in stocks</learn_about_investing_in_stocks_label>
+	<createdDate>2019-09-13T07:22:42.024Z</createdDate>
+	<createdDate_dt>2019-09-13T07:22:42.024Z</createdDate_dt>
+	<lastModifiedDate>2019-09-13T07:22:42.024Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-13T07:22:42.024Z</lastModifiedDate_dt>
+</component>
