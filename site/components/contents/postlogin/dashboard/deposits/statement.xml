@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/postlogindepositstatement</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>dcdd</objectGroupId>
+	<objectId>dcdda71e-fb0e-b962-563d-5a8cf09fa847</objectId>
+	<internal-name>Statement</internal-name>
+	<deposit_reports_heading>Deposit reports</deposit_reports_heading>
+	<account_statement_label>Deposit invoices</account_statement_label>
+	<holding_statement_label>TDS certificates</holding_statement_label>
+	<capital_gain_statement_label>Form 15GH</capital_gain_statement_label>
+	<learn_about_investing_in_stocks_label>Learn about investing in stocks</learn_about_investing_in_stocks_label>
+	<file-name>statement.xml</file-name>
+	<folder-name/>
+	<createdDate>2019-09-13T07:28:10.768Z</createdDate>
+	<createdDate_dt>2019-09-13T07:28:10.768Z</createdDate_dt>
+	<lastModifiedDate>2019-09-13T07:28:10.768Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-13T07:28:10.768Z</lastModifiedDate_dt>
+</component>
