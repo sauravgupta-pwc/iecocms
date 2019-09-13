@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/statement</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>79ab</objectGroupId>
+	<objectId>79abc70c-2d29-3595-ceb4-3722cd920267</objectId>
+	<internal-name>Postlogin Overall Statement</internal-name>
+	<top_holdings_label>Top holdings</top_holdings_label>
+	<account_statement_label>Account statement</account_statement_label>
+	<holding_statement_label>Holding statement</holding_statement_label>
+	<capital_gain_statement_label>Capital gain statement</capital_gain_statement_label>
+	<file-name>postlogin_overall_statement.xml</file-name>
+	<folder-name/>
+	<createdDate>2019-09-13T04:53:07.689Z</createdDate>
+	<createdDate_dt>2019-09-13T04:53:07.689Z</createdDate_dt>
+	<lastModifiedDate>2019-09-13T04:53:07.689Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-13T04:53:07.689Z</lastModifiedDate_dt>
+</component>
