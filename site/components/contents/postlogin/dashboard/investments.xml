@@ -5,13 +5,29 @@
 	<objectGroupId>3d7d</objectGroupId>
 	<objectId>3d7dec61-25c6-eda1-e7b5-7b89fa407309</objectId>
 	<internal-name>Investments</internal-name>
-	<image>q</image>
-	<heading>q</heading>
-	<description>q</description>
 	<file-name>investments.xml</file-name>
 	<folder-name/>
 	<createdDate>2019-09-13T05:06:20.195Z</createdDate>
 	<createdDate_dt>2019-09-13T05:06:20.195Z</createdDate_dt>
-	<lastModifiedDate>2019-09-13T05:06:20.195Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-09-13T05:06:20.195Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-09-13T05:07:59.572Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-13T05:07:59.572Z</lastModifiedDate_dt>
+	<array_of_fields item-list="true">	<item>	<image/>
+	<heading>Mutual funds</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</description>
+	</item>	<item>	<image/>
+	<heading>Stocks</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</description>
+	</item>	<item>	<image/>
+	<heading>Deposits</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</description>
+	</item>	<item>	<image/>
+	<heading>Savings Account</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</description>
+	</item>	<item>	<image/>
+	<heading>CAS Upload</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</description>
+	</item>	<item>	<image/>
+	<heading>Save Tax</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</description>
+	</item></array_of_fields>
 </component>
