@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/postloginmfstatement</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cf58</objectGroupId>
+	<objectId>cf58da71-16fb-e991-61c9-c70b4a92ec8e</objectId>
+	<internal-name>Statement</internal-name>
+	<account_statement_label>Account statement</account_statement_label>
+	<elss_statement_label>ELSS statement</elss_statement_label>
+	<holding_statement_label>Holding statement</holding_statement_label>
+	<capital_gain_statement_label>Capital gain statement</capital_gain_statement_label>
+	<switch_funds_label>switch funds</switch_funds_label>
+	<systematic_transfer_plan_label>systematic transfer plan (STP)</systematic_transfer_plan_label>
+	<systematic_withdrawal_plan_label>systematic withdrawal plan (SWP)</systematic_withdrawal_plan_label>
+	<favourites_label>Favourites</favourites_label>
+	<learn_about_investing_in_mutual_funds_label>Learn about investing in mutual funds</learn_about_investing_in_mutual_funds_label>
+	<file-name>statement.xml</file-name>
+	<folder-name/>
+	<createdDate>2019-09-13T07:18:45.128Z</createdDate>
+	<createdDate_dt>2019-09-13T07:18:45.128Z</createdDate_dt>
+	<lastModifiedDate>2019-09-13T07:18:45.128Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-13T07:18:45.128Z</lastModifiedDate_dt>
+</component>
