@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/postloginmfcommon</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0eff</objectGroupId>
+	<objectId>0effc892-9d9b-1741-11e7-24fb71762ea2</objectId>
+	<internal-name>common</internal-name>
+	<intro_image_icon/>
+	<one_day_gain_loss_label>1-day gain/loss</one_day_gain_loss_label>
+	<total_gain_loss_label>Total gain/loss</total_gain_loss_label>
+	<absolute_return_label>Absolute returns</absolute_return_label>
+	<inv_performance_label>Performance</inv_performance_label>
+	<overall_performance_label>Your overall performance</overall_performance_label>
+	<benchmark_performance_label>Benchmark performance</benchmark_performance_label>
+	<inv_distribution_label>Investment Distributions</inv_distribution_label>
+	<buy_Mutual_Funds_icon_img/>
+	<buy_Mutual_funds_action_label>Buy Mutual Funds</buy_Mutual_funds_action_label>
+	<two_active_SIP_icon_img/>
+	<two_active_SIP_heading>2 active SIP</two_active_SIP_heading>
+	<your_Mutual_Funds_label>Your Mutual Funds</your_Mutual_Funds_label>
+	<see_all_your_mutual_funds_action_label>See all your mutual funds label</see_all_your_mutual_funds_action_label>
+	<intro_desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</intro_desc>
+	<inv_distribution_desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</inv_distribution_desc>
+	<file-name>common.xml</file-name>
+	<folder-name/>
+	<createdDate>2019-09-13T09:15:05.974Z</createdDate>
+	<createdDate_dt>2019-09-13T09:15:05.974Z</createdDate_dt>
+	<lastModifiedDate>2019-09-13T09:15:05.974Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-13T09:15:05.974Z</lastModifiedDate_dt>
+</component>
