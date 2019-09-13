@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/postloginstockscommon</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6a35</objectGroupId>
+	<objectId>6a35d794-986a-94dd-0579-5769e1987f92</objectId>
+	<intro_desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</intro_desc>
+	<categories_description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</categories_description>
+	<sectors_description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</sectors_description>
+	<file-name>common.xml</file-name>
+	<folder-name/>
+	<internal-name>common</internal-name>
+	<intro_image_icon/>
+	<todays_gain_loss_label>Today's gain/loss</todays_gain_loss_label>
+	<total_gain_loss_label>Total gain/loss</total_gain_loss_label>
+	<absolute_return_label>Absolute returns</absolute_return_label>
+	<inv_performance_label>Performance</inv_performance_label>
+	<overall_performance_label>Your overall performance</overall_performance_label>
+	<benchmark_performance_label>Benchmark performance</benchmark_performance_label>
+	<categories_action_label>Categories</categories_action_label>
+	<sectors_action_label>Sectors</sectors_action_label>
+	<large_cap_label>Large Cap</large_cap_label>
+	<mid_cap_label>Mid Cap</mid_cap_label>
+	<small_cap_label>Small Cap</small_cap_label>
+	<buy_Stocks_icon_img/>
+	<buy_Stocks_action_label>Buy Stocks</buy_Stocks_action_label>
+	<positions_icon_img/>
+	<positions_heading>Positions</positions_heading>
+	<two_stock_baskets_icon_img/>
+	<two_stock_baskets_description>2 stock baskets</two_stock_baskets_description>
+	<equity_cash_balance_icon_img/>
+	<equity_cash_balance_description>Equity cash balance</equity_cash_balance_description>
+	<equity_cash_balance_actipon_label>Add</equity_cash_balance_actipon_label>
+	<your_stocks_label>Your Stocks</your_stocks_label>
+	<see_all_your_stocks_action_label>See all your stocks</see_all_your_stocks_action_label>
+	<createdDate>2019-09-13T09:48:11.840Z</createdDate>
+	<createdDate_dt>2019-09-13T09:48:11.840Z</createdDate_dt>
+	<lastModifiedDate>2019-09-13T09:48:11.840Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-13T09:48:11.840Z</lastModifiedDate_dt>
+</component>
