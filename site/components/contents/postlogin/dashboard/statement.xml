@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/statement</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c40d</objectGroupId>
+	<objectId>c40d658d-f342-753b-c180-91c4885bc8be</objectId>
+	<internal-name>Statement</internal-name>
+	<top_holdings_label>Top holdings</top_holdings_label>
+	<account_statement_label>Account statement</account_statement_label>
+	<holding_statement_label>Holding statement</holding_statement_label>
+	<capital_gain_statement_label>Capital gain statement</capital_gain_statement_label>
+	<file-name>statement.xml</file-name>
+	<folder-name/>
+	<createdDate>2019-09-13T05:12:21.967Z</createdDate>
+	<createdDate_dt>2019-09-13T05:12:21.967Z</createdDate_dt>
+	<lastModifiedDate>2019-09-13T05:12:21.967Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-13T05:12:21.967Z</lastModifiedDate_dt>
+</component>
