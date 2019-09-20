@@ -24,8 +24,8 @@
 	<folder-name/>
 	<createdDate>2019-09-13T06:33:23.223Z</createdDate>
 	<createdDate_dt>2019-09-13T06:33:23.223Z</createdDate_dt>
-	<lastModifiedDate>2019-09-13T06:48:49.740Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-09-13T06:48:49.740Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-09-20T09:06:30.622Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-20T09:06:30.622Z</lastModifiedDate_dt>
 	<overall_portfolio_label>Your overall portfolio</overall_portfolio_label>
 	<one_day_gain_loss_label>1-day gain/loss</one_day_gain_loss_label>
 	<total_gain_loss_label>Total gain/loss</total_gain_loss_label>
@@ -34,7 +34,7 @@
 	<overall_performance_label>Your overall performance</overall_performance_label>
 	<benchmark_performance_label>Benchmark performance</benchmark_performance_label>
 	<inv_distribution_label>Investment Distributions</inv_distribution_label>
-	<ready_to_invest_heading>Get ready to invest</ready_to_invest_heading>
+	<ready_to_invest_heading>Get ready to go places</ready_to_invest_heading>
 	<ready_to_invest_action_label>Resume KYC</ready_to_invest_action_label>
 	<adjust_course_action_label>Rebalance portfolio</adjust_course_action_label>
 	<inv_distribution_desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</inv_distribution_desc>
