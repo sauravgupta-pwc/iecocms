@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f17a</objectGroupId>
+	<objectId>f17a1081-03a6-4b8e-b729-0992f9545f70</objectId>
+	<internal-name>Buy Stocks</internal-name>
+	<heading>Buy Stocks</heading>
+	<file-name>buy-stocks.xml</file-name>
+	<folder-name/>
+	<description>Exact value not provided in wireframes</description>
+	<createdDate>2019-09-23T11:03:13.667Z</createdDate>
+	<createdDate_dt>2019-09-23T11:03:13.667Z</createdDate_dt>
+	<lastModifiedDate>2019-09-23T11:03:13.667Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-23T11:03:13.667Z</lastModifiedDate_dt>
+</component>
