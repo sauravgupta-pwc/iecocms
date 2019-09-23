@@ -8,4 +8,6 @@
 	<previewable>false</previewable>
 	<noThumbnail>true</noThumbnail>
 	<image-thumbnail></image-thumbnail>
+	<paths><includes><pattern>^/components/contents/payment_test/.*</pattern></includes></paths>
+	/components/contents/payment_test/
 </content-type>
