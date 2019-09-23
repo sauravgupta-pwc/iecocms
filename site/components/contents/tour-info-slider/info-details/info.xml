@@ -5,15 +5,25 @@
 	<objectGroupId>de69</objectGroupId>
 	<objectId>de694876-80cf-70e5-bc26-23dd46f0fbcc</objectId>
 	<internal-name>info</internal-name>
-	<heading/>
+	<heading>Stocks</heading>
 	<back/>
-	<skip/>
-	<start/>
-	<next/>
+	<skip>SKIP</skip>
+	<start>START</start>
+	<next>NEXT</next>
 	<file-name>info.xml</file-name>
 	<folder-name/>
 	<createdDate>2019-09-23T12:14:17.807Z</createdDate>
 	<createdDate_dt>2019-09-23T12:14:17.807Z</createdDate_dt>
-	<lastModifiedDate>2019-09-23T12:14:17.807Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-09-23T12:14:17.807Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-09-23T12:14:49.336Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-23T12:14:49.336Z</lastModifiedDate_dt>
+	<information item-list="true">	<item>	<image/>
+	<heading>lorem ipsum</heading>
+	<description>lorem ipsum</description>
+	</item>	<item>	<image/>
+	<heading>lorem ipsum</heading>
+	<description>lorem ipsum</description>
+	</item>	<item>	<image/>
+	<heading>lorem ipsum</heading>
+	<description>lorem ipsum</description>
+	</item></information>
 </component>
