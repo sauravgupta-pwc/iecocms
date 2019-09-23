@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e8c0</objectGroupId>
+	<objectId>e8c0cb50-5904-1fd8-3d62-1e9deb6ea9c4</objectId>
+	<file-name>registration-deatils.xml</file-name>
+	<folder-name/>
+	<internal-name>Registration deatils</internal-name>
+	<heading>Registration deatils</heading>
+	<description/>
+	<createdDate>2019-09-23T06:07:02.846Z</createdDate>
+	<createdDate_dt>2019-09-23T06:07:02.846Z</createdDate_dt>
+	<lastModifiedDate>2019-09-23T06:07:02.846Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-23T06:07:02.846Z</lastModifiedDate_dt>
+</component>
