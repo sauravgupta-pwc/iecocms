@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5727</objectGroupId>
+	<objectId>5727ac67-b027-8c3d-fb55-faa669c8072e</objectId>
+	<internal-name>BSE</internal-name>
+	<heading>BSE</heading>
+	<description/>
+	<file-name>bse.xml</file-name>
+	<folder-name/>
+	<createdDate>2019-09-23T05:58:19.432Z</createdDate>
+	<createdDate_dt>2019-09-23T05:58:19.432Z</createdDate_dt>
+	<lastModifiedDate>2019-09-23T05:58:19.432Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-23T05:58:19.432Z</lastModifiedDate_dt>
+</component>
