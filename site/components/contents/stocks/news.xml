@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/news</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9b46</objectGroupId>
+	<objectId>9b46d38e-af94-71a4-07f1-914fec3b563f</objectId>
+	<internal-name>news</internal-name>
+	<file-name>news.xml</file-name>
+	<folder-name/>
+	<news item-list="true">	<item>	<heading>Dues aute irure</heading>
+	<lastmodified>15 Aug 2018, Times of India</lastmodified>
+	<actionroute/>
+	<description>lorem ipsum</description>
+	</item>	<item>	<heading>Sed ut percipitis</heading>
+	<description>lorem ipsum</description>
+	<lastmodified>15 Aug 2018, Times of India</lastmodified>
+	<actionroute/>
+	</item>	<item>	<heading>Neque porro quisquam</heading>
+	<description>lorem ipsum</description>
+	<lastmodified>15 Aug 2018, Times of India</lastmodified>
+	<actionroute/>
+	</item></news>
+	<createdDate>2019-09-23T12:30:03.425Z</createdDate>
+	<createdDate_dt>2019-09-23T12:30:03.425Z</createdDate_dt>
+	<lastModifiedDate>2019-09-23T12:30:03.425Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-23T12:30:03.425Z</lastModifiedDate_dt>
+</component>
