@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/entry</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>12a7</objectGroupId>
+	<objectId>12a7e221-cd5c-e03d-756f-2712f13f9a3a</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>mypage</folder-name>
+	<internal-name>My Page Title</internal-name>
+	<title>Beautiful Page</title>
+	<disabled>false</disabled>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<body>&lt;p&gt;&lt;strong&gt;How good this page looks like&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table&gt;&lt;caption&gt;Delivery Details&lt;/caption&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Package Identifier:&lt;/th&gt;
+&lt;td&gt;ksdflskdfjlsfjs&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Expiration:&lt;/th&gt;
+&lt;td&gt;7 October, 2019 11:52:34 AM CEST&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</body>
+	<createdDate>2019-09-23T10:30:29.427Z</createdDate>
+	<createdDate_dt>2019-09-23T10:30:29.427Z</createdDate_dt>
+	<lastModifiedDate>2019-09-23T10:30:29.427Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-23T10:30:29.427Z</lastModifiedDate_dt>
+</page>
