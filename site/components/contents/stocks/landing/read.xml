@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>46f5</objectGroupId>
+	<objectId>46f560c0-482b-316b-4866-5ee183855366</objectId>
+	<internal-name>Read</internal-name>
+	<heading>Read</heading>
+	<description/>
+	<file-name>read.xml</file-name>
+	<folder-name/>
+	<createdDate>2019-09-23T06:06:28.570Z</createdDate>
+	<createdDate_dt>2019-09-23T06:06:28.570Z</createdDate_dt>
+	<lastModifiedDate>2019-09-23T06:06:28.570Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-23T06:06:28.570Z</lastModifiedDate_dt>
+</component>
