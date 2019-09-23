@@ -8,9 +8,5 @@
 	<previewable>false</previewable>
 	<noThumbnail>true</noThumbnail>
 	<image-thumbnail></image-thumbnail>
-	<paths>
-		<includes>
-			<pattern>^/components/contents/payment_test/.*</pattern>
-		</includes>
-	</paths>
+	
 </content-type>
