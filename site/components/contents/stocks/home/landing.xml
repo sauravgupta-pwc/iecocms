@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/stocklanding</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>18a8</objectGroupId>
+	<objectId>18a81400-4259-b091-ec24-cc52966e3139</objectId>
+	<internal-name>landing</internal-name>
+	<heading>Buy Stocks</heading>
+	<search>Search stocks</search>
+	<description>lorem ipsum</description>
+	<file-name>landing.xml</file-name>
+	<folder-name/>
+	<sensex item-list="true">	<item>	<name>BSE</name>
+	</item>	<item>	<name>NSE</name>
+	</item></sensex>
+	<components item-list="true">	<item>	<heading>Stock Basket</heading>
+	<description>lorem ipsum</description>
+	<lastmodified>last changed 15 Aug 2019</lastmodified>
+	<actionroute/>
+	</item>	<item>	<heading>Initial public offering</heading>
+	<description>lorem ipsum</description>
+	<lastmodified>last changed 15 Aug 2019</lastmodified>
+	<actionroute/>
+	</item>	<item>	<heading>Exchange traded funds</heading>
+	<description>lorem ipsum</description>
+	<lastmodified/>
+	<actionroute/>
+	</item></components>
+	<createdDate>2019-09-23T12:33:50.190Z</createdDate>
+	<createdDate_dt>2019-09-23T12:33:50.190Z</createdDate_dt>
+	<lastModifiedDate>2019-09-23T12:33:50.190Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-23T12:33:50.190Z</lastModifiedDate_dt>
+</component>
