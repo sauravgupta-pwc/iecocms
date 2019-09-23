@@ -9,14 +9,14 @@
 	<heading>What you can expect from us</heading>
 	<file-name>expect_from_us.xml</file-name>
 	<folder-name/>
-	<subComp item-list="true">	<item>	<heading>Simplicity</heading>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
-	<action_label>sample text</action_label>
-	<action_route>sample text</action_route>
-	</item>	<item>	<heading>Knowledge</heading>
+	<subComp item-list="true">	<item>	<heading>Knowledge</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
 	<action_label/>
 	<action_route/>
+	</item>	<item>	<heading>Simplicity</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<action_label>sample text</action_label>
+	<action_route>sample text</action_route>
 	</item>	<item>	<heading>Transparency</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
 	<action_label/>
@@ -28,6 +28,6 @@
 	</item></subComp>
 	<createdDate>2019-08-20T20:14:03.909Z</createdDate>
 	<createdDate_dt>2019-08-20T20:14:03.909Z</createdDate_dt>
-	<lastModifiedDate>2019-09-23T10:16:09.457Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-09-23T10:16:09.457Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-09-23T10:53:02.160Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-23T10:53:02.160Z</lastModifiedDate_dt>
 </component>
