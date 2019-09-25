@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/kseccommon</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>350f</objectGroupId>
+	<objectId>350f5d58-a38a-a467-e21a-6b9019c66c34</objectId>
+	<internal-name>common</internal-name>
+	<heading>Enter OTP</heading>
+	<forgot>Forgot OTP</forgot>
+	<ksec_register/>
+	<ksec_register_action/>
+	<description>We have sent an OTP to your registered mobile number and email</description>
+	<file-name>common.xml</file-name>
+	<folder-name/>
+	<createdDate>2019-09-25T12:00:11.418Z</createdDate>
+	<createdDate_dt>2019-09-25T12:00:11.418Z</createdDate_dt>
+	<lastModifiedDate>2019-09-25T12:00:11.418Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-25T12:00:11.418Z</lastModifiedDate_dt>
+</component>
