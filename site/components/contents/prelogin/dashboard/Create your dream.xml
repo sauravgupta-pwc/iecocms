@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/tourinfo</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6ba5</objectGroupId>
+	<objectId>6ba5cbf6-66f8-7114-3eaa-586c0a966e31</objectId>
+	<internal-name>Create your dream</internal-name>
+	<heading>sample header</heading>
+	<back>BACK</back>
+	<skip>SKIP</skip>
+	<start>START</start>
+	<next>NEXT</next>
+	<file-name>Create your dream.xml</file-name>
+	<folder-name/>
+	<information item-list="true">	<item>	<image>Path/to/ImageFile</image>
+	<heading>sample Heading</heading>
+	<description>sample description</description>
+	</item></information>
+	<createdDate>2019-09-30T11:19:39.302Z</createdDate>
+	<createdDate_dt>2019-09-30T11:19:39.302Z</createdDate_dt>
+	<lastModifiedDate>2019-09-30T11:19:39.302Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-30T11:19:39.302Z</lastModifiedDate_dt>
+</component>
