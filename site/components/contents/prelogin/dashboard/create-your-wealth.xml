@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/tourinfo</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2adf</objectGroupId>
+	<objectId>2adff2fd-df2c-4e32-6f61-c1d0e325c63a</objectId>
+	<file-name>create-your-wealth.xml</file-name>
+	<folder-name/>
+	<internal-name>Create your wealth</internal-name>
+	<heading>sample heading</heading>
+	<back>BACK</back>
+	<skip>SKIP</skip>
+	<start>START</start>
+	<next>NEXT</next>
+	<information item-list="true">	<item>	<image>Path/to/imageFile</image>
+	<heading>sample heading</heading>
+	<description>sample description</description>
+	</item></information>
+	<createdDate>2019-09-30T11:21:27.337Z</createdDate>
+	<createdDate_dt>2019-09-30T11:21:27.337Z</createdDate_dt>
+	<lastModifiedDate>2019-09-30T11:21:27.337Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-30T11:21:27.337Z</lastModifiedDate_dt>
+</component>
