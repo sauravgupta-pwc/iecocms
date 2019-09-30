@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/tourinfo</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7563</objectGroupId>
+	<objectId>7563be1c-2bf7-12fc-1110-17c3620ca4bd</objectId>
+	<internal-name>Mutual funds</internal-name>
+	<heading>sample heading</heading>
+	<back>BACK</back>
+	<skip>SKIP</skip>
+	<start>START</start>
+	<next>NEXT</next>
+	<file-name>mutual-funds.xml</file-name>
+	<folder-name/>
+	<information item-list="true">	<item>	<image>Path/to/imageFile</image>
+	<heading>sample heading</heading>
+	<description>sample description</description>
+	</item></information>
+	<createdDate>2019-09-30T11:23:10.365Z</createdDate>
+	<createdDate_dt>2019-09-30T11:23:10.365Z</createdDate_dt>
+	<lastModifiedDate>2019-09-30T11:23:10.365Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-09-30T11:23:10.365Z</lastModifiedDate_dt>
+</component>
