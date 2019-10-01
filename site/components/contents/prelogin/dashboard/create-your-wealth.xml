@@ -7,7 +7,7 @@
 	<file-name>create-your-wealth.xml</file-name>
 	<folder-name/>
 	<internal-name>Create your wealth</internal-name>
-	<heading>sample heading</heading>
+	<heading>Create your wealth</heading>
 	<back>BACK</back>
 	<skip>SKIP</skip>
 	<start>START</start>
@@ -15,9 +15,15 @@
 	<information item-list="true">	<item>	<image>Path/to/imageFile</image>
 	<heading>sample heading</heading>
 	<description>sample description</description>
+	</item>	<item>	<image>Path/to/imageFile</image>
+	<heading>sample heading</heading>
+	<description>sample description</description>
+	</item>	<item>	<image>Path/to/imageFile</image>
+	<heading>sample heading</heading>
+	<description>sample description</description>
 	</item></information>
 	<createdDate>2019-09-30T11:21:27.337Z</createdDate>
 	<createdDate_dt>2019-09-30T11:21:27.337Z</createdDate_dt>
-	<lastModifiedDate>2019-09-30T11:21:27.337Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-09-30T11:21:27.337Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-10-01T06:33:18.798Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-01T06:33:18.798Z</lastModifiedDate_dt>
 </component>
