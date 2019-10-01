@@ -5,7 +5,7 @@
 	<objectGroupId>7e25</objectGroupId>
 	<objectId>7e25741a-575e-e730-6d0c-5962fd5e1d35</objectId>
 	<internal-name>Deposits</internal-name>
-	<heading>sample heading</heading>
+	<heading>Deposits</heading>
 	<back>BACK</back>
 	<skip>SKIP</skip>
 	<start>START</start>
@@ -15,9 +15,15 @@
 	<information item-list="true">	<item>	<image>Path/to/imageFile</image>
 	<heading>sample heading</heading>
 	<description>sample description</description>
+	</item>	<item>	<image>Path/to/imageFile</image>
+	<heading>sample heading</heading>
+	<description>sample description</description>
+	</item>	<item>	<image>Path/to/imageFile</image>
+	<heading>sample heading</heading>
+	<description>sample description</description>
 	</item></information>
 	<createdDate>2019-09-30T11:29:15.477Z</createdDate>
 	<createdDate_dt>2019-09-30T11:29:15.477Z</createdDate_dt>
-	<lastModifiedDate>2019-09-30T11:29:15.477Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-09-30T11:29:15.477Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-10-01T06:36:33.027Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-01T06:36:33.027Z</lastModifiedDate_dt>
 </component>
