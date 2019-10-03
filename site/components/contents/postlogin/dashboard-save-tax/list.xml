@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/postloginsubcomp</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b9e7</objectGroupId>
+	<objectId>b9e75f17-2827-21d7-b168-ca16fa693a85</objectId>
+	<file-name>list.xml</file-name>
+	<folder-name/>
+	<internal-name>Save Tax List</internal-name>
+	<array_of_fields item-list="true">	<item>	<image/>
+	<heading>Tax-saving mutual funds (ELSS)</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</description>
+	</item>	<item>	<image/>
+	<heading>Tax-saving deposits</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</description>
+	</item>	<item>	<image/>
+	<heading>National pension scheme (NPS)</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</description>
+	</item>	<item>	<image/>
+	<heading>CPSE ETF</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</description>
+	</item></array_of_fields>
+	<createdDate>2019-10-03T12:58:22.488Z</createdDate>
+	<createdDate_dt>2019-10-03T12:58:22.488Z</createdDate_dt>
+	<lastModifiedDate>2019-10-03T12:58:22.488Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-03T12:58:22.488Z</lastModifiedDate_dt>
+</component>
