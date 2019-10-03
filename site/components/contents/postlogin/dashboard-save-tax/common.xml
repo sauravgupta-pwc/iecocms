@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5d99</objectGroupId>
+	<objectId>5d9990b4-7531-3303-c533-1655375d290e</objectId>
+	<internal-name>common</internal-name>
+	<heading>Save tax</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</description>
+	<file-name>common.xml</file-name>
+	<folder-name/>
+	<createdDate>2019-10-03T12:42:40.072Z</createdDate>
+	<createdDate_dt>2019-10-03T12:42:40.072Z</createdDate_dt>
+	<lastModifiedDate>2019-10-03T12:42:40.072Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-03T12:42:40.072Z</lastModifiedDate_dt>
+</component>
