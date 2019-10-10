@@ -4,13 +4,13 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>d9ce</objectGroupId>
 	<objectId>d9ce77b4-2de4-3537-93db-425e161f7e47</objectId>
-	<file-name>retrieve_registered_email.xml</file-name>
+	<file-name>retrieve-registered-email.xml</file-name>
 	<folder-name/>
 	<internal-name>Retrieve Registered Email</internal-name>
 	<heading>Retrieve Registered Email</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </description>
 	<createdDate>2019-08-20T20:40:26.979Z</createdDate>
 	<createdDate_dt>2019-08-20T20:40:26.979Z</createdDate_dt>
-	<lastModifiedDate>2019-08-30T07:23:13.300Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-08-30T07:23:13.300Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-10-10T06:43:09.106Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-10T06:43:09.106Z</lastModifiedDate_dt>
 </component>
