@@ -11,9 +11,12 @@
 	<folder-name/>
 	<createdDate>2019-08-20T20:22:15.589Z</createdDate>
 	<createdDate_dt>2019-08-20T20:22:15.589Z</createdDate_dt>
-	<lastModifiedDate>2019-08-30T07:01:04.032Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-08-30T07:01:04.032Z</lastModifiedDate_dt>
-	<attrs item-list="true">	<item>	<key>Agreement</key>
-	<value>You confirm that you are born in India, resident and citizen of India and not a tax resident of any other country than India and do not have any political exposure.</value>
-	</item></attrs>
+	<lastModifiedDate>2019-10-14T07:12:15.332Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-14T07:12:15.332Z</lastModifiedDate_dt>
+	<attrs item-list="true"/>
+	<subComp item-list="true">	<item>	<heading>You agree to the following:</heading>
+	<description>You confirm that you are born in India, resident and citizen of India and not a tax resident of any other country than India and do not have any political exposure.</description>
+	<action_label>You also agree to the terms &amp; conditions</action_label>
+	<action_route>/user/fatca-declaration</action_route>
+	</item></subComp>
 </component>
