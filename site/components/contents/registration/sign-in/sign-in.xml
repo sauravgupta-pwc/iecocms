@@ -11,14 +11,18 @@
 	<heading>Sign in to your account</heading>
 	<createdDate>2019-08-20T20:26:20.590Z</createdDate>
 	<createdDate_dt>2019-08-20T20:26:20.590Z</createdDate_dt>
-	<lastModifiedDate>2019-10-14T10:41:02.503Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-10-14T10:41:02.503Z</lastModifiedDate_dt>
-	<footer>Forgot?</footer>
+	<lastModifiedDate>2019-10-14T10:44:54.741Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-14T10:44:54.741Z</lastModifiedDate_dt>
+	<footer>Sign in</footer>
 	<subComp item-list="true">	<item>	<heading>Don’t have an account?</heading>
 	<description/>
 	<action_label>Register</action_label>
 	<action_route>/Link/Register/Page</action_route>
+	</item>	<item>	<heading/>
+	<description/>
+	<action_label/>
+	<action_route/>
 	</item></subComp>
-	<footer_elements item-list="true">	<item>	<label>/Link/Forgot/Password/Page</label>
+	<footer_elements item-list="true">	<item>	<label>/Link/Sign-in/Page</label>
 	</item></footer_elements>
 </component>
