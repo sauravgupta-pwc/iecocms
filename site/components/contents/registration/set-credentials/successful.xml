@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c007</objectGroupId>
+	<objectId>c0079e21-00f5-5f0b-dbee-eac7e746c9b0</objectId>
+	<description>You can sign in using your email and the password you had just set. Let’s sign in to your account now and continue.</description>
+	<internal-name>Successful</internal-name>
+	<heading>Registration successful</heading>
+	<action_label>Proceed</action_label>
+	<action_route/>
+	<file-name>successful.xml</file-name>
+	<folder-name/>
+	<createdDate>2019-10-14T10:12:50.869Z</createdDate>
+	<createdDate_dt>2019-10-14T10:12:50.869Z</createdDate_dt>
+	<lastModifiedDate>2019-10-14T10:12:50.869Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-14T10:12:50.869Z</lastModifiedDate_dt>
+</component>
