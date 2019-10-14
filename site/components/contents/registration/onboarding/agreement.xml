@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/regonboard</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6408</objectGroupId>
+	<objectId>640880da-1cba-f72a-6985-d49e96b012a2</objectId>
+	<internal-name>Agreement</internal-name>
+	<heading>You agree to the following:</heading>
+	<footer_label>You also agree to the terms &amp; conditions</footer_label>
+	<footer_action>/user/fatca-declaration</footer_action>
+	<file-name>agreement.xml</file-name>
+	<folder-name/>
+	<array item-list="true">	<item>	<elements>You confirm that you are born in India, resident and citizen of India and not a tax resident of any other country than India and do not have any political exposure.</elements>
+	</item></array>
+	<createdDate>2019-10-14T08:03:21.247Z</createdDate>
+	<createdDate_dt>2019-10-14T08:03:21.247Z</createdDate_dt>
+	<lastModifiedDate>2019-10-14T08:03:21.247Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-14T08:03:21.247Z</lastModifiedDate_dt>
+</component>
