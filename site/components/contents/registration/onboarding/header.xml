@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>aa03</objectGroupId>
+	<objectId>aa030cc5-c7f6-5dbc-0435-135607b81b90</objectId>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<internal-name>Header</internal-name>
+	<heading>Let’s get you on board</heading>
+	<file-name>header.xml</file-name>
+	<folder-name/>
+	<subComp item-list="true">	<item>	<heading>Already have an account?</heading>
+	<description/>
+	<action_label>Sign in</action_label>
+	<action_route> /user/login</action_route>
+	</item></subComp>
+	<createdDate>2019-10-14T07:42:06.993Z</createdDate>
+	<createdDate_dt>2019-10-14T07:42:06.993Z</createdDate_dt>
+	<lastModifiedDate>2019-10-14T07:42:06.993Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-14T07:42:06.993Z</lastModifiedDate_dt>
+</component>
