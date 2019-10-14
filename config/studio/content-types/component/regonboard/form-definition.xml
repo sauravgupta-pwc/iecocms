@@ -86,29 +86,6 @@
 			<defaultOpen>false</defaultOpen>
 			<fields>
 				<field>
-					<type>checkbox</type>
-					<id>confirm</id>
-					<iceId></iceId>
-					<title>confirm</title>
-					<description></description>
-					<defaultValue></defaultValue>
-					<help></help>
-					<properties>
-						<property>
-							<name>readonly</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-					</properties>
-					<constraints>
-						<constraint>
-							<name>required</name>
-							<value><![CDATA[]]></value>
-							<type>boolean</type>
-						</constraint>
-					</constraints>
-				</field>
-				<field>
 					<type>input</type>
 					<id>heading</id>
 					<iceId></iceId>
@@ -219,9 +196,9 @@
 				</field>
 				<field>
 					<type>input</type>
-					<id>label</id>
+					<id>footer_label</id>
 					<iceId></iceId>
-					<title>label</title>
+					<title>footer_label</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -262,9 +239,9 @@
 				</field>
 				<field>
 					<type>input</type>
-					<id>action</id>
+					<id>footer_action</id>
 					<iceId></iceId>
-					<title>action</title>
+					<title>footer_action</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
