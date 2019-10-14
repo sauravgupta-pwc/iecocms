@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a2a8</objectGroupId>
+	<objectId>a2a82e9a-eacc-82c3-cc87-86e7185e620d</objectId>
+	<description>You entered incorrect credentials multiple times.
+
+
+Please wait for 12 hours OR reset your password</description>
+	<internal-name>Blocked</internal-name>
+	<heading>You have been blocked</heading>
+	<footer>Done</footer>
+	<file-name>blocked.xml</file-name>
+	<folder-name/>
+	<subComp item-list="true">	<item>	<heading/>
+	<description/>
+	<action_label>Reset password</action_label>
+	<action_route>/link/to/reset/password</action_route>
+	</item></subComp>
+	<footer_elements item-list="true">	<item>	<label>/link/to/next/Page</label>
+	</item></footer_elements>
+	<createdDate>2019-10-14T10:51:21.455Z</createdDate>
+	<createdDate_dt>2019-10-14T10:51:21.455Z</createdDate_dt>
+	<lastModifiedDate>2019-10-14T10:51:21.455Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-14T10:51:21.455Z</lastModifiedDate_dt>
+</component>
