@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3aa8</objectGroupId>
+	<objectId>3aa8c12a-6a0a-75ee-0050-716de7ebb190</objectId>
+	<description>You are not eligible to register with our services.</description>
+	<internal-name>Failure</internal-name>
+	<heading>Sorry</heading>
+	<action_label>Done</action_label>
+	<action_route/>
+	<file-name>failure.xml</file-name>
+	<folder-name/>
+	<createdDate>2019-10-14T10:15:54.510Z</createdDate>
+	<createdDate_dt>2019-10-14T10:15:54.510Z</createdDate_dt>
+	<lastModifiedDate>2019-10-14T10:15:54.510Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-14T10:15:54.510Z</lastModifiedDate_dt>
+</component>
