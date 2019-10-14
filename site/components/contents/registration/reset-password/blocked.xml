@@ -4,7 +4,7 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>a2a8</objectGroupId>
 	<objectId>a2a82e9a-eacc-82c3-cc87-86e7185e620d</objectId>
-	<description>&lt;p&gt;You entered incorrect credentials multiple times.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Please wait for 12 hours OR reset your password&lt;/p&gt;</description>
+	<description>You entered incorrect credentials multiple times.&lt;br&gt;&lt;br&gt;Please wait for 12 hours OR reset your password</description>
 	<internal-name>Blocked</internal-name>
 	<heading>You have been blocked</heading>
 	<footer>Done</footer>
@@ -19,6 +19,6 @@
 	</item></footer_elements>
 	<createdDate>2019-10-14T10:51:21.455Z</createdDate>
 	<createdDate_dt>2019-10-14T10:51:21.455Z</createdDate_dt>
-	<lastModifiedDate>2019-10-14T13:59:15.152Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-10-14T13:59:15.152Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-10-14T14:03:22.616Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-14T14:03:22.616Z</lastModifiedDate_dt>
 </component>
