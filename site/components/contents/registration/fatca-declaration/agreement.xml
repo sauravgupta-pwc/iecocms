@@ -5,7 +5,7 @@
 	<objectGroupId>6408</objectGroupId>
 	<objectId>640880da-1cba-f72a-6985-d49e96b012a2</objectId>
 	<internal-name>Agreement</internal-name>
-	<heading>Terms and conditions</heading>
+	<heading>You agree to the following:</heading>
 	<footer_label>You also agree to the terms &amp; conditions</footer_label>
 	<footer_action>/user/fatca-declaration</footer_action>
 	<file-name>agreement.xml</file-name>
@@ -14,7 +14,7 @@
 	</item></array>
 	<createdDate>2019-10-14T08:03:21.247Z</createdDate>
 	<createdDate_dt>2019-10-14T08:03:21.247Z</createdDate_dt>
-	<lastModifiedDate>2019-10-21T18:44:24.221Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-10-21T18:44:24.221Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-10-21T18:49:18.733Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-21T18:49:18.733Z</lastModifiedDate_dt>
 	<description/>
 </component>
