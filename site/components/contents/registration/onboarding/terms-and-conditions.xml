@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
-	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<savedAsDraft>true</savedAsDraft>	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>e26c</objectGroupId>
 	<objectId>e26c8ea9-6b4a-4593-dd51-485c5a37e9e9</objectId>
@@ -12,7 +12,7 @@
 	<folder-name/>
 	<createdDate>2019-10-14T13:09:17.742Z</createdDate>
 	<createdDate_dt>2019-10-14T13:09:17.742Z</createdDate_dt>
-	<lastModifiedDate>2019-10-22T07:34:56.952Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-10-22T07:34:56.952Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-10-22T10:55:48.012Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-10-22T10:55:48.012Z</lastModifiedDate_dt>
 	<attrs item-list="true"/>
 </component>
