@@ -5,4 +5,4 @@ if(item!=null)
     return item.getDom();
 return ["err_code":"404","err_message":"Mentioned page not found"];*/
 
-return ${params};
+return ${params.site};
