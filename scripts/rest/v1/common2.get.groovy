@@ -1,1 +1,1 @@
-return ${params.site};
+return "test";
