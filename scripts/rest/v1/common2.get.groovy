@@ -1,1 +1,1 @@
-return "test";
+return siteItemService.getSiteItem("/site/components/contents${params.site}");
