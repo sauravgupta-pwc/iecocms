@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/regonboard</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b9dc</objectGroupId>
+	<objectId>b9dc6de0-995d-811c-ebd5-54445eb3c0e9</objectId>
+	<internal-name>otp2</internal-name>
+	<heading>Confirm OTP resend</heading>
+	<footer_label>Resend</footer_label>
+	<footer_action>/Path/to/resend</footer_action>
+	<description>2 more attempts remaining. First check if the contact details you entered are correct.</description>
+	<file-name>otp2.xml</file-name>
+	<folder-name/>
+	<createdDate>2019-11-06T10:22:41.217Z</createdDate>
+	<createdDate_dt>2019-11-06T10:22:41.217Z</createdDate_dt>
+	<lastModifiedDate>2019-11-06T10:22:41.217Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-06T10:22:41.217Z</lastModifiedDate_dt>
+</component>
