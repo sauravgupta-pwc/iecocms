@@ -6,13 +6,13 @@
 	<objectId>b9dc6de0-995d-811c-ebd5-54445eb3c0e9</objectId>
 	<internal-name>OTP 2</internal-name>
 	<heading>Confirm OTP resend</heading>
-	<footer_label>Resend</footer_label>
+	<footer_label/>
 	<footer_action/>
 	<description>2 more attempts remaining. First check if the contact details you entered are correct.</description>
 	<file-name>otp2.xml</file-name>
 	<folder-name/>
 	<createdDate>2019-11-06T10:22:41.217Z</createdDate>
 	<createdDate_dt>2019-11-06T10:22:41.217Z</createdDate_dt>
-	<lastModifiedDate>2019-11-06T11:01:18.172Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-06T11:01:18.172Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-06T11:03:15.349Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-06T11:03:15.349Z</lastModifiedDate_dt>
 </component>
