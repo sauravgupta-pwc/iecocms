@@ -4,7 +4,7 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>b9dc</objectGroupId>
 	<objectId>b9dc6de0-995d-811c-ebd5-54445eb3c0e9</objectId>
-	<internal-name>OTP 2</internal-name>
+	<internal-name>OTP Resend</internal-name>
 	<heading>Confirm OTP resend</heading>
 	<footer_label/>
 	<footer_action/>
@@ -13,6 +13,6 @@
 	<folder-name/>
 	<createdDate>2019-11-06T10:22:41.217Z</createdDate>
 	<createdDate_dt>2019-11-06T10:22:41.217Z</createdDate_dt>
-	<lastModifiedDate>2019-11-06T12:36:28.672Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-06T12:36:28.672Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-06T12:37:07.611Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-06T12:37:07.611Z</lastModifiedDate_dt>
 </component>
