@@ -5,14 +5,14 @@
 	<objectGroupId>9790</objectGroupId>
 	<objectId>9790a869-3ef6-2287-ded2-2c58b88fa5bc</objectId>
 	<description>We have sent an OTP to</description>
-	<internal-name>OTP</internal-name>
+	<internal-name>OTP - Mobile</internal-name>
 	<heading>Enter mobile OTP</heading>
 	<footer_label>Next</footer_label>
-	<footer_action>/Path/to/next/page</footer_action>
+	<footer_action/>
 	<file-name>otp.xml</file-name>
 	<folder-name/>
 	<createdDate>2019-11-06T10:20:25.990Z</createdDate>
 	<createdDate_dt>2019-11-06T10:20:25.990Z</createdDate_dt>
-	<lastModifiedDate>2019-11-06T10:48:04.582Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-06T10:48:04.582Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-06T10:56:46.907Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-06T10:56:46.907Z</lastModifiedDate_dt>
 </component>
