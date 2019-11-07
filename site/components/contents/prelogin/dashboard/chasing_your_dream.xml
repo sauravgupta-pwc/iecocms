@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent4</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>90d1</objectGroupId>
+	<objectId>90d13b20-8d46-0421-4902-611d59783070</objectId>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<internal-name>Chasing Your Dream</internal-name>
+	<heading>Chasing a dream ?</heading>
+	<action_label>Learn more</action_label>
+	<action_route>sample text</action_route>
+	<file-name>chasing_your_dream.xml</file-name>
+	<folder-name/>
+	<subComp item-list="true">	<item>	<heading>Vacation in Bali</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<amount>50,000</amount>
+	<action_label>Live it in April 2020</action_label>
+	<action-route>sample text</action-route>
+	<action_date>07/11/2019</action_date>
+	<id>1</id>
+	<goal_type_id>1</goal_type_id>
+	<image/>
+	</item>	<item>	<heading>IPL'20 season ticket</heading>
+	<image/>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<amount>30,000</amount>
+	<action_label>Live it in April 2020</action_label>
+	<action-route>sample text</action-route>
+	<action_date>07/11/2019</action_date>
+	<id>2</id>
+	<goal_type_id>1</goal_type_id>
+	</item></subComp>
+	<attrs item-list="true">	<item>	<key>footer_label</key>
+	<value>sample text</value>
+	</item>	<item>	<key>footer_button_label</key>
+	<value>sample text</value>
+	</item>	<item>	<key>footer_action</key>
+	<value>sample text</value>
+	</item></attrs>
+	<createdDate>2019-11-07T12:15:43.880Z</createdDate>
+	<createdDate_dt>2019-11-07T12:15:43.880Z</createdDate_dt>
+	<lastModifiedDate>2019-11-07T12:15:43.880Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-07T12:15:43.880Z</lastModifiedDate_dt>
+</component>
