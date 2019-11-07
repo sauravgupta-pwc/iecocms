@@ -19,6 +19,7 @@
 	<id>1</id>
 	<goal_type_id>2</goal_type_id>
 	<image/>
+	<action_date>07/11/2019</action_date>
 	</item>	<item>	<heading>IPL'20 season ticket</heading>
 	<image/>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
@@ -27,6 +28,7 @@
 	<action-route>sample text</action-route>
 	<id>2</id>
 	<goal_type_id>2</goal_type_id>
+	<action_date>07/11/2019</action_date>
 	</item></subComp>
 	<attrs item-list="true">	<item>	<key>footer_label</key>
 	<value>sample text</value>
@@ -37,6 +39,6 @@
 	</item></attrs>
 	<createdDate>2019-11-07T10:56:50.816Z</createdDate>
 	<createdDate_dt>2019-11-07T10:56:50.816Z</createdDate_dt>
-	<lastModifiedDate>2019-11-07T10:56:50.816Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-07T10:56:50.816Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-07T12:11:57.664Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-07T12:11:57.664Z</lastModifiedDate_dt>
 </component>
