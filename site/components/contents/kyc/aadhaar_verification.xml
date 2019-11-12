@@ -11,6 +11,21 @@
 	<description>For safe trading in financial instruments, we need to verify your details via Aadhaar</description>
 	<createdDate>2019-08-20T20:50:07.985Z</createdDate>
 	<createdDate_dt>2019-08-20T20:50:07.985Z</createdDate_dt>
-	<lastModifiedDate>2019-09-02T11:21:43.462Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-09-02T11:21:43.462Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-12T07:39:09.532Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-12T07:39:09.532Z</lastModifiedDate_dt>
+	<footer/>
+	<subComp item-list="true">	<item>	<heading>Step 1</heading>
+	<description>Visit the Aadhaar (UIDAI) portal.</description>
+	<action_label>Visit portal</action_label>
+	<action_route/>
+	</item>	<item>	<heading>Step 2</heading>
+	<description>Follow the process described there to create your Aadhaar XML file.</description>
+	<action_label>know more</action_label>
+	<action_route/>
+	</item>	<item>	<heading>Step 3</heading>
+	<description>Upload the generated XML file and its “share code” below.</description>
+	<action_label>Upload XML</action_label>
+	<action_route/>
+	</item></subComp>
+	<attrs item-list="true"/>
 </component>
