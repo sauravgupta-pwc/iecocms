@@ -11,9 +11,11 @@
 	<file-name>start-investment.xml</file-name>
 	<folder-name/>
 	<footer_elements item-list="true">	<item>	<label>I hereby give my free consent that I understand Aadhaar Paperless Offline e-kyc is a secure, digitally signed sharable document which I have to generate by accessing UIDAI resident portal and upload it on &lt;entity name&gt; platform for offline verification of my identification without sharing the Aadhaar number.</label>
+	</item>	<item>	<label>The details will contain Name, Address, Photo, Gender, DOB, hash of registered Mobile Number, hash of registered Email Address and reference id which contains last 4 digits of Aadhaar Number followed by time stamp in a digitally signed XML.</label>
+	</item>	<item>	<label>I agree to voluntarily use my Aadhar details for doing full KYC of my &lt;platform name&gt; account as per the above process and authorize &lt;entity name&gt; to fetch my personal details from the Aadhaar Paperless Offline e-kyc details uploaded by me on &lt;platform name&gt; platform to authenticate and verify my profile.</label>
 	</item></footer_elements>
 	<createdDate>2019-11-12T13:03:54.231Z</createdDate>
 	<createdDate_dt>2019-11-12T13:03:54.231Z</createdDate_dt>
-	<lastModifiedDate>2019-11-12T13:03:54.231Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-12T13:03:54.231Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-12T13:09:57.105Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-12T13:09:57.105Z</lastModifiedDate_dt>
 </component>
