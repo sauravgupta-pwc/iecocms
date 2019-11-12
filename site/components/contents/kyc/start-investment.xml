@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ce7b</objectGroupId>
+	<objectId>ce7b4348-aee8-2c36-9c94-0b8c7094419d</objectId>
+	<description>We will complete paperless offline eKYC using Aadhar authentication. Please keep your Aadhar number handy which you have to enter on UIDAI website and your mobile number should be registered with your Aadhar number</description>
+	<internal-name>Start Investment</internal-name>
+	<heading>Let’s get you ready for investment</heading>
+	<footer>I hereby give my free consent that I understand Aadhaar Paperless</footer>
+	<file-name>start-investment.xml</file-name>
+	<folder-name/>
+	<footer_elements item-list="true">	<item>	<label>I hereby give my free consent that I understand Aadhaar Paperless Offline e-kyc is a secure, digitally signed sharable document which I have to generate by accessing UIDAI resident portal and upload it on &lt;entity name&gt; platform for offline verification of my identification without sharing the Aadhaar number.</label>
+	</item></footer_elements>
+	<createdDate>2019-11-12T13:03:54.231Z</createdDate>
+	<createdDate_dt>2019-11-12T13:03:54.231Z</createdDate_dt>
+	<lastModifiedDate>2019-11-12T13:03:54.231Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-12T13:03:54.231Z</lastModifiedDate_dt>
+</component>
