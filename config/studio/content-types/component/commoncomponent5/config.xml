@@ -1,11 +1,11 @@
 <content-type name="/component/commoncomponent5" is-wcm-type="true">
-<label>commonComponent5</label>
-<form>/component/commoncomponent5</form>
-<form-path>simple</form-path>
-<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
-<file-extension>xml</file-extension>
-<content-as-folder>false</content-as-folder>
-<previewable>false</previewable>
-<noThumbnail>true</noThumbnail>
-<image-thumbnail></image-thumbnail>
+	<label>commonComponent5</label>
+	<form>/component/commoncomponent5</form>
+	<form-path>simple</form-path>
+	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
+	<file-extension>xml</file-extension>
+	<content-as-folder>false</content-as-folder>
+	<previewable>false</previewable>
+	<noThumbnail>true</noThumbnail>
+	<image-thumbnail></image-thumbnail>
 </content-type>
