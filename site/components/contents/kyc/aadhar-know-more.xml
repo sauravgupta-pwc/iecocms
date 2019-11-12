@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a3a0</objectGroupId>
+	<objectId>a3a0a217-a9b0-6873-ae26-c2ffa70429bf</objectId>
+	<description>An easy 5 steps to be followed:</description>
+	<internal-name>Aadhar know more</internal-name>
+	<heading>Aadhar Know more</heading>
+	<footer/>
+	<file-name>aadhar-know-more.xml</file-name>
+	<folder-name/>
+	<attrs item-list="true">	<item>	<key>1</key>
+	<value>You will be redirected to UIDAI website. You have to enter your 12 digit Aadhaar number or 16 digit virtual ID and captcha. Once clicked on ‘Send OTP’ you will receive an OTP on your registered mobile number with Aadhaar.</value>
+	</item>	<item>	<key>2</key>
+	<value>You have to enter 6 digit OTP received, the share code which would be the password of your paperless offline eKYC file and click on Download button.</value>
+	</item>	<item>	<key>3</key>
+	<value>On successful submission, the password protected zip file containing your full name, DOB, gender, permanent address, and photo as per your details in Aadhaar will be downloaded from UIDAI website on your laptop/computer/mobile.</value>
+	</item>	<item>	<key>4</key>
+	<value>You have to upload the zip file and enter the same share code on the ‘Fortune’ platform.</value>
+	</item>	<item>	<key>5</key>
+	<value>You will be shown all the information as per your Aadhaar. Once you confirm the details, we will use the same information to open your account on our platform.</value>
+	</item></attrs>
+	<createdDate>2019-11-12T10:45:52.546Z</createdDate>
+	<createdDate_dt>2019-11-12T10:45:52.546Z</createdDate_dt>
+	<lastModifiedDate>2019-11-12T10:45:52.546Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-12T10:45:52.546Z</lastModifiedDate_dt>
+</component>
