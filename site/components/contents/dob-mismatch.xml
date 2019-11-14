@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>435c</objectGroupId>
+	<objectId>435cea68-0675-1820-5e03-d244e8dfcbf1</objectId>
+	<description>Your entered date of birth is different from your official KRA records. Know more</description>
+	<internal-name>DOB Mismatch</internal-name>
+	<heading>Date of birth mismatch</heading>
+	<footer>Please enter your correct date of birth.</footer>
+	<file-name>dob-mismatch.xml</file-name>
+	<folder-name/>
+	<createdDate>2019-11-14T10:56:51.710Z</createdDate>
+	<createdDate_dt>2019-11-14T10:56:51.710Z</createdDate_dt>
+	<lastModifiedDate>2019-11-14T10:56:51.710Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-14T10:56:51.710Z</lastModifiedDate_dt>
+</component>
