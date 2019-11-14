@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent5</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a8cd</objectGroupId>
+	<objectId>a8cd665c-9bef-1e82-62ac-756d3f93b76f</objectId>
+	<internal-name>hdfc</internal-name>
+	<file-name>hdfc.xml</file-name>
+	<folder-name/>
+	<subComp item-list="true">	<item>	<heading>hdfc</heading>
+	<footer/>
+	<description>hdfc bank logo</description>
+	<image/>
+	</item></subComp>
+	<createdDate>2019-11-14T14:02:55.712Z</createdDate>
+	<createdDate_dt>2019-11-14T14:02:55.712Z</createdDate_dt>
+	<lastModifiedDate>2019-11-14T14:02:55.712Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-14T14:02:55.712Z</lastModifiedDate_dt>
+</component>
