@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent5</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0d24</objectGroupId>
+	<objectId>0d2482a8-c514-adc7-9afe-3f9c62b62b3e</objectId>
+	<internal-name>kotak</internal-name>
+	<file-name>kotak.xml</file-name>
+	<folder-name/>
+	<subComp item-list="true">	<item>	<heading>kotak</heading>
+	<footer/>
+	<description>kotak bank logo</description>
+	<image/>
+	</item></subComp>
+	<createdDate>2019-11-14T14:04:21.025Z</createdDate>
+	<createdDate_dt>2019-11-14T14:04:21.025Z</createdDate_dt>
+	<lastModifiedDate>2019-11-14T14:04:21.025Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-14T14:04:21.025Z</lastModifiedDate_dt>
+</component>
