@@ -296,7 +296,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value>/site/static-assets/images/logo/</value>
+							<value>/static-assets/images/logo/</value>
 								<type>undefined</type>
 						</property>
 					</properties>
