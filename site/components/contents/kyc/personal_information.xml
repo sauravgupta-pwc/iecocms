@@ -11,16 +11,17 @@
 	<heading>Personal information</heading>
 	<createdDate>2019-08-20T20:51:27.705Z</createdDate>
 	<createdDate_dt>2019-08-20T20:51:27.705Z</createdDate_dt>
-	<lastModifiedDate>2019-11-15T14:08:02.183Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-15T14:08:02.183Z</lastModifiedDate_dt>
-	<footer>What is maiden name?</footer>
-	<footer_elements item-list="true">	<item>	<label>A maiden name is the surname or birth name a woman has before she marries and takes her husband’s last name.</label>
-	</item></footer_elements>
+	<lastModifiedDate>2019-11-15T14:10:57.747Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-15T14:10:57.747Z</lastModifiedDate_dt>
+	<footer/>
+	<footer_elements item-list="true"/>
 	<attrs item-list="true">	<item>	<key>Transgender</key>
 	<value>Your gender will be stored as ‘transgender’ with us. However, it will be submitted to third-parties as ‘male’ since certain regulatory bodies only support male and female options at the moment. But don’t worry, things will change for the better. Till then —keep slaying it, queen!</value>
 	</item>	<item>	<key>mother’s maiden name</key>
 	<value>Is your mother’s maiden name is same as your mother’s name</value>
 	</item>	<item>	<key>Note</key>
 	<value>Note: Your permanent address will also serve as the correspondence address by default.</value>
+	</item>	<item>	<key>What is maiden name?</key>
+	<value>A maiden name is the surname or birth name a woman has before she marries and takes her husband’s last name.</value>
 	</item></attrs>
 </component>
