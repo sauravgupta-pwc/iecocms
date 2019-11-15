@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commonpopup</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8b95</objectGroupId>
+	<objectId>8b952619-9cbe-b11b-3931-12bca685658a</objectId>
+	<internal-name>personal Information</internal-name>
+	<heading>Personal information</heading>
+	<footer/>
+	<description>Below is all the information fetched as per your Aadhar and PAN. We will use the same information to open your account.</description>
+	<file-name>personal_information.xml</file-name>
+	<folder-name/>
+	<attr item-list="true">	<item>	<key>Transgender</key>
+	<value>Your gender will be stored as ‘transgender’ with us. However, it will be submitted to third-parties as ‘male’ since certain regulatory bodies only support male and female options at the moment. But don’t worry, things will change for the better. Till then —keep slaying it, queen!</value>
+	</item>	<item>	<key>mother’s maiden name</key>
+	<value>Is your mother’s maiden name is same as your mother’s name</value>
+	</item>	<item>	<key>Note</key>
+	<value>Note: Your permanent address will also serve as the correspondence address by default.</value>
+	</item></attr>
+	<popup item-list="true">	<item>	<heading>What is maiden name?</heading>
+	<decription>&lt;p&gt;A maiden name is the surname or birth name a woman has before she marries and takes her husband&amp;rsquo;s last name.&lt;/p&gt;</decription>
+	<value/>
+	</item>	<item>	<heading>transgender</heading>
+	<decription>&lt;p&gt;Following regulatory bodies doesn&amp;rsquo;t support for transgender&lt;/p&gt;</decription>
+	<value>&lt;p&gt;BSE - For mutual fund transaction&lt;/p&gt;
+&lt;p&gt;CVL - For KRA KYC&lt;/p&gt;</value>
+	</item></popup>
+	<createdDate>2019-11-15T14:31:24.678Z</createdDate>
+	<createdDate_dt>2019-11-15T14:31:24.678Z</createdDate_dt>
+	<lastModifiedDate>2019-11-15T14:35:18.244Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-15T14:35:18.244Z</lastModifiedDate_dt>
+</component>
