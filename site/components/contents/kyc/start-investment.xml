@@ -6,7 +6,7 @@
 	<objectId>ce7b4348-aee8-2c36-9c94-0b8c7094419d</objectId>
 	<description>We will complete paperless offline eKYC using Aadhar authentication. Please keep your Aadhar number handy which you have to enter on UIDAI website and your mobile number should be registered with your Aadhar number</description>
 	<internal-name>Start Investment</internal-name>
-	<heading>Let’s get you ready for investment</heading>
+	<heading>Let’s get ready to invest</heading>
 	<footer>I hereby give my free consent that I understand Aadhaar Paperless</footer>
 	<file-name>start-investment.xml</file-name>
 	<folder-name/>
@@ -16,6 +16,6 @@
 	</item></footer_elements>
 	<createdDate>2019-11-12T13:03:54.231Z</createdDate>
 	<createdDate_dt>2019-11-12T13:03:54.231Z</createdDate_dt>
-	<lastModifiedDate>2019-11-12T13:09:57.105Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-12T13:09:57.105Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-21T05:31:16.763Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-21T05:31:16.763Z</lastModifiedDate_dt>
 </component>
