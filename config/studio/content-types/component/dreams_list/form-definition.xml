@@ -597,7 +597,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value></value>
+							<value>/static-assets/images/dreams</value>
 								<type>undefined</type>
 						</property>
 					</properties>
