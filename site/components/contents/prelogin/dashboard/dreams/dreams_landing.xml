@@ -10,7 +10,7 @@
 	<action_label>See more</action_label>
 	</item></predefined_dreams>
 	<dream_categories item-list="true">	<item>	<title>Plan an &lt;b&gt;epic lifestyle&lt;/b&gt;</title>
-	<section_id>/prelogin/dashboard/dreams?section=dreams_landing</section_id>
+	<section_id>/prelogin/dashboard/dreams?section=dream_type_list</section_id>
 	<description>Achieve these featured dreams in time and stand a </description>
 	<action_label>See more</action_label>
 	</item></dream_categories>
@@ -22,8 +22,8 @@
 	<header_img/>
 	<createdDate>2019-11-22T06:42:54.658Z</createdDate>
 	<createdDate_dt>2019-11-22T06:42:54.658Z</createdDate_dt>
-	<lastModifiedDate>2019-11-22T07:33:48.725Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-22T07:33:48.725Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-22T08:51:02.331Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-22T08:51:02.331Z</lastModifiedDate_dt>
 	<action_heading_label>Dreaming of something more?</action_heading_label>
 	<action_label>Create your own dream</action_label>
 </component>
