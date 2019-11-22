@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/dream_type_list</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1b4f</objectGroupId>
+	<objectId>1b4fd129-cf13-5f0c-66c6-5954a071ef28</objectId>
+	<file-name>dream_type_list.xml</file-name>
+	<folder-name/>
+	<internal-name>Dream Type List</internal-name>
+	<dream_types item-list="true">	<item>	<title>Brand new car</title>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
+	<detail_section_id/>
+	<thumb_img/>
+	</item>	<item>	<title>Top-class &lt;b&gt;education&lt;/b&gt;</title>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
+	<thumb_img/>
+	<detail_section_id/>
+	</item>	<item>	<title>Your own &lt;b&gt;home&lt;/b&gt;</title>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
+	<thumb_img/>
+	<detail_section_id/>
+	</item>	<item>	<title>Comfortable &lt;b&gt;retirement&lt;/b&gt;</title>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
+	<thumb_img/>
+	<detail_section_id/>
+	</item>	<item>	<title>Your personal &lt;b&gt;wealth&lt;/b&gt;</title>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
+	<thumb_img/>
+	<detail_section_id/>
+	</item>	<item>	<title>Great Indian &lt;b&gt;wedding&lt;/b&gt;</title>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
+	<thumb_img/>
+	<detail_section_id/>
+	</item>	<item>	<title>Diamond engagement &lt;b&gt;ring&lt;/b&gt;</title>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
+	<thumb_img/>
+	<detail_section_id/>
+	</item>	<item>	<title>Financial &lt;b&gt;safety net&lt;/b&gt;</title>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
+	<thumb_img/>
+	<detail_section_id/>
+	</item></dream_types>
+	<createdDate>2019-11-22T09:02:29.300Z</createdDate>
+	<createdDate_dt>2019-11-22T09:02:29.300Z</createdDate_dt>
+	<lastModifiedDate>2019-11-22T09:02:29.300Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-22T09:02:29.300Z</lastModifiedDate_dt>
+</component>
