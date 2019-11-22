@@ -1,11 +1,11 @@
 <content-type name="/component/dream_type_list" is-wcm-type="true">
-<label>Dream Type list</label>
-<form>/component/dream_type_list</form>
-<form-path>simple</form-path>
-<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
-<file-extension>xml</file-extension>
-<content-as-folder>false</content-as-folder>
-<previewable>false</previewable>
-<noThumbnail>true</noThumbnail>
-<image-thumbnail></image-thumbnail>
+	<label>Dream Type list</label>
+	<form>/component/dream_type_list</form>
+	<form-path>simple</form-path>
+	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
+	<file-extension>xml</file-extension>
+	<content-as-folder>false</content-as-folder>
+	<previewable>false</previewable>
+	<noThumbnail>true</noThumbnail>
+	<image-thumbnail></image-thumbnail>
 </content-type>
