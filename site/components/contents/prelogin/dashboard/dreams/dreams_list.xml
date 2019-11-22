@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/dreams_list</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2782</objectGroupId>
+	<objectId>278297c0-19bc-bf9a-874c-2ca027329adc</objectId>
+	<internal-name>Dreams List</internal-name>
+	<file-name>dreams_list.xml</file-name>
+	<folder-name/>
+	<dreams item-list="true">	<item>	<title/>
+	<description/>
+	<amount/>
+	<discounted_amt/>
+	<sub_label/>
+	<action_label/>
+	<section_id/>
+	<pursuing/>
+	<bg_color/>
+	<goal_type_id/>
+	<image/>
+	</item></dreams>
+	<createdDate>2019-11-22T12:31:48.225Z</createdDate>
+	<createdDate_dt>2019-11-22T12:31:48.225Z</createdDate_dt>
+	<lastModifiedDate>2019-11-22T12:31:48.225Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-22T12:31:48.225Z</lastModifiedDate_dt>
+</component>
