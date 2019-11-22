@@ -5,14 +5,14 @@
 	<objectGroupId>16db</objectGroupId>
 	<objectId>16db31c9-7448-5095-108e-5a1f2f985019</objectId>
 	<internal-name>Investing for All</internal-name>
-	<heading>Investing for &lt;b style="color:red;"&gt;all&lt;/b&gt;</heading>
-	<action_label>How it works</action_label>
-	<action_route>sample text</action_route>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor </description>
+	<heading>Live a richer life</heading>
+	<action_label>See how it works</action_label>
+	<action_route>https://www.youtube.com/watch?v=a3ICNMQW7Ok</action_route>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</description>
 	<file-name>investing_for_all.xml</file-name>
 	<folder-name/>
 	<createdDate>2019-08-20T19:57:51.346Z</createdDate>
 	<createdDate_dt>2019-08-20T19:57:51.346Z</createdDate_dt>
-	<lastModifiedDate>2019-09-10T10:00:54.758Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-09-10T10:00:54.758Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-22T04:08:05.349Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-22T04:08:05.349Z</lastModifiedDate_dt>
 </component>
