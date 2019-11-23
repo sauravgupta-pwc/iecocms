@@ -9,8 +9,8 @@
 	<folder-name/>
 	<dreams item-list="true">	<item>	<title>Vacation in Bali</title>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
-	<amount>₹ 50,000</amount>
-	<discounted_amt>₹ 90,000</discounted_amt>
+	<amount>₹ 90,000</amount>
+	<discounted_amt>₹ 50,000</discounted_amt>
 	<sub_label>Free for 5 achievers</sub_label>
 	<action_label>Live it in Apr 2020</action_label>
 	<section_id>/prelogin/dashboard/dreams/dream_details?section=dream_1</section_id>
@@ -24,10 +24,25 @@
 	<deadline_date>2020-01-25T05:00:00.000Z</deadline_date>
 	<deadline_date_tz>EST5EDT</deadline_date_tz>
 	<pursuing_text_1>&lt;p&gt;50 pursuing&lt;/p&gt;</pursuing_text_1>
-	<pursuing_text_2>&lt;p&gt;&lt;span style="font-size: 14pt; color: #ffffff;"&gt;50 people&lt;/span&gt; &lt;span style="color: #ffffff; opacity: 0.7;"&gt;Pursuing this dream&lt;/span&gt;&lt;/p&gt;</pursuing_text_2>
+	<pursuing_text_2>&lt;p&gt;&lt;span style="color: #2b3e50;"&gt;&lt;span style="font-size: 14pt;"&gt;50 people&lt;/span&gt; &lt;span style="opacity: 0.7;"&gt;Pursuing this dream&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</pursuing_text_2>
+	</item>	<item>	<image>/static-assets/images/dreams/dream_2.png</image>
+	<title>Vacation in Bali</title>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<amount>₹ 50,000</amount>
+	<discounted_amt>₹ 50,000</discounted_amt>
+	<sub_label>Free for 5 achievers</sub_label>
+	<action_label>Live it in Apr 2020</action_label>
+	<section_id>/prelogin/dashboard/dreams/dream_details?section=dream_2</section_id>
+	<bg_color>#9F6D56</bg_color>
+	<goal_type_id>2</goal_type_id>
+	<deadline_label>Achievement deadline</deadline_label>
+	<pursuing_text_1>&lt;p&gt;50 pursuing&lt;/p&gt;</pursuing_text_1>
+	<pursuing_text_2>&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;50 people&lt;/span&gt;&lt;span style="color: #2b3e50;"&gt;&amp;nbsp;&lt;/span&gt;&lt;span style="opacity: 0.7;"&gt;Pursuing this dream&lt;/span&gt;&lt;/p&gt;</pursuing_text_2>
+	<deadline_date>2020-01-25T05:00:00.000Z</deadline_date>
+	<deadline_date_tz>EST5EDT</deadline_date_tz>
 	</item></dreams>
 	<createdDate>2019-11-22T12:31:48.225Z</createdDate>
 	<createdDate_dt>2019-11-22T12:31:48.225Z</createdDate_dt>
-	<lastModifiedDate>2019-11-23T03:53:25.361Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-23T03:53:25.361Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-23T03:58:29.745Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-23T03:58:29.745Z</lastModifiedDate_dt>
 </component>
