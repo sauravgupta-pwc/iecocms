@@ -302,9 +302,9 @@
 				</field>
 				<field>
 					<type>input</type>
-					<id>terms_desc</id>
+					<id>action_label</id>
 					<iceId></iceId>
-					<title>terms_desc</title>
+					<title>action_label</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -344,33 +344,53 @@
 					</constraints>
 				</field>
 				<field>
-					<type>input</type>
-					<id>action_label</id>
+					<type>rte-tinymce5</type>
+					<id>terms_desc</id>
 					<iceId></iceId>
-					<title>action_label</title>
+					<title>terms_desc</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
 					<properties>
 						<property>
-							<name>size</name>
-							<value>50</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>maxlength</name>
-							<value>50</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>readonly</name>
+							<name>height</name>
 							<value></value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>forceRootBlockPTag</name>
+							<value>true</value>
 							<type>boolean</type>
 						</property>
 						<property>
-							<name>tokenize</name>
+							<name>forcePTags</name>
+							<value>true</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>forceBRTags</name>
 							<value>false</value>
 							<type>boolean</type>
+						</property>
+						<property>
+							<name>supportedChannels</name>
+							<value></value>
+							<type>supportedChannels</type>
+						</property>
+						<property>
+							<name>rteConfiguration</name>
+							<value>generic</value>
+							<type>string</type>
+						</property>
+						<property>
+							<name>imageManager</name>
+							<value></value>
+							<type>datasource:image</type>
+						</property>
+						<property>
+							<name>videoManager</name>
+							<value></value>
+							<type>datasource:video</type>
 						</property>
 					</properties>
 					<constraints>
@@ -378,11 +398,6 @@
 							<name>required</name>
 							<value><![CDATA[]]></value>
 							<type>boolean</type>
-						</constraint>
-						<constraint>
-							<name>pattern</name>
-							<value><![CDATA[]]></value>
-							<type>string</type>
 						</constraint>
 					</constraints>
 				</field>
