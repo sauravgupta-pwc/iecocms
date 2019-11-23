@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/featured_dreams</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fdb6</objectGroupId>
+	<objectId>fdb67372-7934-5e6d-adff-c3983c5b0cd6</objectId>
+	<file-name>featured_dreams.xml</file-name>
+	<folder-name/>
+	<internal-name>Featured Dreams</internal-name>
+	<title>Featured dreams</title>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing</description>
+	<section_id>/prelogin/dashboard/dreams?section=dreams_list</section_id>
+	<createdDate>2019-11-23T04:09:22.553Z</createdDate>
+	<createdDate_dt>2019-11-23T04:09:22.553Z</createdDate_dt>
+	<lastModifiedDate>2019-11-23T04:09:22.553Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-23T04:09:22.553Z</lastModifiedDate_dt>
+</component>
