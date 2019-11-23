@@ -4,7 +4,7 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>fdfd94bd</objectGroupId>
 	<objectId>fdfd94bd-1479-41b5-8428-643f4b419f15</objectId>
-	<internal-name>Vacation In Bali 5e6e0962</internal-name>
+	<internal-name>Vacation In Bali_2</internal-name>
 	<details_heading>Details</details_heading>
 	<detail_desc>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</detail_desc>
 	<offer_label>Offer</offer_label>
@@ -16,10 +16,10 @@
 &lt;li&gt;You also agree to the additional &lt;a title="terms &amp; conditions" href="https://www.google.com/" target="_blank" rel="noopener"&gt;terms &amp; conditions&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</terms_desc>
 	<action_label>Pursue this dream</action_label>
-	<file-name>dream_1-5e6e0962.xml</file-name>
-	<folder-name>dream_details</folder-name>
+	<file-name>dream_2.xml</file-name>
+	<folder-name/>
 	<createdDate>2019-11-23T03:15:22.324Z</createdDate>
 	<createdDate_dt>2019-11-23T03:15:22.324Z</createdDate_dt>
-	<lastModifiedDate>2019-11-23T03:19:38.250Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-23T03:19:38.250Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-23T03:26:58.873Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-23T03:26:58.873Z</lastModifiedDate_dt>
 </component>
