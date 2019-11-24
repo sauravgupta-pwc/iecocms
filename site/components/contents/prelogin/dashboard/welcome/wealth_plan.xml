@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/wealth_plan</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9ab2</objectGroupId>
+	<objectId>9ab268eb-be89-c062-352a-553b35c91d7e</objectId>
+	<file-name>wealth_plan.xml</file-name>
+	<folder-name/>
+	<internal-name>Wealth Plan</internal-name>
+	<action_label>Let’s create your wealth plan</action_label>
+	<section_id/>
+	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;</description>
+	<createdDate>2019-11-24T14:17:15.402Z</createdDate>
+	<createdDate_dt>2019-11-24T14:17:15.402Z</createdDate_dt>
+	<lastModifiedDate>2019-11-24T14:17:15.402Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-24T14:17:15.402Z</lastModifiedDate_dt>
+</component>
