@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/investment_types</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5956</objectGroupId>
+	<objectId>595623a9-e555-f1b8-88e7-887ebae224d3</objectId>
+	<internal-name>Investment Types</internal-name>
+	<file-name>investment_types.xml</file-name>
+	<folder-name/>
+	<investment_types item-list="true">	<item>	<title>Mutual funds</title>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
+	<section_id/>
+	</item>	<item>	<title>Stocks</title>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
+	<section_id/>
+	</item>	<item>	<title>Deposits</title>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
+	<section_id/>
+	</item>	<item>	<title>Savings account</title>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
+	<section_id/>
+	</item>	<item>	<title>Tax-saving investments</title>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
+	<section_id/>
+	</item></investment_types>
+	<createdDate>2019-11-24T14:05:37.145Z</createdDate>
+	<createdDate_dt>2019-11-24T14:05:37.145Z</createdDate_dt>
+	<lastModifiedDate>2019-11-24T14:05:37.145Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-24T14:05:37.145Z</lastModifiedDate_dt>
+</component>
