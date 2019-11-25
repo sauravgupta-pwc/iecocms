@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/title_desc</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5d1a</objectGroupId>
+	<objectId>5d1a9a7c-0e4e-2331-995c-3410d5da974d</objectId>
+	<internal-name>Already Invested</internal-name>
+	<section_id/>
+	<file-name>already_invested.xml</file-name>
+	<folder-name/>
+	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
+	<title>&lt;p&gt;Amazing for those &lt;strong&gt;already investing&lt;/strong&gt;&lt;/p&gt;</title>
+	<createdDate>2019-11-25T05:24:33.229Z</createdDate>
+	<createdDate_dt>2019-11-25T05:24:33.229Z</createdDate_dt>
+	<lastModifiedDate>2019-11-25T05:24:33.229Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-25T05:24:33.229Z</lastModifiedDate_dt>
+</component>
