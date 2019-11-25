@@ -1,11 +1,11 @@
 <content-type name="/component/basic_template" is-wcm-type="true">
-<label>Basic Template</label>
-<form>/component/basic_template</form>
-<form-path>simple</form-path>
-<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
-<file-extension>xml</file-extension>
-<content-as-folder>false</content-as-folder>
-<previewable>false</previewable>
-<noThumbnail>true</noThumbnail>
-<image-thumbnail></image-thumbnail>
+	<label>Basic Template</label>
+	<form>/component/basic_template</form>
+	<form-path>simple</form-path>
+	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
+	<file-extension>xml</file-extension>
+	<content-as-folder>false</content-as-folder>
+	<previewable>false</previewable>
+	<noThumbnail>true</noThumbnail>
+	<image-thumbnail></image-thumbnail>
 </content-type>
