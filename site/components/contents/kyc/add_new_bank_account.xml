@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commonpopup</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c7f6</objectGroupId>
+	<objectId>c7f60cd3-2b9f-31da-0f1e-a1e29a5c8222</objectId>
+	<internal-name>Add new bank account</internal-name>
+	<heading>Add a new bank account </heading>
+	<footer/>
+	<description>Please provide the bank details you want to register with Asset Management Companies for mutual fund transactions.</description>
+	<file-name>add_new_bank_account.xml</file-name>
+	<folder-name/>
+	<attr item-list="true">	<item>	<key>1</key>
+	<value>Any redeemed amount would be credited to this bank account.</value>
+	</item></attr>
+	<createdDate>2019-11-25T12:04:27.451Z</createdDate>
+	<createdDate_dt>2019-11-25T12:04:27.451Z</createdDate_dt>
+	<lastModifiedDate>2019-11-25T12:04:27.451Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-25T12:04:27.451Z</lastModifiedDate_dt>
+</component>
