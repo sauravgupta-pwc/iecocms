@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d436ceb4</objectGroupId>
+	<objectId>d436ceb4-cb85-4dd2-a94b-a540817ef1f6</objectId>
+	<internal-name>Increase your Wealth </internal-name>
+	<heading>Let's increase your wealth</heading>
+	<action_label>Start</action_label>
+	<action_route>sample text</action_route>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<file-name>increase_your_wealth.xml</file-name>
+	<folder-name>/site/components/contents/prelogin/dashboard</folder-name>
+	<createdDate>2019-08-20T19:59:12.367Z</createdDate>
+	<createdDate_dt>2019-08-20T19:59:12.367Z</createdDate_dt>
+	<lastModifiedDate>2019-08-30T06:50:36.639Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-08-30T06:50:36.639Z</lastModifiedDate_dt>
+</component>
