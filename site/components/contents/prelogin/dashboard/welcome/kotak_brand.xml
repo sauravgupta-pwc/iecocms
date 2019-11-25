@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/title_desc</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8c79</objectGroupId>
+	<objectId>8c79d65f-6f7a-d974-5aa7-00c9cae37d37</objectId>
+	<internal-name>Kotak Brand</internal-name>
+	<section_id/>
+	<file-name>kotak_brand.xml</file-name>
+	<folder-name/>
+	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
+	<title>&lt;p&gt;Built by the brand India &lt;strong&gt;trusts&lt;/strong&gt;&lt;/p&gt;</title>
+	<createdDate>2019-11-25T05:25:59.088Z</createdDate>
+	<createdDate_dt>2019-11-25T05:25:59.088Z</createdDate_dt>
+	<lastModifiedDate>2019-11-25T05:25:59.088Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-25T05:25:59.088Z</lastModifiedDate_dt>
+</component>
