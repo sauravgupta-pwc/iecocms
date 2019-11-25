@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/prelogin_details</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e9aa8c59</objectGroupId>
+	<objectId>e9aa8c59-d6fe-4305-8b4b-739832d1960c</objectId>
+	<file-name>investment_tabs-2eed0be8.xml</file-name>
+	<folder-name>welcome</folder-name>
+	<internal-name>Investment Tabs 2eed0be8</internal-name>
+	<bg_image/>
+	<nav_headers item-list="true">	<item>	<isEnabled>true</isEnabled>
+	<title>Learn as you invest</title>
+	<id>learn</id>
+	<section_id>/prelogin/dashboard/welcome/investment?section=learn_invest</section_id>
+	</item>	<item>	<isEnabled>true</isEnabled>
+	<title>Expert advisory</title>
+	<id>expert</id>
+	<section_id>/prelogin/dashboard/welcome/investment?section=expert_advice</section_id>
+	</item></nav_headers>
+	<createdDate>2019-11-25T05:44:44.058Z</createdDate>
+	<createdDate_dt>2019-11-25T05:44:44.058Z</createdDate_dt>
+	<lastModifiedDate>2019-11-25T06:49:18.805Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-25T06:49:18.805Z</lastModifiedDate_dt>
+	<section_id/>
+	<action_label>Start investing</action_label>
+</component>
