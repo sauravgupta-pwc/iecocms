@@ -15,7 +15,7 @@
 	</item>	<item>	<key>mother’s maiden name</key>
 	<value>Is your mother’s maiden name is same as your mother’s name</value>
 	</item>	<item>	<key>Note</key>
-	<value>Note: Your permanent address will also serve as the correspondence address by default.</value>
+	<value>Your permanent address will also serve as the correspondence address by default.</value>
 	</item></attr>
 	<popup item-list="true">	<item>	<heading>What is maiden name?</heading>
 	<decription>&lt;p&gt;A maiden name is the surname or birth name a woman has before she marries and takes her husband&amp;rsquo;s last name.&lt;/p&gt;</decription>
@@ -27,6 +27,6 @@
 	</item></popup>
 	<createdDate>2019-11-15T14:31:24.678Z</createdDate>
 	<createdDate_dt>2019-11-15T14:31:24.678Z</createdDate_dt>
-	<lastModifiedDate>2019-11-15T14:35:25.554Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-15T14:35:25.554Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-25T09:28:48.727Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-25T09:28:48.727Z</lastModifiedDate_dt>
 </component>
