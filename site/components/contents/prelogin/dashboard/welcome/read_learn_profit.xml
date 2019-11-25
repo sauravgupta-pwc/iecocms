@@ -9,17 +9,32 @@
 	<action_label>sample text</action_label>
 	<action_route>sample text</action_route>
 	<file-name>read_learn_profit.xml</file-name>
-	<folder-name>/site/components/contents/prelogin/dashboard</folder-name>
+	<folder-name/>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
-	<subComp item-list="true">	<item>	<heading>sample text</heading>
+	<subComp item-list="true">	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
 	<amount>sample text</amount>
-	<action_label>sample text</action_label>
+	<action_label>3 min read</action_label>
 	<action-route>sample text</action-route>
-	<image/>
+	<image>/static-assets/images/learn/learn_1.png</image>
+	<discount_amount/>
+	</item>	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
+	<image>/static-assets/images/learn/learn_2.png</image>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<amount/>
+	<action_label>3 min read</action_label>
+	<action-route/>
+	<discount_amount/>
+	</item>	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
+	<image>/static-assets/images/learn/learn_3.png</image>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<amount/>
+	<action_label>3 min read</action_label>
+	<action-route/>
+	<discount_amount/>
 	</item></subComp>
 	<createdDate>2019-08-20T20:18:20.619Z</createdDate>
 	<createdDate_dt>2019-08-20T20:18:20.619Z</createdDate_dt>
-	<lastModifiedDate>2019-08-30T06:54:53.868Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-08-30T06:54:53.868Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-25T06:59:35.861Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-25T06:59:35.861Z</lastModifiedDate_dt>
 </component>
