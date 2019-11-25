@@ -11,19 +11,19 @@
 	<section_id>/prelogin/dashboard/dreams?section=dream_type_list</section_id>
 	</item></investments>
 	<wealth_advise item-list="true">	<item>	<title>With expert advisory used by the uber-rich on your</title>
-	<section_id/>
+	<section_id>/prelogin/dashboard/welcome?section=wealth_plan</section_id>
 	</item></wealth_advise>
-	<start_invest item-list="true">	<item>	<section_id/>
+	<start_invest item-list="true">	<item>	<section_id>/prelogin/dashboard/welcome?section=start_investing</section_id>
 	</item></start_invest>
-	<investmnt_list item-list="true">	<item>	<section_id/>
+	<investmnt_list item-list="true">	<item>	<section_id>/prelogin/dashboard/welcome?section=investment_tabs</section_id>
 	</item></investmnt_list>
-	<already_invested item-list="true">	<item>	<section_id/>
+	<already_invested item-list="true">	<item>	<section_id>/prelogin/dashboard/welcome?section=already_invested</section_id>
 	</item></already_invested>
-	<cas_list item-list="true">	<item>	<section_id/>
+	<cas_list item-list="true">	<item>	<section_id>/prelogin/dashboard/welcome?section=cas_tabs</section_id>
 	</item></cas_list>
-	<brand_info item-list="true">	<item>	<section_id/>
+	<brand_info item-list="true">	<item>	<section_id>/prelogin/dashboard/welcome?section=kotak_brand</section_id>
 	</item></brand_info>
-	<wealth item-list="true">	<item>	<section_id/>
+	<wealth item-list="true">	<item>	<section_id>/prelogin/dashboard/welcome?section=increase_your_wealth</section_id>
 	</item></wealth>
 	<cool_features item-list="true">	<item>	<title/>
 	</item></cool_features>
