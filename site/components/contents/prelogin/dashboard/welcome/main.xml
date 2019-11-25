@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
-	<savedAsDraft>true</savedAsDraft>	<content-type>/component/welcome_landing</content-type>	<display-template/>
+	<content-type>/component/welcome_landing</content-type>	<display-template/>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>9f68</objectGroupId>
 	<objectId>9f683d01-080b-9663-e956-87b5d65df0c1</objectId>
