@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/welcome_landing</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9f68</objectGroupId>
+	<objectId>9f683d01-080b-9663-e956-87b5d65df0c1</objectId>
+	<all_dreams item-list="true">	<item>	<title>Achieve all &lt;b&gt;your dreams&lt;/b&gt;</title>
+	<section_id>/prelogin/dashboard/dreams?section=dreams_list</section_id>
+	</item></all_dreams>
+	<investments item-list="true">	<item>	<title>By investing in &lt;b&gt;what’s right for you&lt;/b&gt;</title>
+	<section_id>/prelogin/dashboard/dreams?section=dream_type_list</section_id>
+	</item></investments>
+	<wealth_advise item-list="true">	<item>	<title>With expert advisory used by the uber-rich on your</title>
+	<section_id/>
+	</item></wealth_advise>
+	<start_invest item-list="true">	<item>	<section_id/>
+	</item></start_invest>
+	<investmnt_list item-list="true">	<item>	<section_id/>
+	</item></investmnt_list>
+	<already_invested item-list="true">	<item>	<section_id/>
+	</item></already_invested>
+	<cas_list item-list="true">	<item>	<section_id/>
+	</item></cas_list>
+	<brand_info item-list="true">	<item>	<section_id/>
+	</item></brand_info>
+	<wealth item-list="true">	<item>	<section_id/>
+	</item></wealth>
+	<cool_features item-list="true">	<item>	<title/>
+	</item></cool_features>
+	<articles item-list="true">	<item>	<title/>
+	<description/>
+	<action_label/>
+	<section_id/>
+	</item></articles>
+	<ceo_quote item-list="true">	<item>	<section_id/>
+	</item></ceo_quote>
+	<internal-name>Main Component</internal-name>
+	<file-name>main.xml</file-name>
+	<folder-name/>
+	<createdDate>2019-11-25T07:10:06.229Z</createdDate>
+	<createdDate_dt>2019-11-25T07:10:06.229Z</createdDate_dt>
+	<lastModifiedDate>2019-11-25T07:10:06.229Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-25T07:10:06.229Z</lastModifiedDate_dt>
+</component>
