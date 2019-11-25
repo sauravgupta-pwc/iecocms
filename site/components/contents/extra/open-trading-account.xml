@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>280e</objectGroupId>
+	<objectId>280e718d-b031-ab6f-e2b8-8aea20f91064</objectId>
+	<internal-name>Open your trading account</internal-name>
+	<heading>Ready to open your trading account</heading>
+	<footer/>
+	<description>We will now open your trading account with Kotak Securities. This will empower you to buy and sell stocks of listed companies.</description>
+	<file-name>open-trading-account.xml</file-name>
+	<folder-name/>
+	<subComp item-list="true">	<item>	<heading>Consent to share information</heading>
+	<description>I have reviewed the form and give my consent to share its details to complete my KYC with Ksec and other Kotak group companies.</description>
+	<action_label>Done</action_label>
+	<action_route>/Path/to/next/page</action_route>
+	</item></subComp>
+	<createdDate>2019-11-25T10:13:02.389Z</createdDate>
+	<createdDate_dt>2019-11-25T10:13:02.389Z</createdDate_dt>
+	<lastModifiedDate>2019-11-25T10:13:02.389Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-25T10:13:02.389Z</lastModifiedDate_dt>
+</component>
