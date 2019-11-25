@@ -122,7 +122,7 @@
 						</property>
 						<property>
 							<name>maxlength</name>
-							<value>50</value>
+							<value>500</value>
 							<type>int</type>
 						</property>
 						<property>
@@ -242,9 +242,9 @@
 				</field>
 				<field>
 					<type>input</type>
-					<id>detail_section_id</id>
+					<id>section_id</id>
 					<iceId></iceId>
-					<title>detail_section_id</title>
+					<title>section_id</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
