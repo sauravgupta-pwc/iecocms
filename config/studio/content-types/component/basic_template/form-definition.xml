@@ -174,7 +174,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>image_picker</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
