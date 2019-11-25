@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2b70abff</objectGroupId>
+	<objectId>2b70abff-c8e9-4a96-bdcd-eadf66f9fe9b</objectId>
+	<internal-name>Read Learn Profit </internal-name>
+	<heading>Read. Learn. Profit.</heading>
+	<action_label>sample text</action_label>
+	<action_route>sample text</action_route>
+	<file-name>read_learn_profit.xml</file-name>
+	<folder-name>/site/components/contents/prelogin/dashboard</folder-name>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<subComp item-list="true">	<item>	<heading>sample text</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<amount>sample text</amount>
+	<action_label>sample text</action_label>
+	<action-route>sample text</action-route>
+	<image/>
+	</item></subComp>
+	<createdDate>2019-08-20T20:18:20.619Z</createdDate>
+	<createdDate_dt>2019-08-20T20:18:20.619Z</createdDate_dt>
+	<lastModifiedDate>2019-08-30T06:54:53.868Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-08-30T06:54:53.868Z</lastModifiedDate_dt>
+</component>
