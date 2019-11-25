@@ -25,20 +25,22 @@
 	</item></brand_info>
 	<wealth item-list="true">	<item>	<section_id>/prelogin/dashboard/welcome?section=increase_your_wealth</section_id>
 	</item></wealth>
-	<cool_features item-list="true">	<item>	<title/>
+	<cool_features item-list="true">	<item>	<title>More cool features</title>
+	<sub_title>Watch your money &lt;b&gt;grow&lt;/b&gt;</sub_title>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
 	</item></cool_features>
-	<articles item-list="true">	<item>	<title/>
-	<description/>
-	<action_label/>
-	<section_id/>
+	<articles item-list="true">	<item>	<title>Read. Learn. &lt;b&gt;Profit.&lt;/b&gt;</title>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<action_label>See more articles</action_label>
+	<section_id>/prelogin/dashboard/welcome?section=read_learn_profit</section_id>
 	</item></articles>
-	<ceo_quote item-list="true">	<item>	<section_id/>
+	<ceo_quote item-list="true">	<item>	<section_id>/prelogin/dashboard/welcome?section=ceo_message</section_id>
 	</item></ceo_quote>
 	<internal-name>Main Component</internal-name>
 	<file-name>main.xml</file-name>
 	<folder-name/>
 	<createdDate>2019-11-25T07:10:06.229Z</createdDate>
 	<createdDate_dt>2019-11-25T07:10:06.229Z</createdDate_dt>
-	<lastModifiedDate>2019-11-25T07:41:21.587Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-25T07:41:21.587Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-25T10:19:22.039Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-25T10:19:22.039Z</lastModifiedDate_dt>
 </component>
