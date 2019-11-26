@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/welcome_landing</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6494</objectGroupId>
+	<objectId>6494f1dd-2f55-babe-9261-a52d805f4320</objectId>
+	<all_dreams item-list="true">	<item>	<title>sad</title>
+	<section_id>dsa</section_id>
+	</item></all_dreams>
+	<investments item-list="true">	<item>	<title>dsad</title>
+	<section_id>dsa</section_id>
+	</item></investments>
+	<wealth_advise item-list="true">	<item>	<title/>
+	<section_id/>
+	</item></wealth_advise>
+	<start_invest item-list="true">	<item>	<section_id/>
+	</item></start_invest>
+	<investmnt_list item-list="true">	<item>	<section_id/>
+	</item></investmnt_list>
+	<already_invested item-list="true">	<item>	<section_id/>
+	</item></already_invested>
+	<cas_list item-list="true">	<item>	<section_id/>
+	</item></cas_list>
+	<brand_info item-list="true">	<item>	<section_id/>
+	</item></brand_info>
+	<wealth item-list="true">	<item>	<section_id/>
+	</item></wealth>
+	<cool_features item-list="true">	<item>	<description/>
+	<title/>
+	<sub_title/>
+	</item></cool_features>
+	<articles item-list="true">	<item>	<title>sad</title>
+	<description>dsa</description>
+	<action_label>das</action_label>
+	<section_id>dsa</section_id>
+	</item></articles>
+	<ceo_quote item-list="true">	<item>	<section_id>dsa</section_id>
+	</item></ceo_quote>
+	<internal-name>test</internal-name>
+	<file-name>test.xml</file-name>
+	<folder-name/>
+	<createdDate>2019-11-26T16:04:27.630Z</createdDate>
+	<createdDate_dt>2019-11-26T16:04:27.630Z</createdDate_dt>
+	<lastModifiedDate>2019-11-26T16:04:27.630Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-26T16:04:27.630Z</lastModifiedDate_dt>
+</component>
