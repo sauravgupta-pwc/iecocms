@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/articleblogs</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4aec</objectGroupId>
+	<objectId>4aec73c6-9a75-43ac-83cf-01975bff6d06</objectId>
+	<internal-name>Buy stocks</internal-name>
+	<heading>Buy stocks</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<file-name>buy-stocks.xml</file-name>
+	<folder-name/>
+	<subComp item-list="true">	<item>	<imageLink>img/Mask Group 8.png</imageLink>
+	<heading>Duis aute irure dolor in reprehenderit</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<action_label>3 min read</action_label>
+	<action_route>link/to/3-min-read</action_route>
+	<uploadImage/>
+	</item>	<item>	<uploadImage/>
+	<imageLink>img/Mask Group 8.png</imageLink>
+	<heading>Duis aute irure dolor in reprehenderit</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<action_label>3 min read</action_label>
+	<action_route>link/to/3-min-read</action_route>
+	</item>	<item>	<uploadImage/>
+	<imageLink>img/Mask Group 8.png</imageLink>
+	<heading>Duis aute irure dolor in reprehenderit</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<action_label>3 min read</action_label>
+	<action_route>link/to/3-min-read</action_route>
+	</item></subComp>
+	<attr item-list="true">	<item>	<heading>Stocks</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<key>img/Stocks icon.png</key>
+	<value>/link/to/details/page</value>
+	</item>	<item>	<heading>Stock baskets</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<key>img/Deposits icon.png</key>
+	<value>/link/to/details/page</value>
+	</item>	<item>	<heading>Exchange traded funds</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<key>img/External investments icon.png</key>
+	<value>/link/to/details/page</value>
+	</item>	<item>	<heading>Listed Bonds</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<key>img/Save tax icon.png</key>
+	<value>/link/to/details/page</value>
+	</item></attr>
+	<createdDate>2019-11-27T10:49:00.673Z</createdDate>
+	<createdDate_dt>2019-11-27T10:49:00.673Z</createdDate_dt>
+	<lastModifiedDate>2019-11-27T10:49:00.673Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-27T10:49:00.673Z</lastModifiedDate_dt>
+</component>
