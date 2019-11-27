@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/articleblogs</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0436</objectGroupId>
+	<objectId>0436c842-c035-8cf1-8970-0aa903d17ee6</objectId>
+	<internal-name>Buy Stocks</internal-name>
+	<heading>Buy stocks</heading>
+	<file-name>buy-stocks.xml</file-name>
+	<folder-name/>
+	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor&lt;/p&gt;</description>
+	<attr item-list="true">	<item>	<heading>Stocks</heading>
+	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor&lt;/p&gt;</description>
+	<key>img/Stocks icon.png</key>
+	<value>&lt;p&gt;link to relevant page&lt;/p&gt;</value>
+	</item>	<item>	<heading>Stock baskets</heading>
+	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do&lt;/p&gt;</description>
+	<key>img/Deposits icon.png</key>
+	<value>&lt;p&gt;link to relevant page&lt;/p&gt;</value>
+	</item>	<item>	<heading>Exchange traded funds</heading>
+	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do&lt;/p&gt;</description>
+	<key>img/External investments icon.png</key>
+	<value>&lt;p&gt;link to relevant page&lt;/p&gt;</value>
+	</item>	<item>	<heading>Listed Bonds</heading>
+	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do&lt;/p&gt;</description>
+	<key>img/Save tax icon.png</key>
+	<value>&lt;p&gt;link to relevant page&lt;/p&gt;</value>
+	</item></attr>
+	<section item-list="true">	<item>	<name>News</name>
+	</item>	<item>	<name>Blogs and articles</name>
+	</item></section>
+	<subComp item-list="true">	<item>	<imageLink>link to image file</imageLink>
+	<heading>Duis aute irure dolor in reprehenderit</heading>
+	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor&lt;/p&gt;</description>
+	<action_label>3 min read</action_label>
+	<action_route>link to 3 min read</action_route>
+	<uploadImage/>
+	</item>	<item>	<uploadImage/>
+	<imageLink>link to image file</imageLink>
+	<heading>Duis aute irure dolor in reprehenderit</heading>
+	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor&lt;/p&gt;</description>
+	<action_label>3 min read</action_label>
+	<action_route>link to 3 min read</action_route>
+	</item>	<item>	<uploadImage/>
+	<imageLink>link to image file</imageLink>
+	<heading>Duis aute irure dolor in reprehenderit</heading>
+	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor&lt;/p&gt;</description>
+	<action_label>3 min read</action_label>
+	<action_route>link to 3 min read</action_route>
+	</item></subComp>
+	<createdDate>2019-11-27T09:55:59.213Z</createdDate>
+	<createdDate_dt>2019-11-27T09:55:59.213Z</createdDate_dt>
+	<lastModifiedDate>2019-11-27T09:55:59.213Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-27T09:55:59.213Z</lastModifiedDate_dt>
+</component>
