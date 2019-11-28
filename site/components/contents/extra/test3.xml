@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>57af</objectGroupId>
+	<objectId>57af1d59-ecba-c3db-63f1-41db0a8f8ecf</objectId>
+	<internal-name>test3</internal-name>
+	<heading>test</heading>
+	<footer/>
+	<description>28-11-2019</description>
+	<file-name>test3.xml</file-name>
+	<folder-name/>
+	<createdDate>2019-11-28T08:16:40.111Z</createdDate>
+	<createdDate_dt>2019-11-28T08:16:40.111Z</createdDate_dt>
+	<lastModifiedDate>2019-11-28T08:16:40.111Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-28T08:16:40.111Z</lastModifiedDate_dt>
+</component>
