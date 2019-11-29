@@ -23,9 +23,9 @@
 	<pursuing_text2>people Pursuing this dream</pursuing_text2>
 	<deadline_date>2020-01-25T05:00:00.000Z</deadline_date>
 	<deadline_date_tz>EST5EDT</deadline_date_tz>
-	<pursuing_text_1>&lt;p&gt;50 pursuing&lt;/p&gt;</pursuing_text_1>
-	<pursuing_text_2>&lt;p&gt;&lt;span style="color: #2b3e50;"&gt;&lt;span style="font-size: 14pt;"&gt;50 people&lt;/span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</pursuing_text_2>
-	<pursuing_text_3>&lt;p&gt;&lt;span&gt;Pursuing this dream&lt;/span&gt;&lt;/p&gt;</pursuing_text_3>
+	<pursuing_text_1>50 pursuing</pursuing_text_1>
+	<pursuing_text_2>50 people</pursuing_text_2>
+	<pursuing_text_3>Pursuing this dream</pursuing_text_3>
 	</item>	<item>	<image>/static-assets/images/dreams/dream_2.png</image>
 	<title>Vacation in Bali</title>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
@@ -37,14 +37,14 @@
 	<bg_color>#9F6D56</bg_color>
 	<goal_type_id>2</goal_type_id>
 	<deadline_label>Achievement deadline</deadline_label>
-	<pursuing_text_1>&lt;p&gt;50 pursuing&lt;/p&gt;</pursuing_text_1>
-	<pursuing_text_2>&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;50 people&lt;/span&gt;&lt;span style="color: #2b3e50;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</pursuing_text_2>
+	<pursuing_text_1>50 pursuing</pursuing_text_1>
+	<pursuing_text_2>50 people</pursuing_text_2>
 	<deadline_date>2020-01-25T05:00:00.000Z</deadline_date>
 	<deadline_date_tz>EST5EDT</deadline_date_tz>
-	<pursuing_text_3>&lt;p&gt;Pursuing this dream&lt;/p&gt;</pursuing_text_3>
+	<pursuing_text_3>Pursuing this dream</pursuing_text_3>
 	</item></dreams>
 	<createdDate>2019-11-22T12:31:48.225Z</createdDate>
 	<createdDate_dt>2019-11-22T12:31:48.225Z</createdDate_dt>
-	<lastModifiedDate>2019-11-29T05:45:48.537Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-29T05:45:48.537Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-29T06:01:18.110Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-29T06:01:18.110Z</lastModifiedDate_dt>
 </component>
