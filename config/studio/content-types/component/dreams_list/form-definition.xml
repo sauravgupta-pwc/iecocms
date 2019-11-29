@@ -653,7 +653,7 @@
 					</constraints>
 				</field>
 				<field>
-					<type>rte</type>
+					<type>textarea</type>
 					<id>pursuing_text_1</id>
 					<iceId></iceId>
 					<title>pursuing_text_1</title>
@@ -662,59 +662,29 @@
 					<help></help>
 					<properties>
 						<property>
-							<name>width</name>
-							<value></value>
+							<name>cols</name>
+							<value>50</value>
 							<type>int</type>
 						</property>
 						<property>
-							<name>height</name>
-							<value></value>
+							<name>rows</name>
+							<value>5</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>maxlength</name>
-							<value></value>
+							<value>100000</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>allowResize</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceRootBlockPTag</name>
 							<value>true</value>
 							<type>boolean</type>
 						</property>
 						<property>
-							<name>forcePTags</name>
-							<value>true</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceBRTags</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceImageAlts</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>supportedChannels</name>
+							<name>readonly</name>
 							<value></value>
-							<type>supportedChannels</type>
-						</property>
-						<property>
-							<name>rteConfiguration</name>
-							<value>generic</value>
-							<type>string</type>
-						</property>
-						<property>
-							<name>imageManager</name>
-							<value></value>
-							<type>datasource:image</type>
+							<type>boolean</type>
 						</property>
 					</properties>
 					<constraints>
@@ -726,7 +696,7 @@
 					</constraints>
 				</field>
 				<field>
-					<type>rte</type>
+					<type>textarea</type>
 					<id>pursuing_text_2</id>
 					<iceId></iceId>
 					<title>pursuing_text_2</title>
@@ -735,59 +705,29 @@
 					<help></help>
 					<properties>
 						<property>
-							<name>width</name>
-							<value></value>
+							<name>cols</name>
+							<value>50</value>
 							<type>int</type>
 						</property>
 						<property>
-							<name>height</name>
-							<value></value>
+							<name>rows</name>
+							<value>5</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>maxlength</name>
-							<value></value>
+							<value>100000</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>allowResize</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceRootBlockPTag</name>
 							<value>true</value>
 							<type>boolean</type>
 						</property>
 						<property>
-							<name>forcePTags</name>
-							<value>true</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceBRTags</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceImageAlts</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>supportedChannels</name>
+							<name>readonly</name>
 							<value></value>
-							<type>supportedChannels</type>
-						</property>
-						<property>
-							<name>rteConfiguration</name>
-							<value>generic</value>
-							<type>string</type>
-						</property>
-						<property>
-							<name>imageManager</name>
-							<value></value>
-							<type>datasource:image</type>
+							<type>boolean</type>
 						</property>
 					</properties>
 					<constraints>
@@ -799,7 +739,7 @@
 					</constraints>
 				</field>
 				<field>
-					<type>rte</type>
+					<type>textarea</type>
 					<id>pursuing_text_3</id>
 					<iceId></iceId>
 					<title>pursuing_text_3</title>
@@ -808,59 +748,29 @@
 					<help></help>
 					<properties>
 						<property>
-							<name>width</name>
-							<value></value>
+							<name>cols</name>
+							<value>50</value>
 							<type>int</type>
 						</property>
 						<property>
-							<name>height</name>
-							<value></value>
+							<name>rows</name>
+							<value>5</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>maxlength</name>
-							<value></value>
+							<value>100000</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>allowResize</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceRootBlockPTag</name>
 							<value>true</value>
 							<type>boolean</type>
 						</property>
 						<property>
-							<name>forcePTags</name>
-							<value>true</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceBRTags</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceImageAlts</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>supportedChannels</name>
+							<name>readonly</name>
 							<value></value>
-							<type>supportedChannels</type>
-						</property>
-						<property>
-							<name>rteConfiguration</name>
-							<value>generic</value>
-							<type>string</type>
-						</property>
-						<property>
-							<name>imageManager</name>
-							<value></value>
-							<type>datasource:image</type>
+							<type>boolean</type>
 						</property>
 					</properties>
 					<constraints>
