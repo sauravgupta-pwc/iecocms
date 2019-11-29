@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/newspage</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9763</objectGroupId>
+	<objectId>976306f8-f612-fc0e-a301-8634aa0596a8</objectId>
+	<file-name>news-details.xml</file-name>
+	<folder-name/>
+	<internal-name>News Details</internal-name>
+	<imageLink/>
+	<heading>Lorem ipsum dolor sit amet, consectetur adipiscing elit</heading>
+	<date>15 Aug 2018</date>
+	<source>Times of India</source>
+	<link>3 min read</link>
+	<uploadImage/>
+	<subHead>&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.&lt;/p&gt;</subHead>
+	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.&lt;/p&gt;
+&lt;p&gt;Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam.&lt;/p&gt;</description>
+	<createdDate>2019-11-29T14:32:55.099Z</createdDate>
+	<createdDate_dt>2019-11-29T14:32:55.099Z</createdDate_dt>
+	<lastModifiedDate>2019-11-29T14:32:55.099Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-29T14:32:55.099Z</lastModifiedDate_dt>
+</component>
