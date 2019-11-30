@@ -11,37 +11,61 @@
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
 	<detail_section_id/>
 	<thumb_img/>
+	<goal_type_id>12</goal_type_id>
+	<section_id/>
+	<predefined_id>2</predefined_id>
 	</item>	<item>	<title>Top-class &lt;b&gt;education&lt;/b&gt;</title>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
 	<thumb_img/>
 	<detail_section_id/>
+	<goal_type_id>3</goal_type_id>
+	<section_id/>
+	<predefined_id>2</predefined_id>
 	</item>	<item>	<title>Your own &lt;b&gt;home&lt;/b&gt;</title>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
 	<thumb_img/>
 	<detail_section_id/>
+	<goal_type_id>4</goal_type_id>
+	<section_id/>
+	<predefined_id>2</predefined_id>
 	</item>	<item>	<title>Comfortable &lt;b&gt;retirement&lt;/b&gt;</title>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
 	<thumb_img/>
 	<detail_section_id/>
+	<goal_type_id>5</goal_type_id>
+	<section_id/>
+	<predefined_id>2</predefined_id>
 	</item>	<item>	<title>Your personal &lt;b&gt;wealth&lt;/b&gt;</title>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
 	<thumb_img/>
 	<detail_section_id/>
+	<goal_type_id>11</goal_type_id>
+	<section_id/>
+	<predefined_id>2</predefined_id>
 	</item>	<item>	<title>Great Indian &lt;b&gt;wedding&lt;/b&gt;</title>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
 	<thumb_img/>
 	<detail_section_id/>
+	<goal_type_id>8</goal_type_id>
+	<section_id/>
+	<predefined_id>2</predefined_id>
 	</item>	<item>	<title>Diamond engagement &lt;b&gt;ring&lt;/b&gt;</title>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
 	<thumb_img/>
 	<detail_section_id/>
+	<goal_type_id>7</goal_type_id>
+	<section_id/>
+	<predefined_id>2</predefined_id>
 	</item>	<item>	<title>Financial &lt;b&gt;safety net&lt;/b&gt;</title>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
 	<thumb_img/>
 	<detail_section_id/>
+	<goal_type_id>5</goal_type_id>
+	<section_id>2</section_id>
+	<predefined_id>2</predefined_id>
 	</item></dream_types>
 	<createdDate>2019-11-22T09:02:29.300Z</createdDate>
 	<createdDate_dt>2019-11-22T09:02:29.300Z</createdDate_dt>
-	<lastModifiedDate>2019-11-22T09:02:29.300Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-22T09:02:29.300Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-30T18:59:28.512Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-30T18:59:28.512Z</lastModifiedDate_dt>
 </component>
