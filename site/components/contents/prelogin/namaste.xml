@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0e76</objectGroupId>
+	<objectId>0e76d5f5-ed15-f7e3-34db-e1825025effe</objectId>
+	<file-name>namaste.xml</file-name>
+	<folder-name/>
+	<description>What would you like to do today?</description>
+	<internal-name>Namaste</internal-name>
+	<heading>Namaste</heading>
+	<footer/>
+	<attrs item-list="true">	<item>	<key>/link/to/next/page</key>
+	<value>I have money that I want to invest. Where should I invest it?</value>
+	</item>	<item>	<key>/link/to/next/page</key>
+	<value>Invest in mutual funds that match your risk appetite.</value>
+	</item>	<item>	<key>/link/to/next/page</key>
+	<value>Upload CAS report of your external investments.</value>
+	</item>	<item>	<key>/link/to/next/page</key>
+	<value>Save tax under section 80C of Income Tax Act.</value>
+	</item>	<item>	<key>/link/to/next/page</key>
+	<value>I want to save tax under section 80C of Income Tax Act.</value>
+	</item></attrs>
+	<createdDate>2019-12-02T13:58:26.800Z</createdDate>
+	<createdDate_dt>2019-12-02T13:58:26.800Z</createdDate_dt>
+	<lastModifiedDate>2019-12-02T13:58:26.800Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-02T13:58:26.800Z</lastModifiedDate_dt>
+</component>
