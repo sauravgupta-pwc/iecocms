@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/quotes</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3aa5</objectGroupId>
+	<objectId>3aa58a42-9fe9-016c-2caa-1ffb0281e846</objectId>
+	<internal-name>Quote</internal-name>
+	<file-name>quote.xml</file-name>
+	<folder-name/>
+	<items item-list="true">	<item>	<image>/link/to/image</image>
+	<person>Person-1</person>
+	<type>1</type>
+	<quote>&lt;p&gt;this is the quote&lt;/p&gt;</quote>
+	</item>	<item>	<image>/link/to/image</image>
+	<person>Person-2</person>
+	<type>2</type>
+	<quote>&lt;p&gt;Some random quotes&lt;/p&gt;</quote>
+	</item>	<item>	<image>/link/to/image</image>
+	<person>Person-3</person>
+	<type>3</type>
+	<quote>&lt;p&gt;this is the quote&lt;/p&gt;</quote>
+	</item>	<item>	<image>/link/to/image</image>
+	<person>Person-4</person>
+	<type>4</type>
+	<quote>&lt;p&gt;This is a random quote&lt;/p&gt;</quote>
+	</item></items>
+	<createdDate>2019-12-05T12:01:43.192Z</createdDate>
+	<createdDate_dt>2019-12-05T12:01:43.192Z</createdDate_dt>
+	<lastModifiedDate>2019-12-05T12:01:43.192Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-05T12:01:43.192Z</lastModifiedDate_dt>
+</component>
