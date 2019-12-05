@@ -10,19 +10,25 @@
 	<internal-name>Namaste</internal-name>
 	<heading>Namaste</heading>
 	<footer/>
-	<attrs item-list="true">	<item>	<key>/link/to/next/page</key>
-	<value>I have money that I want to invest. Where should I invest it?</value>
-	</item>	<item>	<key>/link/to/next/page</key>
-	<value>Invest in mutual funds that match your risk appetite.</value>
-	</item>	<item>	<key>/link/to/next/page</key>
-	<value>Upload CAS report of your external investments.</value>
-	</item>	<item>	<key>/link/to/next/page</key>
-	<value>Save tax under section 80C of Income Tax Act.</value>
-	</item>	<item>	<key>/link/to/next/page</key>
-	<value>I want to save tax under section 80C of Income Tax Act.</value>
+	<attrs item-list="true">	<item>	<key>wealth</key>
+	<value>I have money that I want to invest. Where should I invest</value>
+	</item>	<item>	<key>wealth</key>
+	<value>I don’t know where to invest, help in investing</value>
+	</item>	<item>	<key>tax_saving</key>
+	<value>I would like to save tax</value>
+	</item>	<item>	<key>holiday_dream</key>
+	<value>I want to save for my holiday</value>
+	</item>	<item>	<key>home_dream</key>
+	<value> I want to buy a home</value>
+	</item>	<item>	<key>stocks</key>
+	<value> I want to buy a basket of stocks</value>
+	</item>	<item>	<key>calc</key>
+	<value>I want to play with some calculators</value>
+	</item>	<item>	<key>learn</key>
+	<value>I want to learn before investing</value>
 	</item></attrs>
 	<createdDate>2019-12-02T13:58:26.800Z</createdDate>
 	<createdDate_dt>2019-12-02T13:58:26.800Z</createdDate_dt>
-	<lastModifiedDate>2019-12-02T13:58:26.800Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-12-02T13:58:26.800Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-12-05T09:42:29.672Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-05T09:42:29.672Z</lastModifiedDate_dt>
 </component>
