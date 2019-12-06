@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/mutual_funds_landing</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>dde7</objectGroupId>
+	<objectId>dde75fc8-a93f-b69d-ef7c-d76e3e20930b</objectId>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<file-name>landing_page.xml</file-name>
+	<folder-name/>
+	<internal-name>Landing Page</internal-name>
+	<title>Buy mutual funds</title>
+	<search_title>Search mutual funds</search_title>
+	<card item-list="true">	<item>	<id>mf_personalised</id>
+	<title>Personalised suggestions</title>
+	<subtitle>Beginner</subtitle>
+	<description>Just provide few details about yourself —and our expert advisory will recommend mutual funds ideal for you.</description>
+	<suggestion>Go for this if you are new to Mutual Funds</suggestion>
+	</item>	<item>	<id>mf_explore</id>
+	<title>Explore all mutual funds</title>
+	<subtitle>Advanced</subtitle>
+	<description>Prefer to go solo? Get over 1000 funds on your fingertips in a clean and organised layout.</description>
+	<suggestion/>
+	</item></card>
+	<createdDate>2019-12-06T07:11:24.531Z</createdDate>
+	<createdDate_dt>2019-12-06T07:11:24.531Z</createdDate_dt>
+	<lastModifiedDate>2019-12-06T07:11:24.531Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-06T07:11:24.531Z</lastModifiedDate_dt>
+</component>
