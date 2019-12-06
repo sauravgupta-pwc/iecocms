@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/basic_template</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6131</objectGroupId>
+	<objectId>61311c4a-7f40-28f7-8405-af8cd083ee1a</objectId>
+	<internal-name>landing_page</internal-name>
+	<section_id/>
+	<file-name>landing_page.xml</file-name>
+	<folder-name/>
+	<img_url/>
+	<description/>
+	<createdDate>2019-12-06T11:01:47.516Z</createdDate>
+	<createdDate_dt>2019-12-06T11:01:47.516Z</createdDate_dt>
+	<lastModifiedDate>2019-12-06T11:01:47.516Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-06T11:01:47.516Z</lastModifiedDate_dt>
+</component>
