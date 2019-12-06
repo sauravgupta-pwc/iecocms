@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/quotes</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>dd5d</objectGroupId>
+	<objectId>dd5dea04-078b-d2d0-0a73-1a2d8baa8b13</objectId>
+	<internal-name>Quote</internal-name>
+	<file-name>quote.xml</file-name>
+	<folder-name/>
+	<items item-list="true">	<item>	<type>DE</type>
+	<quote>&lt;div class="row ieco-foot-inner ieco-mtop-40"&gt;
+  &lt;div class="col s12 ieco-pbot-20 ieco-blue-grad"&gt;
+    &lt;div class="ieco-bd-pad-16 ieco-ht-200"&gt;
+      &lt;div class="ieco-left ieco-w-50 ieco-mtop-20"&gt;
+        &lt;p class="ieco-quotes"&gt;&lt;i&gt;"If you don't find a way to make money while you sleep, you will work until you
+            die."&lt;/i&gt;&lt;/p&gt;
+        &lt;p class="ieco-waren-txt ieco-mtop-10 "&gt;
+          -Warrenn Buffet&lt;br&gt;
+        &lt;/p&gt;
+        &lt;div class="ieco-text-white-12 ieco-opacity ieco-mtop-10"&gt;
+          CEO, Berkshire Hathaway&lt;/div&gt;
+        &lt;div class="ieco-text-white-12 ieco-opacity"&gt;
+          Net worth ₹ 6,00,000 Crore
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="ieco-right ieco-mtop-40"&gt;&lt;img src="http://iecocms.eastus.cloudapp.azure.com:8080/static-assets/images/uploaded/quotes/wb1.jpg?crafterSite=ieco_cms" /&gt;&lt;/div&gt;
+      &lt;div class="ieco-clear"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</quote>
+	</item>	<item>	<type>MF</type>
+	<quote>&lt;div class="row ieco-foot-inner ieco-mtop-40"&gt;
+  &lt;div class="col s12 ieco-pbot-20 ieco-blue-grad"&gt;
+    &lt;div class="ieco-bd-pad-16 ieco-ht-200"&gt;
+      &lt;div class="ieco-left ieco-w-50 ieco-mtop-20"&gt;
+        &lt;p class="ieco-quotes"&gt;&lt;i&gt;"If you don't find a way to make money while you sleep, you will work until you
+            die."&lt;/i&gt;&lt;/p&gt;
+        &lt;p class="ieco-waren-txt ieco-mtop-10 "&gt;
+          -Warrenn Buffet&lt;br&gt;
+        &lt;/p&gt;
+        &lt;div class="ieco-text-white-12 ieco-opacity ieco-mtop-10"&gt;
+          CEO, Berkshire Hathaway&lt;/div&gt;
+        &lt;div class="ieco-text-white-12 ieco-opacity"&gt;
+          Net worth ₹ 6,00,000 Crore
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="ieco-right ieco-mtop-40"&gt;&lt;img src="http://iecocms.eastus.cloudapp.azure.com:8080/static-assets/images/uploaded/quotes/wb2.jpg?crafterSite=ieco_cms" /&gt;&lt;/div&gt;
+      &lt;div class="ieco-clear"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</quote>
+	</item>	<item>	<type>KYC</type>
+	<quote>&lt;div class="row ieco-foot-inner ieco-mtop-40"&gt;
+  &lt;div class="col s12 ieco-pbot-20 ieco-blue-grad"&gt;
+    &lt;div class="ieco-bd-pad-16 ieco-ht-200"&gt;
+      &lt;div class="ieco-left ieco-w-50 ieco-mtop-20"&gt;
+        &lt;p class="ieco-quotes"&gt;&lt;i&gt;"If you don't find a way to make money while you sleep, you will work until you
+            die."&lt;/i&gt;&lt;/p&gt;
+        &lt;p class="ieco-waren-txt ieco-mtop-10 "&gt;
+          -Warrenn Buffet&lt;br&gt;
+        &lt;/p&gt;
+        &lt;div class="ieco-text-white-12 ieco-opacity ieco-mtop-10"&gt;
+          CEO, Berkshire Hathaway&lt;/div&gt;
+        &lt;div class="ieco-text-white-12 ieco-opacity"&gt;
+          Net worth ₹ 6,00,000 Crore
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="ieco-right ieco-mtop-40"&gt;&lt;img src="http://iecocms.eastus.cloudapp.azure.com:8080/static-assets/images/uploaded/quotes/wb3.jpg?crafterSite=ieco_cms" /&gt;&lt;/div&gt;
+      &lt;div class="ieco-clear"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</quote>
+	</item>	<item>	<type>DASHBOARD</type>
+	<quote>&lt;div class="row ieco-foot-inner ieco-mtop-40"&gt;
+  &lt;div class="col s12 ieco-pbot-20 ieco-blue-grad"&gt;
+    &lt;div class="ieco-bd-pad-16 ieco-ht-200"&gt;
+      &lt;div class="ieco-left ieco-w-50 ieco-mtop-20"&gt;
+        &lt;p class="ieco-quotes"&gt;&lt;i&gt;"If you don't find a way to make money while you sleep, you will work until you
+            die."&lt;/i&gt;&lt;/p&gt;
+        &lt;p class="ieco-waren-txt ieco-mtop-10 "&gt;
+          -Warrenn Buffet&lt;br&gt;
+        &lt;/p&gt;
+        &lt;div class="ieco-text-white-12 ieco-opacity ieco-mtop-10"&gt;
+          CEO, Berkshire Hathaway&lt;/div&gt;
+        &lt;div class="ieco-text-white-12 ieco-opacity"&gt;
+          Net worth ₹ 6,00,000 Crore
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="ieco-right ieco-mtop-40"&gt;&lt;img src="http://iecocms.eastus.cloudapp.azure.com:8080/static-assets/images/uploaded/quotes/wb4.jpg?crafterSite=ieco_cms" /&gt;&lt;/div&gt;
+      &lt;div class="ieco-clear"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</quote>
+	</item>	<item>	<type/>
+	<quote>&lt;div class="row ieco-foot-inner ieco-mtop-40"&gt;
+  &lt;div class="col s12 ieco-pbot-20 ieco-blue-grad"&gt;
+    &lt;div class="ieco-bd-pad-16 ieco-ht-200"&gt;
+      &lt;div class="ieco-left ieco-w-50 ieco-mtop-20"&gt;
+        &lt;p class="ieco-quotes"&gt;&lt;i&gt;"If you don't find a way to make money while you sleep, you will work until you
+            die."&lt;/i&gt;&lt;/p&gt;
+        &lt;p class="ieco-waren-txt ieco-mtop-10 "&gt;
+          -Warrenn Buffet&lt;br&gt;
+        &lt;/p&gt;
+        &lt;div class="ieco-text-white-12 ieco-opacity ieco-mtop-10"&gt;
+          CEO, Berkshire Hathaway&lt;/div&gt;
+        &lt;div class="ieco-text-white-12 ieco-opacity"&gt;
+          Net worth ₹ 6,00,000 Crore
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="ieco-right ieco-mtop-40"&gt;&lt;img src="http://iecocms.eastus.cloudapp.azure.com:8080/static-assets/images/uploaded/quotes/wb5.jpg?crafterSite=ieco_cms" /&gt;&lt;/div&gt;
+      &lt;div class="ieco-clear"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</quote>
+	</item></items>
+	<createdDate>2019-12-06T13:48:23.013Z</createdDate>
+	<createdDate_dt>2019-12-06T13:48:23.013Z</createdDate_dt>
+	<lastModifiedDate>2019-12-06T13:48:23.013Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-06T13:48:23.013Z</lastModifiedDate_dt>
+</component>
