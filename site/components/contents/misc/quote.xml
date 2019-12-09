@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/quotes</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>dbf7</objectGroupId>
+	<objectId>dbf70543-b99f-e228-1d9a-e6300c0408f0</objectId>
+	<internal-name>Quote</internal-name>
+	<file-name>quote.xml</file-name>
+	<folder-name/>
+	<items item-list="true">	<item>	<type>DE</type>
+	<imageLink>http://iecocms.eastus.cloudapp.azure.com:8080/static-assets/images/uploaded/quotes/warren_buffet.png?crafterSite=ieco_cms</imageLink>
+	<quote>&lt;div style=" float: left; width: 50%; margin-top: 20px"&gt;&lt;p style="text-align: left; font-family:Roboto-Regular;letter-spacing: 0;color: #FFFFFF;opacity: 1;"&gt;&lt;i&gt;"If you don't find a way to make money while you sleep, you will work until you die."&lt;/i&gt;&lt;/p&gt;&lt;p style="font-size: 14px;font-family:Roboto-Medium; letter-spacing: 0; color:  #FFFFFF; opacity: 1;  padding-top: 10px;"&gt; -Warrenn Buffet&lt;br&gt;&lt;/p&gt;&lt;div style="font-family: 'Roboto-Regular';font-size: 12px;letter-spacing: 0; color: #FFFFFF; opacity: 0.7;padding-top: 10px "&gt;&lt;div&gt;CEO, Berkshire Hathaway&lt;/div&gt;&lt;div class="ieco-text-white-12 ieco-opacity"&gt;Net worth ₹ 6,00,000 Crore&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</quote>
+	</item>	<item>	<type>KYC</type>
+	<quote>&lt;div style=" float: left; width: 50%; margin-top: 20px"&gt;&lt;p style="text-align: left; font-family:Roboto-Regular;letter-spacing: 0;color: #FFFFFF;opacity: 1;"&gt;&lt;i&gt;"If you don't find a way to make money while you sleep, you will work until you die."&lt;/i&gt;&lt;/p&gt;&lt;p style="font-size: 14px;font-family:Roboto-Medium; letter-spacing: 0; color:  #FFFFFF; opacity: 1;  padding-top: 10px;"&gt; -Warrenn Buffet&lt;br&gt;&lt;/p&gt;&lt;div style="font-family: 'Roboto-Regular';font-size: 12px;letter-spacing: 0; color: #FFFFFF; opacity: 0.7;padding-top: 10px "&gt;&lt;div&gt;CEO, Berkshire Hathaway&lt;/div&gt;&lt;div class="ieco-text-white-12 ieco-opacity"&gt;Net worth ₹ 6,00,000 Crore&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</quote>
+	<imageLink>http://iecocms.eastus.cloudapp.azure.com:8080/static-assets/images/uploaded/quotes/warren_buffet.png?crafterSite=ieco_cms</imageLink>
+	</item>	<item>	<type>DASHBOARD</type>
+	<quote>&lt;div style=" float: left; width: 50%; margin-top: 20px"&gt;&lt;p style="text-align: left; font-family:Roboto-Regular;letter-spacing: 0;color: #FFFFFF;opacity: 1;"&gt;&lt;i&gt;"If you don't find a way to make money while you sleep, you will work until you die."&lt;/i&gt;&lt;/p&gt;&lt;p style="font-size: 14px;font-family:Roboto-Medium; letter-spacing: 0; color:  #FFFFFF; opacity: 1;  padding-top: 10px;"&gt; -Warrenn Buffet&lt;br&gt;&lt;/p&gt;&lt;div style="font-family: 'Roboto-Regular';font-size: 12px;letter-spacing: 0; color: #FFFFFF; opacity: 0.7;padding-top: 10px "&gt;&lt;div&gt;CEO, Berkshire Hathaway&lt;/div&gt;&lt;div class="ieco-text-white-12 ieco-opacity"&gt;Net worth ₹ 6,00,000 Crore&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</quote>
+	<imageLink>http://iecocms.eastus.cloudapp.azure.com:8080/static-assets/images/uploaded/quotes/warren_buffet.png?crafterSite=ieco_cms</imageLink>
+	</item>	<item>	<type/>
+	<quote>&lt;div style=" float: left; width: 50%; margin-top: 20px"&gt;&lt;p style="text-align: left; font-family:Roboto-Regular;letter-spacing: 0;color: #FFFFFF;opacity: 1;"&gt;&lt;i&gt;"If you don't find a way to make money while you sleep, you will work until you die."&lt;/i&gt;&lt;/p&gt;&lt;p style="font-size: 14px;font-family:Roboto-Medium; letter-spacing: 0; color:  #FFFFFF; opacity: 1;  padding-top: 10px;"&gt; -Warrenn Buffet&lt;br&gt;&lt;/p&gt;&lt;div style="font-family: 'Roboto-Regular';font-size: 12px;letter-spacing: 0; color: #FFFFFF; opacity: 0.7;padding-top: 10px "&gt;&lt;div&gt;CEO, Berkshire Hathaway&lt;/div&gt;&lt;div class="ieco-text-white-12 ieco-opacity"&gt;Net worth ₹ 6,00,000 Crore&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</quote>
+	<imageLink>http://iecocms.eastus.cloudapp.azure.com:8080/static-assets/images/uploaded/quotes/warren_buffet.png?crafterSite=ieco_cms</imageLink>
+	</item>	<item>	<type>MF</type>
+	<quote>&lt;div style=" float: left; width: 50%; margin-top: 20px"&gt;&lt;p style="text-align: left; font-family:Roboto-Regular;letter-spacing: 0;color: #FFFFFF;opacity: 1;"&gt;&lt;i&gt;"If you don't find a way to make money while you sleep, you will work until you die."&lt;/i&gt;&lt;/p&gt;&lt;p style="font-size: 14px;font-family:Roboto-Medium; letter-spacing: 0; color:  #FFFFFF; opacity: 1;  padding-top: 10px;"&gt; -Warrenn Buffet&lt;br&gt;&lt;/p&gt;&lt;div style="font-family: 'Roboto-Regular';font-size: 12px;letter-spacing: 0; color: #FFFFFF; opacity: 0.7;padding-top: 10px "&gt;&lt;div&gt;CEO, Berkshire Hathaway&lt;/div&gt;&lt;div class="ieco-text-white-12 ieco-opacity"&gt;Net worth ₹ 6,00,000 Crore&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</quote>
+	<imageLink>http://iecocms.eastus.cloudapp.azure.com:8080/static-assets/images/uploaded/quotes/warren_buffet.png?crafterSite=ieco_cms</imageLink>
+	</item></items>
+	<createdDate>2019-12-09T07:14:45.886Z</createdDate>
+	<createdDate_dt>2019-12-09T07:14:45.886Z</createdDate_dt>
+	<lastModifiedDate>2019-12-09T07:14:45.886Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-09T07:14:45.886Z</lastModifiedDate_dt>
+</component>
