@@ -9,20 +9,20 @@
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
 	<file-name>stock-landing.xml</file-name>
 	<folder-name/>
-	<subComp item-list="true">	<item>	<imageLink>/static-assets/images/uploaded/de/bar_graph.png</imageLink>
+	<subComp item-list="true">	<item>	<imageLink>http://iecocms.eastus.cloudapp.azure.com:8080/static-assets/images/uploaded/de/bar_graph.png?crafterSite=ieco_cms</imageLink>
 	<heading>Duis aute irure dolor in reprehenderit</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
 	<action_label>3 min read</action_label>
 	<action_route>link/to/3-min-read</action_route>
 	<uploadImage/>
 	</item>	<item>	<uploadImage/>
-	<imageLink>/static-assets/images/uploaded/de/newpapers_article.png</imageLink>
+	<imageLink>http://iecocms.eastus.cloudapp.azure.com:8080/static-assets/images/uploaded/de/newpapers_article.png?crafterSite=ieco_cms</imageLink>
 	<heading>Duis aute irure dolor in reprehenderit</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
 	<action_label>3 min read</action_label>
 	<action_route>link/to/3-min-read</action_route>
 	</item>	<item>	<uploadImage/>
-	<imageLink>/static-assets/images/uploaded/de/paper.png</imageLink>
+	<imageLink>http://iecocms.eastus.cloudapp.azure.com:8080/static-assets/images/uploaded/de/paper.png?crafterSite=ieco_cms</imageLink>
 	<heading>Duis aute irure dolor in reprehenderit</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
 	<action_label>3 min read</action_label>
@@ -47,8 +47,8 @@
 	</item></attr>
 	<createdDate>2019-11-27T10:49:00.673Z</createdDate>
 	<createdDate_dt>2019-11-27T10:49:00.673Z</createdDate_dt>
-	<lastModifiedDate>2019-12-03T09:28:07.917Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-12-03T09:28:07.917Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-12-09T08:11:29.208Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-09T08:11:29.208Z</lastModifiedDate_dt>
 	<section item-list="true">	<item>	<name>Blogs and articles</name>
 	</item>	<item>	<name>News</name>
 	</item></section>
