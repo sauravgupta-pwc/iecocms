@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
-	<savedAsDraft>true</savedAsDraft>	<content-type>/component/dreams_list</content-type>	<display-template/>
+	<content-type>/component/dreams_list</content-type>	<display-template/>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>2782</objectGroupId>
 	<objectId>278297c0-19bc-bf9a-874c-2ca027329adc</objectId>
