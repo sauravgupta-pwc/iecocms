@@ -5,25 +5,25 @@
 	<objectGroupId>9f68</objectGroupId>
 	<objectId>9f683d01-080b-9663-e956-87b5d65df0c1</objectId>
 	<all_dreams item-list="true">	<item>	<title>Achieve all &lt;b&gt;your dreams&lt;/b&gt;</title>
-	<section_id>/prelogin/dreams?section=dreams_list</section_id>
+	<section_id>/prelogin/dashboard/dreams?section=dreams_list</section_id>
 	</item></all_dreams>
 	<investments item-list="true">	<item>	<title>By investing in &lt;b&gt;what’s right for you&lt;/b&gt;</title>
-	<section_id>/prelogin/welcome?section=investment_types</section_id>
+	<section_id>/prelogin/dashboard/dreams?section=dream_type_list</section_id>
 	</item></investments>
 	<wealth_advise item-list="true">	<item>	<title>With expert advisory used by the uber-rich on your</title>
-	<section_id>/prelogin/welcome?section=wealth_plan</section_id>
+	<section_id>/prelogin/dashboard/welcome?section=wealth_plan</section_id>
 	</item></wealth_advise>
-	<start_invest item-list="true">	<item>	<section_id>/prelogin/welcome?section=start_investing</section_id>
+	<start_invest item-list="true">	<item>	<section_id>/prelogin/dashboard/welcome?section=start_investing</section_id>
 	</item></start_invest>
-	<investmnt_list item-list="true">	<item>	<section_id>/prelogin/welcome?section=investment_tabs</section_id>
+	<investmnt_list item-list="true">	<item>	<section_id>/prelogin/dashboard/welcome?section=investment_tabs</section_id>
 	</item></investmnt_list>
-	<already_invested item-list="true">	<item>	<section_id>/prelogin/welcome?section=already_invested</section_id>
+	<already_invested item-list="true">	<item>	<section_id>/prelogin/dashboard/welcome?section=already_invested</section_id>
 	</item></already_invested>
-	<cas_list item-list="true">	<item>	<section_id>/prelogin/welcome?section=cas_tabs</section_id>
+	<cas_list item-list="true">	<item>	<section_id>/prelogin/dashboard/welcome?section=cas_tabs</section_id>
 	</item></cas_list>
-	<brand_info item-list="true">	<item>	<section_id>/prelogin/welcome?section=kotak_brand</section_id>
+	<brand_info item-list="true">	<item>	<section_id>/prelogin/dashboard/welcome?section=kotak_brand</section_id>
 	</item></brand_info>
-	<wealth item-list="true">	<item>	<section_id>/prelogin/welcome?section=increase_your_wealth</section_id>
+	<wealth item-list="true">	<item>	<section_id>/prelogin/dashboard/welcome?section=increase_your_wealth</section_id>
 	</item></wealth>
 	<cool_features item-list="true">	<item>	<title>More cool features</title>
 	<sub_title>Watch your money &lt;b&gt;grow&lt;/b&gt;</sub_title>
@@ -32,15 +32,15 @@
 	<articles item-list="true">	<item>	<title>Read. Learn. &lt;b&gt;Profit.&lt;/b&gt;</title>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
 	<action_label>See more articles</action_label>
-	<section_id>/prelogin/welcome?section=read_learn_profit</section_id>
+	<section_id>/prelogin/dashboard/welcome?section=read_learn_profit</section_id>
 	</item></articles>
-	<ceo_quote item-list="true">	<item>	<section_id>/prelogin/welcome?section=ceo_message</section_id>
+	<ceo_quote item-list="true">	<item>	<section_id>/prelogin/dashboard/welcome?section=ceo_message</section_id>
 	</item></ceo_quote>
 	<internal-name>Main Component</internal-name>
 	<file-name>main.xml</file-name>
 	<folder-name/>
 	<createdDate>2019-11-25T07:10:06.229Z</createdDate>
 	<createdDate_dt>2019-11-25T07:10:06.229Z</createdDate_dt>
-	<lastModifiedDate>2019-11-28T04:30:28.694Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-28T04:30:28.694Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-11-25T10:19:22.039Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-11-25T10:19:22.039Z</lastModifiedDate_dt>
 </component>
