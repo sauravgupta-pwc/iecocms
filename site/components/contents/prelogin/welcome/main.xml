@@ -10,7 +10,7 @@
 	<investments item-list="true">	<item>	<title>By investing in &lt;b&gt;what’s right for you&lt;/b&gt;</title>
 	<section_id>/prelogin/dashboard/dreams?section=dream_type_list</section_id>
 	</item></investments>
-	<wealth_advise item-list="true">	<item>	<title>With expert advisory used by the uber-rich on your</title>
+	<wealth_advise item-list="true">	<item>	<title>With expert advisory used by the uber-rich &lt;b&gt;on your side&lt;/b&gt;</title>
 	<section_id>/prelogin/dashboard/welcome?section=wealth_plan</section_id>
 	</item></wealth_advise>
 	<start_invest item-list="true">	<item>	<section_id>/prelogin/dashboard/welcome?section=start_investing</section_id>
@@ -41,6 +41,6 @@
 	<folder-name/>
 	<createdDate>2019-11-25T07:10:06.229Z</createdDate>
 	<createdDate_dt>2019-11-25T07:10:06.229Z</createdDate_dt>
-	<lastModifiedDate>2019-12-12T05:17:38.021Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-12-12T05:17:38.021Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-12-12T05:18:27.034Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-12T05:18:27.034Z</lastModifiedDate_dt>
 </component>
