@@ -180,7 +180,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value>image_picker</value>
+							<value>imagepicker,image_repo</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
@@ -833,6 +833,19 @@
 					<type>img-desktop-upload</type>
 					<id>image_picker</id>
 					<title>image_picker</title>
+					<interface>image</interface>
+					<properties>
+						<property>
+							<name>repoPath</name>
+							<value>/static-assets/images/dreams</value>
+								<type>undefined</type>
+						</property>
+					</properties>
+				</datasource>
+				<datasource>
+					<type>img-repository-upload</type>
+					<id>image_repo</id>
+					<title>image_repo</title>
 					<interface>image</interface>
 					<properties>
 						<property>
