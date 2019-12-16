@@ -58,7 +58,7 @@
 	<pursuing_text_3>Pursuing this dream</pursuing_text_3>
 	<deadline_date>2020-01-25T05:00:00.000Z</deadline_date>
 	<deadline_date_tz>EST5EDT</deadline_date_tz>
-	</item>	<item>	<image/>
+	</item>	<item>	<image>/static-assets/images/dreams/dream_1.png</image>
 	<title>Vacation in Bali</title>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
 	<amount>₹ 90,000</amount>
@@ -77,7 +77,7 @@
 	</item></dreams>
 	<createdDate>2019-11-22T12:31:48.225Z</createdDate>
 	<createdDate_dt>2019-11-22T12:31:48.225Z</createdDate_dt>
-	<lastModifiedDate>2019-12-16T14:00:49.760Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-12-16T14:00:49.760Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-12-16T14:22:25.146Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-16T14:22:25.146Z</lastModifiedDate_dt>
 	<no_of_dreams>4</no_of_dreams>
 </component>
