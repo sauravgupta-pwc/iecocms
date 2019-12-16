@@ -58,10 +58,26 @@
 	<pursuing_text_3>Pursuing this dream</pursuing_text_3>
 	<deadline_date>2020-01-25T05:00:00.000Z</deadline_date>
 	<deadline_date_tz>EST5EDT</deadline_date_tz>
+	</item>	<item>	<image/>
+	<title>Vacation in Bali</title>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<amount>₹ 90,000</amount>
+	<discounted_amt>₹ 50,000</discounted_amt>
+	<sub_label>Free for 5 achievers</sub_label>
+	<action_label>Live it in Apr 2020</action_label>
+	<section_id>/prelogin/dream_details?section=dream_1</section_id>
+	<bg_color>#2145AE</bg_color>
+	<goal_type_id>8</goal_type_id>
+	<deadline_label>Achievement deadline</deadline_label>
+	<pursuing_text_1>50 pursuing</pursuing_text_1>
+	<pursuing_text_2>50 people</pursuing_text_2>
+	<pursuing_text_3>Pursuing this dream</pursuing_text_3>
+	<deadline_date>2020-01-25T05:00:00.000Z</deadline_date>
+	<deadline_date_tz>EST5EDT</deadline_date_tz>
 	</item></dreams>
 	<createdDate>2019-11-22T12:31:48.225Z</createdDate>
 	<createdDate_dt>2019-11-22T12:31:48.225Z</createdDate_dt>
-	<lastModifiedDate>2019-12-13T10:08:20.860Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-12-13T10:08:20.860Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-12-16T14:00:49.760Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-16T14:00:49.760Z</lastModifiedDate_dt>
 	<no_of_dreams>4</no_of_dreams>
 </component>
