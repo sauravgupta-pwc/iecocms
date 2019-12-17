@@ -11,15 +11,11 @@
 	<file-name>footer.xml</file-name>
 	<folder-name/>
 	<company_detail>&lt;p&gt;&lt;b&gt;Kotak Investment Advisors Ltd&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;SEBI Registration # 123456789&lt;/p&gt;
-&lt;p&gt;Investment Advisor 123456789&lt;/p&gt;</company_detail>
+&lt;p&gt;SEBI Registration # 123456789&lt;br /&gt; Investment Advisor 123456789&lt;/p&gt;</company_detail>
 	<address>&lt;p&gt;Registered address&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet&lt;/p&gt;
-&lt;p&gt;Consetetur sadipscing elitr,&lt;/p&gt;
-&lt;p&gt;Dunt ut labore et dolore magna aliquyam&lt;/p&gt;
-&lt;p&gt;Sed diam voluptua.&lt;/p&gt;</address>
+&lt;p&gt;Lorem ipsum dolor sit amet&lt;br /&gt; Consetetur sadipscing elitr,&lt;br /&gt; Dunt ut labore et dolore magna aliquyam&lt;br /&gt; Sed diam voluptua.&lt;/p&gt;</address>
 	<createdDate>2019-12-13T11:13:58.490Z</createdDate>
 	<createdDate_dt>2019-12-13T11:13:58.490Z</createdDate_dt>
-	<lastModifiedDate>2019-12-17T07:10:07.590Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-12-17T07:10:07.590Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-12-17T07:14:35.943Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-17T07:14:35.943Z</lastModifiedDate_dt>
 </component>
