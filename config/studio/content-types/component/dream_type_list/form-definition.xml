@@ -266,7 +266,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>repo_picker,desktop_picker</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
@@ -374,5 +374,31 @@
 			</fields>
 		</section>
 	</sections>
-	<datasources>	</datasources>
+	<datasources>				<datasource>
+					<type>img-repository-upload</type>
+					<id>repo_picker</id>
+					<title>repo_picker</title>
+					<interface>image</interface>
+					<properties>
+						<property>
+							<name>repoPath</name>
+							<value>/static-assets/images/dream_type</value>
+								<type>undefined</type>
+						</property>
+					</properties>
+				</datasource>
+				<datasource>
+					<type>img-desktop-upload</type>
+					<id>desktop_picker</id>
+					<title>desktop_picker</title>
+					<interface>image</interface>
+					<properties>
+						<property>
+							<name>repoPath</name>
+							<value>/static-assets/images/dream_type</value>
+								<type>undefined</type>
+						</property>
+					</properties>
+				</datasource>
+	</datasources>
 </form>
