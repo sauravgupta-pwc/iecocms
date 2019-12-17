@@ -289,42 +289,32 @@
 					</constraints>
 				</field>
 				<field>
-					<type>image-picker</type>
-					<id>image</id>
+					<type>input</type>
+					<id>id</id>
 					<iceId></iceId>
-					<title>image</title>
+					<title>id</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
 					<properties>
 						<property>
-							<name>width</name>
-							<value>{ &quot;exact&quot;:&quot;&quot;, &quot;min&quot;:&quot;&quot;, &quot;max&quot;:&quot;&quot; }</value>
-							<type>range</type>
-						</property>
-						<property>
-							<name>height</name>
-							<value>{ &quot;exact&quot;:&quot;&quot;, &quot;min&quot;:&quot;&quot;, &quot;max&quot;:&quot;&quot; }</value>
-							<type>range</type>
-						</property>
-						<property>
-							<name>thumbnailWidth</name>
-							<value></value>
+							<name>size</name>
+							<value>50</value>
 							<type>int</type>
 						</property>
 						<property>
-							<name>thumbnailHeight</name>
-							<value></value>
+							<name>maxlength</name>
+							<value>50</value>
 							<type>int</type>
-						</property>
-						<property>
-							<name>imageManager</name>
-							<value></value>
-							<type>datasource:image</type>
 						</property>
 						<property>
 							<name>readonly</name>
 							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>tokenize</name>
+							<value>false</value>
 							<type>boolean</type>
 						</property>
 					</properties>
@@ -334,6 +324,11 @@
 							<value><![CDATA[]]></value>
 							<type>boolean</type>
 						</constraint>
+						<constraint>
+							<name>pattern</name>
+							<value><![CDATA[]]></value>
+							<type>string</type>
+						</constraint>
 					</constraints>
 				</field>
 					</fields>
@@ -341,31 +336,5 @@
 			</fields>
 		</section>
 	</sections>
-	<datasources>				<datasource>
-					<type>img-desktop-upload</type>
-					<id>desktop</id>
-					<title>Desktop</title>
-					<interface>image</interface>
-					<properties>
-						<property>
-							<name>repoPath</name>
-							<value></value>
-								<type>undefined</type>
-						</property>
-					</properties>
-				</datasource>
-				<datasource>
-					<type>img-repository-upload</type>
-					<id>repository</id>
-					<title>Repository</title>
-					<interface>image</interface>
-					<properties>
-						<property>
-							<name>repoPath</name>
-							<value></value>
-								<type>undefined</type>
-						</property>
-					</properties>
-				</datasource>
-	</datasources>
+	<datasources>	</datasources>
 </form>
