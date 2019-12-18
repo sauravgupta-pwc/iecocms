@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/dream_detail</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>24f1</objectGroupId>
+	<objectId>24f13e7b-dc3d-8341-1e0a-69ee11b757da</objectId>
+	<file-name>dream_test.xml</file-name>
+	<internal-name>Dream Test</internal-name>
+	<details_heading>TEst</details_heading>
+	<detail_desc>Test</detail_desc>
+	<offer_label>Test</offer_label>
+	<offer_desc>Test</offer_desc>
+	<terms_label>Test</terms_label>
+	<action_label>TEst</action_label>
+	<folder-name/>
+	<terms_desc>&lt;p&gt;testsas&lt;/p&gt;</terms_desc>
+	<createdDate>2019-12-18T04:50:29.366Z</createdDate>
+	<createdDate_dt>2019-12-18T04:50:29.366Z</createdDate_dt>
+	<lastModifiedDate>2019-12-18T04:50:29.366Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-18T04:50:29.366Z</lastModifiedDate_dt>
+</component>
