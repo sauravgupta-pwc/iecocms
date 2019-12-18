@@ -401,6 +401,19 @@
 						</constraint>
 					</constraints>
 				</field>
+				<field>
+					<type>auto-filename</type>
+					<id>file-name</id>
+					<iceId></iceId>
+					<title>dream_id</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+					</properties>
+					<constraints>
+					</constraints>
+				</field>
 			</fields>
 		</section>
 	</sections>
