@@ -32,7 +32,7 @@
 	<articles item-list="true">	<item>	<title>Read. Learn. &lt;b&gt;Profit.&lt;/b&gt;</title>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
 	<action_label>See more articles</action_label>
-	<section_id>/prelogin/welcome?section=read_learn_profit</section_id>
+	<section_id>/misc/article?section=article_main</section_id>
 	</item></articles>
 	<ceo_quote item-list="true">	<item>	<section_id>/prelogin/welcome?section=ceo_message</section_id>
 	</item></ceo_quote>
@@ -41,6 +41,6 @@
 	<folder-name/>
 	<createdDate>2019-11-25T07:10:06.229Z</createdDate>
 	<createdDate_dt>2019-11-25T07:10:06.229Z</createdDate_dt>
-	<lastModifiedDate>2019-12-12T06:24:27.700Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-12-12T06:24:27.700Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-12-18T13:25:32.976Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-18T13:25:32.976Z</lastModifiedDate_dt>
 </component>
