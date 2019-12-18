@@ -4,13 +4,9 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>edd92fe1</objectGroupId>
 	<objectId>edd92fe1-895e-4c02-88a1-9906ecc4edd5</objectId>
-	<internal-name>Mutual fund Articles 216482d5</internal-name>
-	<heading>Read. Learn. Profit.</heading>
-	<action_label>sample text</action_label>
-	<action_route>sample text</action_route>
-	<file-name>mutual_fund-216482d5.xml</file-name>
-	<folder-name>article</folder-name>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<internal-name>Stocks Article</internal-name>
+	<file-name>stocks.xml</file-name>
+	<folder-name/>
 	<subComp item-list="true">	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
 	<amount>sample text</amount>
@@ -35,6 +31,6 @@
 	</item></subComp>
 	<createdDate>2019-08-20T20:18:20.619Z</createdDate>
 	<createdDate_dt>2019-08-20T20:18:20.619Z</createdDate_dt>
-	<lastModifiedDate>2019-12-18T10:54:18.618Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-12-18T10:54:18.618Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-12-18T11:03:32.020Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-18T11:03:32.020Z</lastModifiedDate_dt>
 </component>
