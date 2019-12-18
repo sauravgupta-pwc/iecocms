@@ -403,7 +403,7 @@
 				</field>
 				<field>
 					<type>auto-filename</type>
-					<id>file-name</id>
+					<id>dream_id</id>
 					<iceId></iceId>
 					<title>dream_id</title>
 					<description></description>
