@@ -4,7 +4,7 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>edd92fe1</objectGroupId>
 	<objectId>edd92fe1-895e-4c02-88a1-9906ecc4edd5</objectId>
-	<internal-name>Stocks Article</internal-name>
+	<internal-name>Stocks Articles</internal-name>
 	<file-name>stocks.xml</file-name>
 	<folder-name/>
 	<subComp item-list="true">	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
@@ -31,6 +31,6 @@
 	</item></subComp>
 	<createdDate>2019-08-20T20:18:20.619Z</createdDate>
 	<createdDate_dt>2019-08-20T20:18:20.619Z</createdDate_dt>
-	<lastModifiedDate>2019-12-18T11:03:32.020Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-12-18T11:03:32.020Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-12-18T11:04:25.854Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-18T11:04:25.854Z</lastModifiedDate_dt>
 </component>
