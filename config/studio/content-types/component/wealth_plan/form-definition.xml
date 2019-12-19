@@ -81,83 +81,10 @@
 			</fields>
 		</section>
 		<section>
-			<title>Default Section Title 1574604605022</title>
+			<title>Default Section Title 1576749240856</title>
 			<description></description>
 			<defaultOpen>false</defaultOpen>
 			<fields>
-				<field>
-					<type>rte</type>
-					<id>description</id>
-					<iceId></iceId>
-					<title>description</title>
-					<description></description>
-					<defaultValue></defaultValue>
-					<help></help>
-					<properties>
-						<property>
-							<name>width</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>height</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>maxlength</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>allowResize</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceRootBlockPTag</name>
-							<value>true</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forcePTags</name>
-							<value>true</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceBRTags</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceImageAlts</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>supportedChannels</name>
-							<value></value>
-							<type>supportedChannels</type>
-						</property>
-						<property>
-							<name>rteConfiguration</name>
-							<value>generic</value>
-							<type>string</type>
-						</property>
-						<property>
-							<name>imageManager</name>
-							<value></value>
-							<type>datasource:image</type>
-						</property>
-					</properties>
-					<constraints>
-						<constraint>
-							<name>required</name>
-							<value><![CDATA[]]></value>
-							<type>boolean</type>
-						</constraint>
-					</constraints>
-				</field>
 				<field>
 					<type>input</type>
 					<id>action_label</id>
@@ -241,6 +168,49 @@
 							<name>pattern</name>
 							<value><![CDATA[]]></value>
 							<type>string</type>
+						</constraint>
+					</constraints>
+				</field>
+				<field>
+					<type>textarea</type>
+					<id>description</id>
+					<iceId></iceId>
+					<title>description</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>cols</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>rows</name>
+							<value>5</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value>100000</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>allowResize</name>
+							<value>true</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[]]></value>
+							<type>boolean</type>
 						</constraint>
 					</constraints>
 				</field>
