@@ -4,9 +4,9 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>e43140de</objectGroupId>
 	<objectId>e43140de-023a-4113-af92-87ce72fff022</objectId>
-	<internal-name>Deposit Articles 5a9248cd</internal-name>
-	<file-name>deposit-5a9248cd.xml</file-name>
-	<folder-name>article</folder-name>
+	<internal-name>Article Main</internal-name>
+	<file-name>article_main.xml</file-name>
+	<folder-name/>
 	<subComp item-list="true">	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
 	<amount>sample text</amount>
@@ -31,6 +31,6 @@
 	</item></subComp>
 	<createdDate>2019-08-20T20:18:20.619Z</createdDate>
 	<createdDate_dt>2019-08-20T20:18:20.619Z</createdDate_dt>
-	<lastModifiedDate>2019-12-18T11:04:55.219Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-12-18T11:04:55.219Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-12-19T05:52:08.322Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-19T05:52:08.322Z</lastModifiedDate_dt>
 </component>
