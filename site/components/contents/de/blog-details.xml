@@ -5,7 +5,7 @@
 	<objectGroupId>02d2</objectGroupId>
 	<objectId>02d285b4-2b52-2489-a007-eab53af0902d</objectId>
 	<internal-name>Blog Details</internal-name>
-	<imageLink>http://iecocms.eastus.cloudapp.azure.com:8080/static-assets/images/uploaded/123.jpg?crafterSite=ieco_cms</imageLink>
+	<imageLink>/static-assets/images/uploaded/123.jpg?crafterSite=ieco_cms</imageLink>
 	<heading>Lorem ipsum dolor sit amet, consectetur adipiscing elit</heading>
 	<date/>
 	<source/>
@@ -19,6 +19,6 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam.&lt;/p&gt;</description>
 	<createdDate>2019-11-29T14:37:48.266Z</createdDate>
 	<createdDate_dt>2019-11-29T14:37:48.266Z</createdDate_dt>
-	<lastModifiedDate>2019-12-09T07:08:01.223Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-12-09T07:08:01.223Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-12-20T10:05:45.925Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-20T10:05:45.925Z</lastModifiedDate_dt>
 </component>
