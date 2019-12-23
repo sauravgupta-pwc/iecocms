@@ -955,9 +955,9 @@
 				</field>
 				<field>
 					<type>input</type>
-					<id>maximum</id>
+					<id>tenure_min</id>
 					<iceId></iceId>
-					<title>maximum</title>
+					<title>tenure_min</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
