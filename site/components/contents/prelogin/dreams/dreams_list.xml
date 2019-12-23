@@ -38,6 +38,8 @@
 	<taking_loan_min>5.0%</taking_loan_min>
 	<taking_loan_max>95.0%</taking_loan_max>
 	<taking_loan_intervals>10.0%</taking_loan_intervals>
+	<tenure_color>Red: Till 2, Amber: 3 - 4, Green post that</tenure_color>
+	<taking_laon_color>Green: Till 45%, Amber: 55 - 75%, Red post that</taking_laon_color>
 	</item>	<item>	<image>/static-assets/images/dreams/dream_2.png</image>
 	<title>IPL’20 season tickets</title>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
@@ -66,6 +68,8 @@
 	<taking_loan_min>5.0%</taking_loan_min>
 	<taking_loan_max>95.0%</taking_loan_max>
 	<taking_loan_intervals>10.0%</taking_loan_intervals>
+	<tenure_color>Red: Till 2, Amber: 3 - 4, Green post that</tenure_color>
+	<taking_laon_color>Green: Till 45%, Amber: 55 - 75%, Red post that</taking_laon_color>
 	</item>	<item>	<image>/static-assets/images/dreams/dream_3.png</image>
 	<title>iPhone 11</title>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
@@ -94,10 +98,12 @@
 	<taking_loan_min>5.0%</taking_loan_min>
 	<taking_loan_max>95.0%</taking_loan_max>
 	<taking_loan_intervals>10.0%</taking_loan_intervals>
+	<tenure_color>Red: Till 2, Amber: 3 - 4, Green post that</tenure_color>
+	<taking_laon_color>Green: Till 45%, Amber: 55 - 75%, Red post that</taking_laon_color>
 	</item></dreams>
 	<createdDate>2019-11-22T12:31:48.225Z</createdDate>
 	<createdDate_dt>2019-11-22T12:31:48.225Z</createdDate_dt>
-	<lastModifiedDate>2019-12-23T17:50:37.638Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-12-23T17:50:37.638Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-12-23T18:12:16.331Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-23T18:12:16.331Z</lastModifiedDate_dt>
 	<no_of_dreams>4</no_of_dreams>
 </component>
