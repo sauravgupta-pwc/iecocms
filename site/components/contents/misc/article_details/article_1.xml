@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/articledetails</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5b20</objectGroupId>
+	<objectId>5b20fb61-629d-42a3-2a33-26c066a952a5</objectId>
+	<internal-name>Article Detail</internal-name>
+	<pre_heading>MUTUAL FUNDS</pre_heading>
+	<heading>Lorem ipsum dolor sit amet, consectetur adipiscing elit</heading>
+	<sub_heading>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</sub_heading>
+	<description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+ Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam.</description>
+	<file-name>article_1.xml</file-name>
+	<folder-name/>
+	<createdDate>2019-12-23T14:03:19.662Z</createdDate>
+	<createdDate_dt>2019-12-23T14:03:19.662Z</createdDate_dt>
+	<lastModifiedDate>2019-12-23T14:03:19.662Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-23T14:03:19.662Z</lastModifiedDate_dt>
+</component>
