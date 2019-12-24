@@ -5,12 +5,8 @@
 	<objectGroupId>96a64a6b</objectGroupId>
 	<objectId>96a64a6b-183f-492c-b1f8-895509d3399f</objectId>
 	<internal-name>Mutual fund Articles</internal-name>
-	<heading>Read. Learn. Profit.</heading>
-	<action_label>sample text</action_label>
-	<action_route>sample text</action_route>
 	<file-name>mutual_fund.xml</file-name>
 	<folder-name/>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
 	<subComp item-list="true">	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
 	<amount>sample text</amount>
@@ -18,6 +14,7 @@
 	<action-route>sample text</action-route>
 	<image>/static-assets/images/learn/learn_1.png</image>
 	<discount_amount/>
+	<section_id>/misc/article_details?section=article_1</section_id>
 	</item>	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
 	<image>/static-assets/images/learn/learn_2.png</image>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
@@ -25,6 +22,7 @@
 	<action_label>3 min read</action_label>
 	<action-route/>
 	<discount_amount/>
+	<section_id>/misc/article_details?section=article_1</section_id>
 	</item>	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
 	<image>/static-assets/images/learn/learn_3.png</image>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
@@ -32,9 +30,11 @@
 	<action_label>3 min read</action_label>
 	<action-route/>
 	<discount_amount/>
+	<section_id>/misc/article_details?section=article_1</section_id>
 	</item></subComp>
 	<createdDate>2019-08-20T20:18:20.619Z</createdDate>
 	<createdDate_dt>2019-08-20T20:18:20.619Z</createdDate_dt>
-	<lastModifiedDate>2019-12-18T10:54:18.618Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-12-18T10:54:18.618Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-12-24T11:39:08.795Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-24T11:39:08.795Z</lastModifiedDate_dt>
+	<max_elements/>
 </component>
