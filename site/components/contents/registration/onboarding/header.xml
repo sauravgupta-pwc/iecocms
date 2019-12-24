@@ -8,7 +8,7 @@
 	<folder-name/>
 	<internal-name>Header</internal-name>
 	<heading>Let’s get you on board</heading>
-	<description>Please fill the following mandatory details to get register</description>
+	<description>Share a few basic details with us to quickly embark on your investment journey</description>
 	<subComp item-list="true">	<item>	<heading>Already have an account?</heading>
 	<description/>
 	<action_label>Sign in</action_label>
@@ -16,7 +16,7 @@
 	</item></subComp>
 	<createdDate>2019-10-14T07:58:19.400Z</createdDate>
 	<createdDate_dt>2019-10-14T07:58:19.400Z</createdDate_dt>
-	<lastModifiedDate>2019-10-30T11:46:11.491Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-10-30T11:46:11.491Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-12-24T10:47:24.223Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-24T10:47:24.223Z</lastModifiedDate_dt>
 	<footer/>
 </component>
