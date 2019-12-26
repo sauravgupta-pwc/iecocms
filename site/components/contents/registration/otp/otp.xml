@@ -6,13 +6,13 @@
 	<objectId>9790a869-3ef6-2287-ded2-2c58b88fa5bc</objectId>
 	<description>An OTP has been sent to your mobile number</description>
 	<internal-name>OTP - Mobile</internal-name>
-	<heading>Enter mobile OTP</heading>
+	<heading>Enter you mobile OTP (1/2)</heading>
 	<footer_label>Next</footer_label>
 	<footer_action/>
 	<file-name>otp.xml</file-name>
 	<folder-name/>
 	<createdDate>2019-11-06T10:20:25.990Z</createdDate>
 	<createdDate_dt>2019-11-06T10:20:25.990Z</createdDate_dt>
-	<lastModifiedDate>2019-12-26T07:47:56.701Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-12-26T07:47:56.701Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-12-26T07:54:25.329Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-26T07:54:25.329Z</lastModifiedDate_dt>
 </component>
