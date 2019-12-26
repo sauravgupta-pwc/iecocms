@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent6</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7625</objectGroupId>
+	<objectId>7625dad1-8c00-9f3e-ea15-b2aa279f5769</objectId>
+	<internal-name>dashboard</internal-name>
+	<heading>Mutual funds</heading>
+	<footer/>
+	<file-name>dashboard.xml</file-name>
+	<folder-name/>
+	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
+	<subComp item-list="true">	<item>	<heading>Investment distribution</heading>
+	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.&lt;/p&gt;</description>
+	<action_label/>
+	<action_route/>
+	<id/>
+	</item></subComp>
+	<attr item-list="true">	<item>	<key>Account statement</key>
+	<value/>
+	<id>acct_stmt</id>
+	</item>	<item>	<key>ELSS statement, id</key>
+	<value/>
+	<id>elss_stmt</id>
+	</item>	<item>	<key>Capital gain statement</key>
+	<value/>
+	<id>cap_stmt</id>
+	</item>	<item>	<key>Switch funds</key>
+	<value/>
+	<id>sw_fund</id>
+	</item>	<item>	<key>Systematic transfer plan (STP)</key>
+	<value/>
+	<id>stp</id>
+	</item>	<item>	<key>Systematic withdrawal plan (SWP)</key>
+	<value/>
+	<id>swp</id>
+	</item>	<item>	<key>Favorites</key>
+	<value/>
+	<id>fav</id>
+	</item>	<item>	<key>Past mutual funds</key>
+	<value/>
+	<id>past_mf</id>
+	</item>	<item>	<key>Learn about investing in mutual funds</key>
+	<value/>
+	<id>learn_mf</id>
+	</item></attr>
+	<createdDate>2019-12-26T16:08:45.478Z</createdDate>
+	<createdDate_dt>2019-12-26T16:08:45.478Z</createdDate_dt>
+	<lastModifiedDate>2019-12-26T16:08:45.478Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-26T16:08:45.478Z</lastModifiedDate_dt>
+</component>
