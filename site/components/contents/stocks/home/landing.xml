@@ -7,14 +7,14 @@
 	<internal-name>landing</internal-name>
 	<heading>Buy Stocks</heading>
 	<search>Search stocks</search>
-	<description>lorem ipsum</description>
+	<description>Invest in equities to give your portfolio an edge</description>
 	<file-name>landing.xml</file-name>
 	<folder-name/>
 	<sensex item-list="true">	<item>	<name>BSE</name>
 	</item>	<item>	<name>NSE</name>
 	</item></sensex>
 	<components item-list="true">	<item>	<heading>Stock Basket</heading>
-	<description>lorem ipsum</description>
+	<description>Invest in a specially curated baskets or create your own themed basket</description>
 	<lastmodified>last changed 15 Aug 2019</lastmodified>
 	<actionroute/>
 	</item>	<item>	<heading>Initial public offering</heading>
@@ -22,12 +22,12 @@
 	<lastmodified>last changed 15 Aug 2019</lastmodified>
 	<actionroute/>
 	</item>	<item>	<heading>Exchange traded funds</heading>
-	<description>lorem ipsum</description>
+	<description>Invest in an ETF - a basket of securities that is listed and traded on the stock exchange</description>
 	<lastmodified/>
 	<actionroute/>
 	</item></components>
 	<createdDate>2019-09-23T12:33:50.190Z</createdDate>
 	<createdDate_dt>2019-09-23T12:33:50.190Z</createdDate_dt>
-	<lastModifiedDate>2019-09-23T12:33:50.190Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-09-23T12:33:50.190Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-12-26T12:28:02.844Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-26T12:28:02.844Z</lastModifiedDate_dt>
 </component>
