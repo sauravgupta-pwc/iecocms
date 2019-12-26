@@ -4,15 +4,15 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>25e4</objectGroupId>
 	<objectId>25e408d0-bb20-4f74-5c29-3dfdd043f867</objectId>
-	<description>Enter Email OTP</description>
+	<description>An OTP has been sent to your email</description>
 	<internal-name>OTP Email</internal-name>
-	<heading>We have sent an OTP to</heading>
+	<heading>Enter Email OTP (2/2)</heading>
 	<footer_label>Next</footer_label>
 	<footer_action/>
 	<file-name>otp-email.xml</file-name>
 	<folder-name/>
 	<createdDate>2019-11-06T10:57:43.423Z</createdDate>
 	<createdDate_dt>2019-11-06T10:57:43.423Z</createdDate_dt>
-	<lastModifiedDate>2019-11-06T10:57:43.423Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-06T10:57:43.423Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-12-26T07:58:52.488Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-26T07:58:52.488Z</lastModifiedDate_dt>
 </component>
