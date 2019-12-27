@@ -27,10 +27,10 @@
 	</item></wealth>
 	<cool_features item-list="true">	<item>	<title>More cool features</title>
 	<sub_title>Watch your money &lt;b&gt;grow&lt;/b&gt;</sub_title>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<description>Seeing is believing. See how your money can grow over a period of time</description>
 	</item></cool_features>
 	<articles item-list="true">	<item>	<title>Read. Learn. &lt;b&gt;Profit.&lt;/b&gt;</title>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<description>Know and understand your investment options</description>
 	<action_label>See more articles</action_label>
 	<section_id>/misc/article?section=article_main</section_id>
 	</item></articles>
@@ -41,6 +41,6 @@
 	<folder-name/>
 	<createdDate>2019-11-25T07:10:06.229Z</createdDate>
 	<createdDate_dt>2019-11-25T07:10:06.229Z</createdDate_dt>
-	<lastModifiedDate>2019-12-18T13:25:32.976Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-12-18T13:25:32.976Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-12-27T07:35:55.708Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-27T07:35:55.708Z</lastModifiedDate_dt>
 </component>
