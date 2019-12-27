@@ -8,21 +8,21 @@
 	<heading>Buy stocks</heading>
 	<file-name>buy-stocks.xml</file-name>
 	<folder-name/>
-	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor&lt;/p&gt;</description>
+	<description>Invest in equities to give your portfolio an edge</description>
 	<attr item-list="true">	<item>	<heading>Stocks</heading>
-	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor&lt;/p&gt;</description>
+	<description>Invest in shares of listed companies to create a diversified investment portfolio</description>
 	<key>img/Stocks icon.png</key>
 	<value>&lt;p&gt;link to relevant page&lt;/p&gt;</value>
 	</item>	<item>	<heading>Stock baskets</heading>
-	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do&lt;/p&gt;</description>
+	<description>Invest in a specially curated baskets or create your own themed basket</description>
 	<key>img/Deposits icon.png</key>
 	<value>&lt;p&gt;link to relevant page&lt;/p&gt;</value>
 	</item>	<item>	<heading>Exchange traded funds</heading>
-	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do&lt;/p&gt;</description>
+	<description>Invest in an ETF - a basket of securities that is listed and traded on the stock exchange</description>
 	<key>img/External investments icon.png</key>
 	<value>&lt;p&gt;link to relevant page&lt;/p&gt;</value>
 	</item>	<item>	<heading>Listed Bonds</heading>
-	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do&lt;/p&gt;</description>
+	<description>Invest in fixed income securities like government bonds, tax-free bonds and sovereign gold bonds</description>
 	<key>img/Save tax icon.png</key>
 	<value>&lt;p&gt;link to relevant page&lt;/p&gt;</value>
 	</item></attr>
@@ -50,6 +50,6 @@
 	</item></subComp>
 	<createdDate>2019-11-27T09:55:59.213Z</createdDate>
 	<createdDate_dt>2019-11-27T09:55:59.213Z</createdDate_dt>
-	<lastModifiedDate>2019-11-27T09:55:59.213Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-27T09:55:59.213Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-12-27T10:16:24.562Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-27T10:16:24.562Z</lastModifiedDate_dt>
 </component>
