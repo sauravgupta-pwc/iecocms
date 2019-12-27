@@ -8,28 +8,28 @@
 	<file-name>investment_types.xml</file-name>
 	<folder-name/>
 	<investment_types item-list="true">	<item>	<title>Mutual funds</title>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
+	<description>Invest in a wide range of mutual funds to construct a diversified portfolio</description>
 	<section_id/>
 	<id>mf</id>
 	</item>	<item>	<title>Stocks</title>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
+	<description>Invest in Equities to give your portfolio an edge</description>
 	<section_id/>
 	<id>stocks</id>
 	</item>	<item>	<title>Deposits</title>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
+	<description>Invest in deposits for fixed returns with flexible tenure options</description>
 	<section_id/>
 	<id>deposits</id>
 	</item>	<item>	<title>Savings account</title>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
+	<description>Get your zero balance bank account with upto 6%* interest rate within minutes</description>
 	<section_id/>
 	<id>sa</id>
-	</item>	<item>	<title>Tax-saving investments</title>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
+	</item>	<item>	<title>Save Tax</title>
+	<description>Why pay more tax than you have to? Invest in tax saving instruments now</description>
 	<section_id/>
 	<id>tsi</id>
 	</item></investment_types>
 	<createdDate>2019-11-24T14:05:37.145Z</createdDate>
 	<createdDate_dt>2019-11-24T14:05:37.145Z</createdDate_dt>
-	<lastModifiedDate>2019-12-01T04:49:41.390Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-12-01T04:49:41.390Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-12-27T06:55:32.816Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-27T06:55:32.816Z</lastModifiedDate_dt>
 </component>
