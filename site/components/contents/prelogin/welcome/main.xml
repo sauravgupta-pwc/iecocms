@@ -25,7 +25,7 @@
 	</item></brand_info>
 	<wealth item-list="true">	<item>	<section_id>/prelogin/welcome?section=increase_your_wealth</section_id>
 	</item></wealth>
-	<cool_features item-list="true">	<item>	<title>More                        uncool features</title>
+	<cool_features item-list="true">	<item>	<title>More                        cool features</title>
 	<sub_title>Watch your money &lt;b&gt;grow&lt;/b&gt;</sub_title>
 	<description>Seeing is believing. See how your money can grow over a period of time</description>
 	</item></cool_features>
@@ -41,6 +41,6 @@
 	<folder-name/>
 	<createdDate>2019-11-25T07:10:06.229Z</createdDate>
 	<createdDate_dt>2019-11-25T07:10:06.229Z</createdDate_dt>
-	<lastModifiedDate>2019-12-30T14:49:16.993Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-12-30T14:49:16.993Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-12-30T14:56:10.433Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-30T14:56:10.433Z</lastModifiedDate_dt>
 </component>
