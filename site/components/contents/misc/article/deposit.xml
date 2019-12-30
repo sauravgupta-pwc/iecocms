@@ -14,6 +14,7 @@
 	<action-route>sample text</action-route>
 	<image>/static-assets/images/learn/learn_1.png</image>
 	<discount_amount/>
+	<section_id/>
 	</item>	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
 	<image>/static-assets/images/learn/learn_2.png</image>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
@@ -21,6 +22,7 @@
 	<action_label>3 min read</action_label>
 	<action-route/>
 	<discount_amount/>
+	<section_id/>
 	</item>	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
 	<image>/static-assets/images/learn/learn_3.png</image>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
@@ -28,9 +30,11 @@
 	<action_label>3 min read</action_label>
 	<action-route/>
 	<discount_amount/>
+	<section_id/>
 	</item></subComp>
 	<createdDate>2019-08-20T20:18:20.619Z</createdDate>
 	<createdDate_dt>2019-08-20T20:18:20.619Z</createdDate_dt>
-	<lastModifiedDate>2019-12-18T11:04:55.219Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-12-18T11:04:55.219Z</lastModifiedDate_dt>
+	<lastModifiedDate>2019-12-30T11:12:14.337Z</lastModifiedDate>
+	<lastModifiedDate_dt>2019-12-30T11:12:14.337Z</lastModifiedDate_dt>
+	<max_elements>3</max_elements>
 </component>
