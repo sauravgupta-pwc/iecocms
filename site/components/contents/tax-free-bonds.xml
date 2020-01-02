@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent3</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>100a</objectGroupId>
+	<objectId>100a299f-6bdd-4b83-7064-bf56f8e82e8e</objectId>
+	<internal-name>Buy-Tax-free-bonds</internal-name>
+	<heading>Buy tax-free bonds</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<file-name>tax-free-bonds.xml</file-name>
+	<folder-name/>
+	<createdDate>2020-01-02T07:46:41.390Z</createdDate>
+	<createdDate_dt>2020-01-02T07:46:41.390Z</createdDate_dt>
+	<lastModifiedDate>2020-01-02T07:46:41.390Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-02T07:46:41.390Z</lastModifiedDate_dt>
+</component>
