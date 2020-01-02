@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent3</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>67b3</objectGroupId>
+	<objectId>67b37162-7440-b14b-c63f-1690f73e01ab</objectId>
+	<internal-name>ETF</internal-name>
+	<heading>Exchange traded funds (ETF)</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<file-name>etf.xml</file-name>
+	<folder-name/>
+	<createdDate>2020-01-02T07:29:53.260Z</createdDate>
+	<createdDate_dt>2020-01-02T07:29:53.260Z</createdDate_dt>
+	<lastModifiedDate>2020-01-02T07:29:53.260Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-02T07:29:53.260Z</lastModifiedDate_dt>
+</component>
