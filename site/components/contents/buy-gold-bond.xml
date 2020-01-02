@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent3</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f65e</objectGroupId>
+	<objectId>f65e7999-9200-807e-2dab-2ede627e1408</objectId>
+	<file-name>buy-gold-bond.xml</file-name>
+	<folder-name/>
+	<internal-name>Buy gold bond</internal-name>
+	<heading>Buy gold bond</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<createdDate>2020-01-02T07:57:33.911Z</createdDate>
+	<createdDate_dt>2020-01-02T07:57:33.911Z</createdDate_dt>
+	<lastModifiedDate>2020-01-02T07:57:33.911Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-02T07:57:33.911Z</lastModifiedDate_dt>
+</component>
