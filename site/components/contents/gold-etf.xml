@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent3</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7a27</objectGroupId>
+	<objectId>7a27fc64-d6f2-090c-a109-25592272cb21</objectId>
+	<internal-name>gold ETF</internal-name>
+	<heading>Gold Exchange traded funds (ETF)</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<file-name>gold-etf.xml</file-name>
+	<folder-name/>
+	<createdDate>2020-01-02T07:32:57.993Z</createdDate>
+	<createdDate_dt>2020-01-02T07:32:57.993Z</createdDate_dt>
+	<lastModifiedDate>2020-01-02T07:32:57.993Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-02T07:32:57.993Z</lastModifiedDate_dt>
+</component>
