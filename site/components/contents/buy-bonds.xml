@@ -12,19 +12,19 @@
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
 	<subComp item-list="true">	<item>	<heading>Tax-free bonds</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
-	<action_label>image</action_label>
+	<action_label>/static-assets/images/uploaded/bonds/stocks_icon.svg</action_label>
 	<action_route>/path/to/next/page</action_route>
 	</item>	<item>	<heading>Sovereign gold bond</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
-	<action_label>image</action_label>
+	<action_label>/static-assets/images/uploaded/bonds/gold_bond.svg</action_label>
 	<action_route>/path/to/next/page</action_route>
 	</item>	<item>	<heading>Others</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
 	<action_label>image</action_label>
-	<action_route>/path/to/next/page</action_route>
+	<action_route>/static-assets/images/uploaded/bonds/save_tax_icon</action_route>
 	</item></subComp>
 	<createdDate>2020-01-02T07:39:20.913Z</createdDate>
 	<createdDate_dt>2020-01-02T07:39:20.913Z</createdDate_dt>
-	<lastModifiedDate>2020-01-02T07:39:20.913Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-02T07:39:20.913Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-02T08:25:17.698Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-02T08:25:17.698Z</lastModifiedDate_dt>
 </component>
