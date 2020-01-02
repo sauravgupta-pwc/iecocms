@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3423</objectGroupId>
+	<objectId>3423af1f-d911-89c3-65ca-942e0f3c6e83</objectId>
+	<file-name>buy-bonds.xml</file-name>
+	<folder-name/>
+	<internal-name>buy bonds</internal-name>
+	<heading>Buy bonds</heading>
+	<footer/>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<subComp item-list="true">	<item>	<heading>Tax-free bonds</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<action_label>image</action_label>
+	<action_route>/path/to/next/page</action_route>
+	</item>	<item>	<heading>Sovereign gold bond</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<action_label>image</action_label>
+	<action_route>/path/to/next/page</action_route>
+	</item>	<item>	<heading>Others</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<action_label>image</action_label>
+	<action_route>/path/to/next/page</action_route>
+	</item></subComp>
+	<createdDate>2020-01-02T07:39:20.913Z</createdDate>
+	<createdDate_dt>2020-01-02T07:39:20.913Z</createdDate_dt>
+	<lastModifiedDate>2020-01-02T07:39:20.913Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-02T07:39:20.913Z</lastModifiedDate_dt>
+</component>
