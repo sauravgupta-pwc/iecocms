@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>009d</objectGroupId>
+	<objectId>009d7d72-1158-1133-7661-342aa55f6e21</objectId>
+	<internal-name>buy ETF</internal-name>
+	<heading>Buy exchange traded funds</heading>
+	<footer/>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<file-name>buy-etf.xml</file-name>
+	<folder-name/>
+	<subComp item-list="true">	<item>	<heading>ETF</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<action_label>image</action_label>
+	<action_route>/path/to/next/page</action_route>
+	</item>	<item>	<heading>Gold ETF</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
+	<action_label>image</action_label>
+	<action_route>/path/to/image/file</action_route>
+	</item></subComp>
+	<createdDate>2020-01-02T07:22:58.868Z</createdDate>
+	<createdDate_dt>2020-01-02T07:22:58.868Z</createdDate_dt>
+	<lastModifiedDate>2020-01-02T07:22:58.868Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-02T07:22:58.868Z</lastModifiedDate_dt>
+</component>
