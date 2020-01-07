@@ -4,15 +4,12 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>755fd034</objectGroupId>
 	<objectId>755fd034-9d4d-4d98-9134-4235c6df1fc4</objectId>
-	<internal-name>Account creation request submitted bdc99bf6</internal-name>
-	<heading>Account creation request submitted</heading>
-	<action_label>Done</action_label>
-	<action_route>/Path/to/next/page</action_route>
-	<description>Your Kotak Securities account opening is under process. You will be notified once it is complete (usually in 1-2 working days).</description>
-	<file-name>account-creation-request-bdc99bf6.xml</file-name>
-	<folder-name>de</folder-name>
+	<internal-name>buy-sell-equity</internal-name>
+	<file-name>buy-sell-equity.xml</file-name>
+	<folder-name/>
 	<createdDate>2019-11-25T10:15:57.804Z</createdDate>
 	<createdDate_dt>2019-11-25T10:15:57.804Z</createdDate_dt>
-	<lastModifiedDate>2019-11-25T10:15:57.804Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-25T10:15:57.804Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-07T11:43:38.679Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-07T11:43:38.679Z</lastModifiedDate_dt>
+	<max_elements/>
 </component>
