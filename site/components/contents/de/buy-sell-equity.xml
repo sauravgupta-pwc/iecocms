@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
-	<content-type>/component/commoncomponent</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<savedAsDraft>true</savedAsDraft>	<content-type>/component/commoncomponent</content-type>	<display-template>/templates/web/entry.ftl</display-template>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>755fd034</objectGroupId>
 	<objectId>755fd034-9d4d-4d98-9134-4235c6df1fc4</objectId>
@@ -9,7 +9,16 @@
 	<folder-name/>
 	<createdDate>2019-11-25T10:15:57.804Z</createdDate>
 	<createdDate_dt>2019-11-25T10:15:57.804Z</createdDate_dt>
-	<lastModifiedDate>2020-01-07T11:43:38.679Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-07T11:43:38.679Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-07T11:48:54.992Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-07T11:48:54.992Z</lastModifiedDate_dt>
 	<max_elements/>
+	<subComp item-list="true">	<item>	<heading>Market Description</heading>
+	<amount/>
+	<action_label/>
+	<action-route/>
+	<discount_amount/>
+	<section_id/>
+	<description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore.</description>
+	<image/>
+	</item></subComp>
 </component>
