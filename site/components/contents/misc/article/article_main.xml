@@ -31,10 +31,19 @@
 	<action-route/>
 	<discount_amount/>
 	<section_id>/misc/article_details?section=article_1</section_id>
+	</item>	<item>	<heading>Destination</heading>
+	<image/>
+	<description/>
+	<amount/>
+	<action_label>3 min read</action_label>
+	<action-route/>
+	<discount_amount/>
+	<section_id>/misc/article_details?section=article_1</section_id>
 	</item></subComp>
 	<createdDate>2019-08-20T20:18:20.619Z</createdDate>
 	<createdDate_dt>2019-08-20T20:18:20.619Z</createdDate_dt>
-	<lastModifiedDate>2019-12-30T11:11:44.626Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-12-30T11:11:44.626Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-08T07:09:33.740Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-08T07:09:33.740Z</lastModifiedDate_dt>
 	<max_elements>3</max_elements>
+	<attrs item-list="true"/>
 </component>
