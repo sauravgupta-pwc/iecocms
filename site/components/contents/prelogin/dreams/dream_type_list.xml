@@ -46,7 +46,7 @@
 	<description>Dance with abandon at your wedding. Don't let money worries spoil the fun</description>
 	<thumb_img>/static-assets/images/dream_type/wedding.png</thumb_img>
 	<detail_section_id/>
-	<goal_type_id>15</goal_type_id>
+	<goal_type_id>16</goal_type_id>
 	<section_id/>
 	<predefined_id>2</predefined_id>
 	</item>	<item>	<title>Diamond engagement &lt;b&gt;ring&lt;/b&gt;</title>
@@ -66,6 +66,6 @@
 	</item></dream_types>
 	<createdDate>2019-11-22T09:02:29.300Z</createdDate>
 	<createdDate_dt>2019-11-22T09:02:29.300Z</createdDate_dt>
-	<lastModifiedDate>2020-01-02T10:20:14.798Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-02T10:20:14.798Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-09T07:29:05.231Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-09T07:29:05.231Z</lastModifiedDate_dt>
 </component>
