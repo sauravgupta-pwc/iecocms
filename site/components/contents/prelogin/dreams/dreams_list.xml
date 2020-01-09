@@ -102,23 +102,23 @@
 	<tenure_min>1</tenure_min>
 	<tenure_max>6</tenure_max>
 	<tenure_intervals>1</tenure_intervals>
-	<exp_cst_inc_max>25.0</exp_cst_inc_max>
-	<exp_cst_inc_intervals>2.0</exp_cst_inc_intervals>
-	<exp_cst_inc_min>5.0</exp_cst_inc_min>
-	<taking_loan_min>5.0</taking_loan_min>
-	<taking_loan_max>95.0</taking_loan_max>
-	<taking_loan_intervals>10.0</taking_loan_intervals>
-	<tenure_color>Red: Till 2, Amber: 3 - 4, Green post that</tenure_color>
-	<taking_laon_color>Green: Till 45%, Amber: 55 - 75%, Red post that</taking_laon_color>
-	<cost_initial/>
-	<cost_min_input/>
-	<tenure_initial/>
-	<exp_cst_inc_initial/>
-	<taking_loan_initial/>
+	<exp_cst_inc_max>0.25</exp_cst_inc_max>
+	<exp_cst_inc_intervals>0.02</exp_cst_inc_intervals>
+	<exp_cst_inc_min>0.05</exp_cst_inc_min>
+	<taking_loan_min>0.05</taking_loan_min>
+	<taking_loan_max>0.95</taking_loan_max>
+	<taking_loan_intervals>0.1</taking_loan_intervals>
+	<tenure_color>2,3,4</tenure_color>
+	<taking_laon_color>0.45,0.55,0.75</taking_laon_color>
+	<cost_initial>100000</cost_initial>
+	<cost_min_input>5000</cost_min_input>
+	<tenure_initial>3</tenure_initial>
+	<exp_cst_inc_initial>0.09</exp_cst_inc_initial>
+	<taking_loan_initial>0.45</taking_loan_initial>
 	</item></dreams>
 	<createdDate>2019-11-22T12:31:48.225Z</createdDate>
 	<createdDate_dt>2019-11-22T12:31:48.225Z</createdDate_dt>
-	<lastModifiedDate>2020-01-09T10:05:11.681Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-09T10:05:11.681Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-09T10:18:42.664Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-09T10:18:42.664Z</lastModifiedDate_dt>
 	<no_of_dreams>4</no_of_dreams>
 </component>
