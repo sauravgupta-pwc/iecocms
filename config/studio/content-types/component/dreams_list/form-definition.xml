@@ -862,7 +862,7 @@
 						</constraint>
 						<constraint>
 							<name>pattern</name>
-							<value><![CDATA[]]></value>
+							<value><![CDATA[^[0-9]*$]]></value>
 							<type>string</type>
 						</constraint>
 					</constraints>
@@ -905,7 +905,7 @@
 						</constraint>
 						<constraint>
 							<name>pattern</name>
-							<value><![CDATA[]]></value>
+							<value><![CDATA[^[0-9]*$]]></value>
 							<type>string</type>
 						</constraint>
 					</constraints>
@@ -948,7 +948,7 @@
 						</constraint>
 						<constraint>
 							<name>pattern</name>
-							<value><![CDATA[]]></value>
+							<value><![CDATA[^[0-9]*$]]></value>
 							<type>string</type>
 						</constraint>
 					</constraints>
@@ -991,7 +991,7 @@
 						</constraint>
 						<constraint>
 							<name>pattern</name>
-							<value><![CDATA[]]></value>
+							<value><![CDATA[^[0-9]*$]]></value>
 							<type>string</type>
 						</constraint>
 					</constraints>
@@ -1034,7 +1034,7 @@
 						</constraint>
 						<constraint>
 							<name>pattern</name>
-							<value><![CDATA[]]></value>
+							<value><![CDATA[^[0-9]*$]]></value>
 							<type>string</type>
 						</constraint>
 					</constraints>
@@ -1120,7 +1120,7 @@
 						</constraint>
 						<constraint>
 							<name>pattern</name>
-							<value><![CDATA[]]></value>
+							<value><![CDATA[^[0-9]*$]]></value>
 							<type>string</type>
 						</constraint>
 					</constraints>
@@ -1163,7 +1163,7 @@
 						</constraint>
 						<constraint>
 							<name>pattern</name>
-							<value><![CDATA[]]></value>
+							<value><![CDATA[^[0-9]\d*(\.\d+)?$]]></value>
 							<type>string</type>
 						</constraint>
 					</constraints>
@@ -1206,7 +1206,7 @@
 						</constraint>
 						<constraint>
 							<name>pattern</name>
-							<value><![CDATA[]]></value>
+							<value><![CDATA[^[0-9]\d*(\.\d+)?$]]></value>
 							<type>string</type>
 						</constraint>
 					</constraints>
@@ -1249,7 +1249,7 @@
 						</constraint>
 						<constraint>
 							<name>pattern</name>
-							<value><![CDATA[]]></value>
+							<value><![CDATA[^[0-9]\d*(\.\d+)?$]]></value>
 							<type>string</type>
 						</constraint>
 					</constraints>
@@ -1292,7 +1292,7 @@
 						</constraint>
 						<constraint>
 							<name>pattern</name>
-							<value><![CDATA[]]></value>
+							<value><![CDATA[^[0-9]\d*(\.\d+)?$]]></value>
 							<type>string</type>
 						</constraint>
 					</constraints>
@@ -1335,7 +1335,7 @@
 						</constraint>
 						<constraint>
 							<name>pattern</name>
-							<value><![CDATA[]]></value>
+							<value><![CDATA[^[0-9]\d*(\.\d+)?$]]></value>
 							<type>string</type>
 						</constraint>
 					</constraints>
@@ -1378,7 +1378,7 @@
 						</constraint>
 						<constraint>
 							<name>pattern</name>
-							<value><![CDATA[]]></value>
+							<value><![CDATA[^[0-9]\d*(\.\d+)?$]]></value>
 							<type>string</type>
 						</constraint>
 					</constraints>
@@ -1422,6 +1422,221 @@
 						<constraint>
 							<name>pattern</name>
 							<value><![CDATA[]]></value>
+							<type>string</type>
+						</constraint>
+					</constraints>
+				</field>
+				<field>
+					<type>input</type>
+					<id>cost_initial</id>
+					<iceId></iceId>
+					<title>cost_initial</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>size</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>tokenize</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[]]></value>
+							<type>boolean</type>
+						</constraint>
+						<constraint>
+							<name>pattern</name>
+							<value><![CDATA[^[0-9]*$]]></value>
+							<type>string</type>
+						</constraint>
+					</constraints>
+				</field>
+				<field>
+					<type>input</type>
+					<id>cost_min_input</id>
+					<iceId></iceId>
+					<title>cost_min_input</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>size</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>tokenize</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[]]></value>
+							<type>boolean</type>
+						</constraint>
+						<constraint>
+							<name>pattern</name>
+							<value><![CDATA[^[0-9]*$]]></value>
+							<type>string</type>
+						</constraint>
+					</constraints>
+				</field>
+				<field>
+					<type>input</type>
+					<id>tenure_initial</id>
+					<iceId></iceId>
+					<title>tenure_initial</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>size</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>tokenize</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[]]></value>
+							<type>boolean</type>
+						</constraint>
+						<constraint>
+							<name>pattern</name>
+							<value><![CDATA[^[0-9]*$]]></value>
+							<type>string</type>
+						</constraint>
+					</constraints>
+				</field>
+				<field>
+					<type>input</type>
+					<id>exp_cst_inc_initial</id>
+					<iceId></iceId>
+					<title>exp_cst_inc_initial</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>size</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>tokenize</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[]]></value>
+							<type>boolean</type>
+						</constraint>
+						<constraint>
+							<name>pattern</name>
+							<value><![CDATA[^[0-9]\d*(\.\d+)?$]]></value>
+							<type>string</type>
+						</constraint>
+					</constraints>
+				</field>
+				<field>
+					<type>input</type>
+					<id>taking_loan_initial</id>
+					<iceId></iceId>
+					<title>taking_loan_initial</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>size</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>tokenize</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[]]></value>
+							<type>boolean</type>
+						</constraint>
+						<constraint>
+							<name>pattern</name>
+							<value><![CDATA[^[0-9]\d*(\.\d+)?$]]></value>
 							<type>string</type>
 						</constraint>
 					</constraints>
