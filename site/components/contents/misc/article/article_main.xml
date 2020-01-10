@@ -14,7 +14,7 @@
 	<action-route>sample text</action-route>
 	<image>/static-assets/images/learn/learn_1.png</image>
 	<discount_amount/>
-	<section_id>/misc/article_details?section=welcome_destionation-europe</section_id>
+	<section_id>/misc/article_details?section=welcome_destionation_europe</section_id>
 	</item>	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
 	<image>/static-assets/images/learn/learn_2.png</image>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
@@ -42,8 +42,8 @@
 	</item></subComp>
 	<createdDate>2019-08-20T20:18:20.619Z</createdDate>
 	<createdDate_dt>2019-08-20T20:18:20.619Z</createdDate_dt>
-	<lastModifiedDate>2020-01-10T10:06:27.228Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-10T10:06:27.228Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-10T10:18:40.459Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-10T10:18:40.459Z</lastModifiedDate_dt>
 	<max_elements>3</max_elements>
 	<attrs item-list="true"/>
 </component>
