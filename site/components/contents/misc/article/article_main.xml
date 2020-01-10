@@ -7,8 +7,8 @@
 	<internal-name>Article Main</internal-name>
 	<file-name>article_main.xml</file-name>
 	<folder-name/>
-	<subComp item-list="true">	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<subComp item-list="true">	<item>	<heading>A European holiday for every kind of traveller</heading>
+	<description>Europe is the perfect holiday destination, luring travellers from across the world with its old-world charm, gastronomic delights, historic monuments and various cultural festivals.</description>
 	<amount>sample text</amount>
 	<action_label>3 min read</action_label>
 	<action-route>sample text</action-route>
@@ -42,8 +42,8 @@
 	</item></subComp>
 	<createdDate>2019-08-20T20:18:20.619Z</createdDate>
 	<createdDate_dt>2019-08-20T20:18:20.619Z</createdDate_dt>
-	<lastModifiedDate>2020-01-08T07:16:12.443Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-08T07:16:12.443Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-10T09:56:09.235Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-10T09:56:09.235Z</lastModifiedDate_dt>
 	<max_elements>3</max_elements>
 	<attrs item-list="true"/>
 </component>
