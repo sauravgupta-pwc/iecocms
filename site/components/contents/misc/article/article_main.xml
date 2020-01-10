@@ -43,7 +43,7 @@
 	<image>/static-assets/images/learn/learn_3.png</image>
 	<description>For a long time, retirement has been considered a time to turn off the alarm clocks and hang up your boots. </description>
 	<amount/>
-	<action_label/>
+	<action_label>3 min read</action_label>
 	<action-route/>
 	<discount_amount/>
 	<section_id>/misc/article_details?section=welcome_projects-you-can-pursue-in-retirement</section_id>
@@ -51,15 +51,15 @@
 	<image>/static-assets/images/learn/learn_3.png</image>
 	<description>Retirement is a time for you to sit back and relax. A time to pursue your pet project and be free of the stresses of your work life.</description>
 	<amount/>
-	<action_label/>
+	<action_label>3 min read</action_label>
 	<action-route/>
 	<discount_amount/>
 	<section_id>/misc/article_details?section=welcome_create-a-retirement-fund</section_id>
 	</item></subComp>
 	<createdDate>2019-08-20T20:18:20.619Z</createdDate>
 	<createdDate_dt>2019-08-20T20:18:20.619Z</createdDate_dt>
-	<lastModifiedDate>2020-01-10T13:58:35.737Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-10T13:58:35.737Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-10T14:10:11.997Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-10T14:10:11.997Z</lastModifiedDate_dt>
 	<max_elements>3</max_elements>
 	<attrs item-list="true"/>
 </component>
