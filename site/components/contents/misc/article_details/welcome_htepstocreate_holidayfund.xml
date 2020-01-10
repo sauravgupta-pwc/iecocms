@@ -4,7 +4,7 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>9c969e3a</objectGroupId>
 	<objectId>9c969e3a-c375-4184-901a-8803933160b9</objectId>
-	<internal-name>welcome_htepstocreate_holidayfund</internal-name>
+	<internal-name>welcome_stepstocreate_holidayfund</internal-name>
 	<pre_heading/>
 	<heading>5 Steps to creating a Holiday Fund</heading>
 	<sub_heading/>
@@ -18,10 +18,10 @@
 &lt;p&gt;&lt;b&gt;Involve the family&lt;b&gt;&amp;lt;b&amp;gt;&amp;lt;/b&amp;gt;&lt;/b&gt;&lt;/b&gt; &amp;ndash; if it is a family vacation that you are planning, then definitely involve the family. Create a picture board of the places you want to visit to encourage the family to save. Also, encourage your children to plan an itinerary and make a list of places that they would like to visit on the holiday.&lt;/p&gt;
 &lt;p&gt;Some say that the journey can be as much fun as the destination. Make planning for your holiday as much fun as the holiday itself!&lt;/p&gt;
 &lt;/div&gt;</description>
-	<file-name>welcome_htepstocreate_holidayfund.xml</file-name>
+	<file-name>welcome_stepstocreate_holidayfund.xml</file-name>
 	<folder-name/>
 	<createdDate>2019-12-23T14:03:19.662Z</createdDate>
 	<createdDate_dt>2019-12-23T14:03:19.662Z</createdDate_dt>
-	<lastModifiedDate>2020-01-10T11:19:08.731Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-10T11:19:08.731Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-10T11:29:00.845Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-10T11:29:00.845Z</lastModifiedDate_dt>
 </component>
