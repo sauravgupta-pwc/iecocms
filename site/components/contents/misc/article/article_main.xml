@@ -15,35 +15,35 @@
 	<image>/static-assets/images/learn/learn_1.png</image>
 	<discount_amount/>
 	<section_id>/misc/article_details?section=welcome_destionation_europe</section_id>
-	</item>	<item>	<heading/>
+	</item>	<item>	<heading>5 Steps to creating a Holiday Fund</heading>
 	<image>/static-assets/images/learn/learn_2.png</image>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<description>Taking a holiday can mean different things to different people. For some, it is a much needed break from a hectic work schedule while for others it might be an annual family tradition.</description>
 	<amount/>
 	<action_label>3 min read</action_label>
 	<action-route/>
 	<discount_amount/>
 	<section_id>/misc/article_details?section=welcome_stepstocreate_holidayfund</section_id>
-	</item>	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
+	</item>	<item>	<heading>Guide to buying a retirement home</heading>
 	<image>/static-assets/images/learn/learn_3.png</image>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
-	<amount/>
-	<action_label>3 min read</action_label>
-	<action-route/>
-	<discount_amount/>
-	<section_id>/misc/article_details?section=article_1</section_id>
-	</item>	<item>	<heading>Destination</heading>
-	<image/>
-	<description/>
+	<description>Traditionally, in India, retirement meant a time of your life when your kids would take care of you. The joint family system ensured that in the retirement phase parents lived with their now grown-up children and were well taken care of.</description>
 	<amount/>
 	<action_label>3 min read</action_label>
 	<action-route/>
 	<discount_amount/>
 	<section_id>/misc/article_details?section=welcone_guide-to-buying-a-retirement-home</section_id>
+	</item>	<item>	<heading>Experiences can be priceless</heading>
+	<image/>
+	<description>We live in a world that is obsessed with consumption. Everybody is in a race to buy something. However, there are also many people who believe that an excess of material things leads to “stuffocation”.</description>
+	<amount/>
+	<action_label>3 min read</action_label>
+	<action-route/>
+	<discount_amount/>
+	<section_id>/misc/article_details?section=welcome_investing-in-experiences</section_id>
 	</item></subComp>
 	<createdDate>2019-08-20T20:18:20.619Z</createdDate>
 	<createdDate_dt>2019-08-20T20:18:20.619Z</createdDate_dt>
-	<lastModifiedDate>2020-01-10T11:49:13.484Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-10T11:49:13.484Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-10T13:04:08.488Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-10T13:04:08.488Z</lastModifiedDate_dt>
 	<max_elements>3</max_elements>
 	<attrs item-list="true"/>
 </component>
