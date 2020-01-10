@@ -25,7 +25,7 @@
 	<section_id>/misc/article_details?section=welcome_stepstocreate_holidayfund</section_id>
 	</item>	<item>	<heading>Guide to buying a retirement home</heading>
 	<image>/static-assets/images/learn/learn_3.png</image>
-	<description>Traditionally, in India, retirement meant a time of your life when your kids would take care of you. The joint family system ensured that in the retirement phase parents lived with their now grown-up children and were well taken care of.</description>
+	<description>Traditionally, in India, retirement meant a time of your life when your kids would take care of you. </description>
 	<amount/>
 	<action_label>3 min read</action_label>
 	<action-route/>
@@ -33,7 +33,7 @@
 	<section_id>/misc/article_details?section=welcone_guide-to-buying-a-retirement-home</section_id>
 	</item>	<item>	<heading>Experiences can be priceless</heading>
 	<image>/static-assets/images/learn/learn_3.png</image>
-	<description>We live in a world that is obsessed with consumption. Everybody is in a race to buy something. However, there are also many people who believe that an excess of material things leads to “stuffocation”.</description>
+	<description>We live in a world that is obsessed with consumption. Everybody is in a race to buy something. </description>
 	<amount/>
 	<action_label>3 min read</action_label>
 	<action-route/>
@@ -41,7 +41,7 @@
 	<section_id>/misc/article_details?section=welcome_investing-in-experiences</section_id>
 	</item>	<item>	<heading>Projects you can pursue in retirement</heading>
 	<image>/static-assets/images/learn/learn_3.png</image>
-	<description>For a long time, retirement has been considered a time to turn off the alarm clocks and hang up your boots. However, times are now changing.</description>
+	<description>For a long time, retirement has been considered a time to turn off the alarm clocks and hang up your boots. </description>
 	<amount/>
 	<action_label/>
 	<action-route/>
@@ -49,7 +49,7 @@
 	<section_id>/misc/article_details?section=welcome_projects-you-can-pursue-in-retirement</section_id>
 	</item>	<item>	<heading>Create a Retirement Fund that gives you comfort in</heading>
 	<image>/static-assets/images/learn/learn_3.png</image>
-	<description>Retirement is a time for you to sit back and relax. A time to pursue your pet project and be free of the stresses of your work life. Another thing that you need to be free of is financial stress.</description>
+	<description>Retirement is a time for you to sit back and relax. A time to pursue your pet project and be free of the stresses of your work life.</description>
 	<amount/>
 	<action_label/>
 	<action-route/>
@@ -58,8 +58,8 @@
 	</item></subComp>
 	<createdDate>2019-08-20T20:18:20.619Z</createdDate>
 	<createdDate_dt>2019-08-20T20:18:20.619Z</createdDate_dt>
-	<lastModifiedDate>2020-01-10T13:46:43.898Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-10T13:46:43.898Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-10T13:58:35.737Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-10T13:58:35.737Z</lastModifiedDate_dt>
 	<max_elements>3</max_elements>
 	<attrs item-list="true"/>
 </component>
