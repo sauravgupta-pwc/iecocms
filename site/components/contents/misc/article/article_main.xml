@@ -39,11 +39,27 @@
 	<action-route/>
 	<discount_amount/>
 	<section_id>/misc/article_details?section=welcome_investing-in-experiences</section_id>
+	</item>	<item>	<heading>Projects you can pursue in retirement</heading>
+	<image/>
+	<description>For a long time, retirement has been considered a time to turn off the alarm clocks and hang up your boots. However, times are now changing.</description>
+	<amount/>
+	<action_label/>
+	<action-route/>
+	<discount_amount/>
+	<section_id>/misc/article_details?section=welcome_projects-you-can-pursue-in-retirement</section_id>
+	</item>	<item>	<heading>Create a Retirement Fund that gives you comfort in</heading>
+	<image/>
+	<description>Retirement is a time for you to sit back and relax. A time to pursue your pet project and be free of the stresses of your work life. Another thing that you need to be free of is financial stress.</description>
+	<amount/>
+	<action_label/>
+	<action-route/>
+	<discount_amount/>
+	<section_id>/misc/article_details?section=welcome_create-a-retirement-fund</section_id>
 	</item></subComp>
 	<createdDate>2019-08-20T20:18:20.619Z</createdDate>
 	<createdDate_dt>2019-08-20T20:18:20.619Z</createdDate_dt>
-	<lastModifiedDate>2020-01-10T13:04:08.488Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-10T13:04:08.488Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-10T13:14:43.139Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-10T13:14:43.139Z</lastModifiedDate_dt>
 	<max_elements>3</max_elements>
 	<attrs item-list="true"/>
 </component>
