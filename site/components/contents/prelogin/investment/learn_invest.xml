@@ -4,14 +4,15 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>2375</objectGroupId>
 	<objectId>2375671a-3603-b7ab-d164-b27a1aab14ac</objectId>
-	<description>&lt;p&gt;Grow your knowledge as you see your investments grow&lt;/p&gt;</description>
+	<description>Grow your knowledge as you see your investments grow</description>
 	<internal-name>Learn Investing</internal-name>
 	<file-name>learn_invest.xml</file-name>
 	<folder-name/>
 	<createdDate>2019-11-25T06:06:21.202Z</createdDate>
 	<createdDate_dt>2019-11-25T06:06:21.202Z</createdDate_dt>
-	<lastModifiedDate>2019-12-27T09:50:33.550Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-12-27T09:50:33.550Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-15T10:51:12.034Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-15T10:51:12.034Z</lastModifiedDate_dt>
 	<section_id/>
 	<img_url>/static-assets/images/investment/invest_1.png</img_url>
+	<img_lg_url>/static-assets/images/investment/invest_lg_1.png</img_lg_url>
 </component>
