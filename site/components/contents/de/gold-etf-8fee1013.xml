@@ -4,13 +4,13 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>50472f43</objectGroupId>
 	<objectId>50472f43-027f-411f-9596-ec67c2b3de6e</objectId>
-	<internal-name>gold ETF 8fee1013</internal-name>
-	<heading>Gold Exchange traded funds (ETF)</heading>
+	<internal-name>add-funds</internal-name>
+	<heading>Add Funds</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
-	<file-name>gold-etf-8fee1013.xml</file-name>
-	<folder-name>de</folder-name>
+	<file-name>add-funds.xml</file-name>
+	<folder-name/>
 	<createdDate>2020-01-02T07:32:57.993Z</createdDate>
 	<createdDate_dt>2020-01-02T07:32:57.993Z</createdDate_dt>
-	<lastModifiedDate>2020-01-02T07:32:57.993Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-02T07:32:57.993Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-16T11:02:57.483Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-16T11:02:57.483Z</lastModifiedDate_dt>
 </component>
