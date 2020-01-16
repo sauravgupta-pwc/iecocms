@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent3</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b30a7407</objectGroupId>
+	<objectId>b30a7407-c87a-4100-bd54-5a6874d332b7</objectId>
+	<internal-name>add-funds 27f68d75</internal-name>
+	<heading>Add Funds</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<file-name>add-funds-27f68d75.xml</file-name>
+	<folder-name>de</folder-name>
+	<createdDate>2020-01-02T07:32:57.993Z</createdDate>
+	<createdDate_dt>2020-01-02T07:32:57.993Z</createdDate_dt>
+	<lastModifiedDate>2020-01-16T11:02:57.483Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-16T11:02:57.483Z</lastModifiedDate_dt>
+</component>
