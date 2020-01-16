@@ -4,13 +4,13 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>b30a7407</objectGroupId>
 	<objectId>b30a7407-c87a-4100-bd54-5a6874d332b7</objectId>
-	<internal-name>add-funds 27f68d75</internal-name>
-	<heading>Add Funds</heading>
+	<internal-name>withdraw-funds</internal-name>
+	<heading>Withdraw funds</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
-	<file-name>add-funds-27f68d75.xml</file-name>
-	<folder-name>de</folder-name>
+	<file-name>withdraw-funds.xml</file-name>
+	<folder-name/>
 	<createdDate>2020-01-02T07:32:57.993Z</createdDate>
 	<createdDate_dt>2020-01-02T07:32:57.993Z</createdDate_dt>
-	<lastModifiedDate>2020-01-16T11:02:57.483Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-16T11:02:57.483Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-16T11:04:07.902Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-16T11:04:07.902Z</lastModifiedDate_dt>
 </component>
