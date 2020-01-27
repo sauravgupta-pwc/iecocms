@@ -4,7 +4,7 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>ce7b</objectGroupId>
 	<objectId>ce7b4348-aee8-2c36-9c94-0b8c7094419d</objectId>
-	<description>We will complete paperless offline eKYC using Aadhar authentication. Please keep your Aadhar number handy which you have to enter on UIDAI website and your mobile number should be registered with your Aadhar number</description>
+	<description>We will complete paperless offline eKYC using Aadhaar authentication. Please keep your Aadhar number handy which you have to enter on UIDAI website and your mobile number should be registered with your Aadhaar number</description>
 	<internal-name>Start Investment</internal-name>
 	<heading>Let’s get ready to invest</heading>
 	<footer>I hereby give my free consent that I understand Aadhaar Paperless</footer>
@@ -16,6 +16,6 @@
 	</item></footer_elements>
 	<createdDate>2019-11-12T13:03:54.231Z</createdDate>
 	<createdDate_dt>2019-11-12T13:03:54.231Z</createdDate_dt>
-	<lastModifiedDate>2020-01-15T13:27:37.873Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-15T13:27:37.873Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-27T14:19:26.363Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-27T14:19:26.363Z</lastModifiedDate_dt>
 </component>
