@@ -139,7 +139,7 @@
 					</constraints>
 				</field>
 				<field>
-					<type>input</type>
+					<type>textarea</type>
 					<id>description</id>
 					<iceId></iceId>
 					<title>description</title>
@@ -148,23 +148,28 @@
 					<help></help>
 					<properties>
 						<property>
-							<name>size</name>
+							<name>cols</name>
 							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>rows</name>
+							<value>5</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>maxlength</name>
-							<value>50</value>
+							<value>100000</value>
 							<type>int</type>
+						</property>
+						<property>
+							<name>allowResize</name>
+							<value>true</value>
+							<type>boolean</type>
 						</property>
 						<property>
 							<name>readonly</name>
 							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>tokenize</name>
-							<value>false</value>
 							<type>boolean</type>
 						</property>
 					</properties>
@@ -173,11 +178,6 @@
 							<name>required</name>
 							<value><![CDATA[]]></value>
 							<type>boolean</type>
-						</constraint>
-						<constraint>
-							<name>pattern</name>
-							<value><![CDATA[]]></value>
-							<type>string</type>
 						</constraint>
 					</constraints>
 				</field>
@@ -246,7 +246,7 @@
 					</constraints>
 				</field>
 				<field>
-					<type>rte-tinymce5</type>
+					<type>rte</type>
 					<id>value</id>
 					<iceId></iceId>
 					<title>value</title>
@@ -255,9 +255,24 @@
 					<help></help>
 					<properties>
 						<property>
+							<name>width</name>
+							<value></value>
+							<type>int</type>
+						</property>
+						<property>
 							<name>height</name>
 							<value></value>
 							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value></value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>allowResize</name>
+							<value></value>
+							<type>boolean</type>
 						</property>
 						<property>
 							<name>forceRootBlockPTag</name>
@@ -275,6 +290,11 @@
 							<type>boolean</type>
 						</property>
 						<property>
+							<name>forceImageAlts</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+						<property>
 							<name>supportedChannels</name>
 							<value></value>
 							<type>supportedChannels</type>
@@ -288,11 +308,6 @@
 							<name>imageManager</name>
 							<value></value>
 							<type>datasource:image</type>
-						</property>
-						<property>
-							<name>videoManager</name>
-							<value></value>
-							<type>datasource:video</type>
 						</property>
 					</properties>
 					<constraints>
