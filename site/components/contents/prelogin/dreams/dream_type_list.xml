@@ -7,7 +7,7 @@
 	<file-name>dream_type_list.xml</file-name>
 	<folder-name/>
 	<internal-name>Dream Type List</internal-name>
-	<dream_types item-list="true">	<item>	<title>Brand new car</title>
+	<dream_types item-list="true">	<item>	<title>Brand new &lt;b&gt;car&lt;/b&gt;</title>
 	<description>Zooming off a new set of wheels now gets easier</description>
 	<detail_section_id/>
 	<thumb_img>/static-assets/images/dream_type/car.png</thumb_img>
@@ -66,6 +66,6 @@
 	</item></dream_types>
 	<createdDate>2019-11-22T09:02:29.300Z</createdDate>
 	<createdDate_dt>2019-11-22T09:02:29.300Z</createdDate_dt>
-	<lastModifiedDate>2020-01-09T07:29:05.231Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-09T07:29:05.231Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-28T13:52:30.554Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-28T13:52:30.554Z</lastModifiedDate_dt>
 </component>
