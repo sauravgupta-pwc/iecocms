@@ -7,15 +7,15 @@
 	<internal-name>Footer</internal-name>
 	<info_1>Mutual Funds investments are subject to market risks, read all scheme related documents carefully</info_1>
 	<info_2>Investment in securities market are subject to market risks, read all the related documents carefully before investing.</info_2>
-	<complaints_info>For any complaints pertaining to investment please write to abc@kotak.com</complaints_info>
+	<complaints_info>For any complaints pertaining to investment please write to &lt;b&gt;abc@kotak.com&lt;/b&gt;</complaints_info>
 	<file-name>footer.xml</file-name>
 	<folder-name/>
 	<company_detail>SEBI Registration # 123456789 &lt;br&gt; Investment Advisor 123456789</company_detail>
-	<address>Lorem ipsum dolor sit amet&lt;br&gt; Consetetur sadipscing elitr,&lt;br&gt; Dunt ut labore et dolore magna aliquyam&lt;br&gt; Sed diam voluptua.</address>
+	<address>Lorem ipsum dolor sit amet Consetetur sadipscing elitr, Dunt ut labore et dolore magna aliquyam Sed diam voluptua.</address>
 	<createdDate>2019-12-13T11:13:58.490Z</createdDate>
 	<createdDate_dt>2019-12-13T11:13:58.490Z</createdDate_dt>
-	<lastModifiedDate>2020-01-29T07:15:47.378Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-29T07:15:47.378Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-29T10:43:10.672Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-29T10:43:10.672Z</lastModifiedDate_dt>
 	<company_detail_title>&lt;b&gt;Kotak Investment Advisors Ltd&lt;/b&gt;</company_detail_title>
 	<address_title>Registered address</address_title>
 </component>
