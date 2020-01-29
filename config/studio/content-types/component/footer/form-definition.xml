@@ -172,68 +172,81 @@
 					</constraints>
 				</field>
 				<field>
-					<type>rte</type>
-					<id>company_detail</id>
+					<type>input</type>
+					<id>company_detail_title</id>
 					<iceId></iceId>
-					<title>company_detail</title>
+					<title>company_detail_title</title>
 					<description></description>
-					<defaultValue>&lt;b&gt;Investment in securities market are subject to market risks, read all the related documents carefully before investing.&lt;/b&gt;</defaultValue>
+					<defaultValue>&lt;b&gt;Kotak Investment Advisors Ltd&lt;/b&gt;</defaultValue>
 					<help></help>
 					<properties>
 						<property>
-							<name>width</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>height</name>
-							<value></value>
+							<name>size</name>
+							<value>50</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>maxlength</name>
+							<value>500</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>readonly</name>
 							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>tokenize</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[]]></value>
+							<type>boolean</type>
+						</constraint>
+						<constraint>
+							<name>pattern</name>
+							<value><![CDATA[]]></value>
+							<type>string</type>
+						</constraint>
+					</constraints>
+				</field>
+				<field>
+					<type>textarea</type>
+					<id>company_detail</id>
+					<iceId></iceId>
+					<title>company_detail</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>cols</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>rows</name>
+							<value>5</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value>100000</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>allowResize</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceRootBlockPTag</name>
 							<value>true</value>
 							<type>boolean</type>
 						</property>
 						<property>
-							<name>forcePTags</name>
-							<value>true</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceBRTags</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceImageAlts</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>supportedChannels</name>
+							<name>readonly</name>
 							<value></value>
-							<type>supportedChannels</type>
-						</property>
-						<property>
-							<name>rteConfiguration</name>
-							<value>generic</value>
-							<type>string</type>
-						</property>
-						<property>
-							<name>imageManager</name>
-							<value></value>
-							<type>datasource:image</type>
+							<type>boolean</type>
 						</property>
 					</properties>
 					<constraints>
@@ -245,68 +258,81 @@
 					</constraints>
 				</field>
 				<field>
-					<type>rte</type>
-					<id>address</id>
+					<type>input</type>
+					<id>address_title</id>
 					<iceId></iceId>
-					<title>address</title>
+					<title>address_title</title>
 					<description></description>
-					<defaultValue>Registered address</defaultValue>
+					<defaultValue>&lt;b&gt;Registered address&lt;/b&gt;</defaultValue>
 					<help></help>
 					<properties>
 						<property>
-							<name>width</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>height</name>
-							<value></value>
+							<name>size</name>
+							<value>50</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>maxlength</name>
+							<value>500</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>readonly</name>
 							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>tokenize</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[]]></value>
+							<type>boolean</type>
+						</constraint>
+						<constraint>
+							<name>pattern</name>
+							<value><![CDATA[]]></value>
+							<type>string</type>
+						</constraint>
+					</constraints>
+				</field>
+				<field>
+					<type>textarea</type>
+					<id>address</id>
+					<iceId></iceId>
+					<title>address</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>cols</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>rows</name>
+							<value>5</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value>100000</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>allowResize</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceRootBlockPTag</name>
 							<value>true</value>
 							<type>boolean</type>
 						</property>
 						<property>
-							<name>forcePTags</name>
-							<value>true</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceBRTags</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceImageAlts</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>supportedChannels</name>
+							<name>readonly</name>
 							<value></value>
-							<type>supportedChannels</type>
-						</property>
-						<property>
-							<name>rteConfiguration</name>
-							<value>generic</value>
-							<type>string</type>
-						</property>
-						<property>
-							<name>imageManager</name>
-							<value></value>
-							<type>datasource:image</type>
+							<type>boolean</type>
 						</property>
 					</properties>
 					<constraints>
