@@ -180,7 +180,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value>imagepicker</value>
+							<value>imagepicker,image_repo</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
