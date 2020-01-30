@@ -104,7 +104,7 @@
 &lt;h4 align="center"&gt;&lt;span style="text-decoration: underline;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/h4&gt;
 &lt;h4 align="center"&gt;&lt;span style="text-decoration: underline;"&gt;Annexure I&lt;/span&gt;&lt;/h4&gt;
 &lt;h4 align="center"&gt;&lt;span style="text-decoration: underline;"&gt;Consideration&lt;/span&gt;&lt;/h4&gt;
-&lt;p class="fin-text"&gt;&lt;b&gt;Refer:&lt;/b&gt;&amp;nbsp;&lt;a href="/kyc/annexure-tc" target="_self"&gt;&lt;span routerlink="/kyc/annexure-tc"&gt;&lt;i&gt;link&lt;/i&gt;&amp;nbsp;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class="fin-text"&gt;&lt;b&gt;Refer:&lt;/b&gt;&amp;nbsp;&lt;a href="#/kyc/annexure-tc" target="_self"&gt;&lt;span routerlink="/kyc/annexure-tc"&gt;&lt;i&gt;link&lt;/i&gt;&amp;nbsp;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h4 align="center"&gt;&lt;span style="text-decoration: underline;"&gt;Annexure II &lt;/span&gt;&amp;nbsp;&lt;/h4&gt;
 &lt;h4&gt;&lt;span style="text-decoration: underline;"&gt;Risks&lt;/span&gt;&lt;/h4&gt;
 &lt;p class="fin-text"&gt;&lt;b&gt;1. Third Party Risk:&lt;/b&gt;&lt;/p&gt;
@@ -142,7 +142,7 @@
 	</item></attrs>
 	<createdDate>2019-08-20T20:56:38.527Z</createdDate>
 	<createdDate_dt>2019-08-20T20:56:38.527Z</createdDate_dt>
-	<lastModifiedDate>2020-01-30T06:55:58.327Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-30T06:55:58.327Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-30T06:59:49.334Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-30T06:59:49.334Z</lastModifiedDate_dt>
 	<footer>/static-assets/docs/T%26C%20IA.pdf</footer>
 </component>
