@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2c7e</objectGroupId>
+	<objectId>2c7eaba0-073f-f315-e3ea-5fa832bdbd9f</objectId>
+	<internal-name>Annexure I</internal-name>
+	<heading>Annexure I</heading>
+	<footer/>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</description>
+	<file-name>annexure.xml</file-name>
+	<folder-name/>
+	<attrs item-list="true">	<item>	<key>content</key>
+	<value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt&lt;/p&gt;</value>
+	</item></attrs>
+	<createdDate>2020-01-30T06:45:35.201Z</createdDate>
+	<createdDate_dt>2020-01-30T06:45:35.201Z</createdDate_dt>
+	<lastModifiedDate>2020-01-30T06:45:35.201Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-30T06:45:35.201Z</lastModifiedDate_dt>
+</component>
