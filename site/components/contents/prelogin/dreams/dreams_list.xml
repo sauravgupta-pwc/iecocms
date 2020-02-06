@@ -81,7 +81,7 @@
 	<tenure_initial>3</tenure_initial>
 	<exp_cst_inc_initial>0.09</exp_cst_inc_initial>
 	<taking_loan_initial>0.45</taking_loan_initial>
-	<image_lg/>
+	<image_lg>/static-assets/images/dreams/dream_lg_2.png</image_lg>
 	</item>	<item>	<image>/static-assets/images/dreams/dream_3.png</image>
 	<title>iPhone 11</title>
 	<description>Sporting the new Iphone is now just a click away </description>
@@ -117,11 +117,11 @@
 	<tenure_initial>3</tenure_initial>
 	<exp_cst_inc_initial>0.09</exp_cst_inc_initial>
 	<taking_loan_initial>0.45</taking_loan_initial>
-	<image_lg/>
+	<image_lg>/static-assets/images/dreams/dream_lg_3.png</image_lg>
 	</item></dreams>
 	<createdDate>2019-11-22T12:31:48.225Z</createdDate>
 	<createdDate_dt>2019-11-22T12:31:48.225Z</createdDate_dt>
-	<lastModifiedDate>2020-01-20T14:36:57.707Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-20T14:36:57.707Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-02-06T07:22:48.023Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-02-06T07:22:48.023Z</lastModifiedDate_dt>
 	<no_of_dreams>4</no_of_dreams>
 </component>
