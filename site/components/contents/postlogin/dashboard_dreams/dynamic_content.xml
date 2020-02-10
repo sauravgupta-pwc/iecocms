@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/basic_template</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>93fd</objectGroupId>
+	<objectId>93fdd069-80b4-85ce-b740-f8f7a8696795</objectId>
+	<file-name>dynamic_content.xml</file-name>
+	<folder-name/>
+	<internal-name>Dynamic Card</internal-name>
+	<section_id>content</section_id>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+	<img_url>/static-assets/images/investment/Fortuna_icon.svg</img_url>
+	<img_lg_url>/static-assets/images/investment/Fortuna_icon.svg</img_lg_url>
+	<createdDate>2020-02-10T09:48:17.605Z</createdDate>
+	<createdDate_dt>2020-02-10T09:48:17.605Z</createdDate_dt>
+	<lastModifiedDate>2020-02-10T09:48:17.605Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-02-10T09:48:17.605Z</lastModifiedDate_dt>
+</component>
