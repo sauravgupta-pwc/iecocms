@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent3</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9621</objectGroupId>
+	<objectId>9621c641-0f1a-bd9b-13de-4f750a21e1d9</objectId>
+	<internal-name>Order Book</internal-name>
+	<heading>Order book</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<file-name>order-bbok.xml</file-name>
+	<folder-name/>
+	<createdDate>2020-02-11T12:40:22.903Z</createdDate>
+	<createdDate_dt>2020-02-11T12:40:22.903Z</createdDate_dt>
+	<lastModifiedDate>2020-02-11T12:40:22.903Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-02-11T12:40:22.903Z</lastModifiedDate_dt>
+</component>
