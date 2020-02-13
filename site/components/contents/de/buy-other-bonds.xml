@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent3</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c4c7</objectGroupId>
+	<objectId>c4c79c88-4e50-3ed6-c868-3e7e2fb6e2fc</objectId>
+	<internal-name>Buy other bonds</internal-name>
+	<heading>Buy Other Bonds</heading>
+	<file-name>buy-other-bonds.xml</file-name>
+	<folder-name/>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<createdDate>2020-02-13T13:28:36.795Z</createdDate>
+	<createdDate_dt>2020-02-13T13:28:36.795Z</createdDate_dt>
+	<lastModifiedDate>2020-02-13T13:28:36.795Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-02-13T13:28:36.795Z</lastModifiedDate_dt>
+</component>
