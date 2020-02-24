@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent6</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0941</objectGroupId>
+	<objectId>0941553f-09d1-788b-67ef-12a5673e3eea</objectId>
+	<file-name>stock-buy.xml</file-name>
+	<folder-name/>
+	<internal-name>Stock buy</internal-name>
+	<heading>Tax Implecation</heading>
+	<footer>investment constitution</footer>
+	<description>&lt;p&gt;Lorem ipsum&lt;/p&gt;</description>
+	<attr item-list="true"/>
+	<footer_element item-list="true">	<item>	<element>&lt;p&gt;of your overall investment&lt;/p&gt;</element>
+	</item>	<item>	<element>&lt;p&gt;of your overall investment&lt;/p&gt;</element>
+	</item></footer_element>
+	<subComp item-list="true">	<item>	<heading>Duis aute irure dolor in reprenhenderit</heading>
+	<description>&lt;p&gt;Lorem ipsum&lt;/p&gt;</description>
+	<action_label>3 min read</action_label>
+	<action_route>/toute/to/nextPage</action_route>
+	<id/>
+	</item>	<item>	<heading>Duis aute irure dolor in reprenhenderit</heading>
+	<description>&lt;p&gt;lorem ipsum&lt;/p&gt;</description>
+	<action_label>3 min read</action_label>
+	<action_route>/toute/to/nextPage</action_route>
+	<id/>
+	</item></subComp>
+	<createdDate>2020-02-24T09:51:35.442Z</createdDate>
+	<createdDate_dt>2020-02-24T09:51:35.442Z</createdDate_dt>
+	<lastModifiedDate>2020-02-24T09:51:35.442Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-02-24T09:51:35.442Z</lastModifiedDate_dt>
+</component>
