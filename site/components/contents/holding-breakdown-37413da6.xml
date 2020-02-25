@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7faf2d27</objectGroupId>
+	<objectId>7faf2d27-f13c-47d6-9d13-a835a2422b29</objectId>
+	<internal-name>Holding Breakdown 37413da6</internal-name>
+	<heading>Breakdown</heading>
+	<footer/>
+	<file-name>holding-breakdown-37413da6.xml</file-name>
+	<folder-name>contents</folder-name>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<createdDate>2020-02-25T13:33:12.626Z</createdDate>
+	<createdDate_dt>2020-02-25T13:33:12.626Z</createdDate_dt>
+	<lastModifiedDate>2020-02-25T13:33:12.626Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-02-25T13:33:12.626Z</lastModifiedDate_dt>
+</component>
