@@ -4,14 +4,14 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>7faf2d27</objectGroupId>
 	<objectId>7faf2d27-f13c-47d6-9d13-a835a2422b29</objectId>
-	<internal-name>Holding Breakdown 37413da6</internal-name>
-	<heading>Breakdown</heading>
+	<internal-name>Past transactions</internal-name>
+	<heading>Past transactions</heading>
 	<footer/>
-	<file-name>holding-breakdown-37413da6.xml</file-name>
-	<folder-name>contents</folder-name>
+	<file-name>past-transactions.xml</file-name>
+	<folder-name/>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
 	<createdDate>2020-02-25T13:33:12.626Z</createdDate>
 	<createdDate_dt>2020-02-25T13:33:12.626Z</createdDate_dt>
-	<lastModifiedDate>2020-02-25T13:33:12.626Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-02-25T13:33:12.626Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-02-25T13:35:12.932Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-02-25T13:35:12.932Z</lastModifiedDate_dt>
 </component>
