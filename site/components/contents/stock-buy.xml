@@ -4,9 +4,9 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>0941</objectGroupId>
 	<objectId>0941553f-09d1-788b-67ef-12a5673e3eea</objectId>
-	<file-name>stock-buy.xml</file-name>
+	<file-name>holding-details.xml</file-name>
 	<folder-name/>
-	<internal-name>Stock buy</internal-name>
+	<internal-name>Holding Details</internal-name>
 	<heading>Tax Implecation</heading>
 	<footer>investment constitution</footer>
 	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.&lt;/p&gt;</description>
@@ -33,6 +33,6 @@
 	</item></subComp>
 	<createdDate>2020-02-24T09:51:35.442Z</createdDate>
 	<createdDate_dt>2020-02-24T09:51:35.442Z</createdDate_dt>
-	<lastModifiedDate>2020-02-26T09:52:47.046Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-02-26T09:52:47.046Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-02-26T09:59:05.076Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-02-26T09:59:05.076Z</lastModifiedDate_dt>
 </component>
