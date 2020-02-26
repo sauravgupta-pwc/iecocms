@@ -10,23 +10,29 @@
 	<heading>Tax Implecation</heading>
 	<footer>investment constitution</footer>
 	<description>&lt;p&gt;Lorem ipsum&lt;/p&gt;</description>
-	<attr item-list="true"/>
+	<attr item-list="true">	<item>	<key>Stock purchased</key>
+	<value>&lt;p&gt;Reliance Industries Limited&lt;/p&gt;</value>
+	<id/>
+	</item>	<item>	<key>Stock sold</key>
+	<value>&lt;p&gt;Reliance Industries Limited&lt;/p&gt;</value>
+	<id/>
+	</item></attr>
 	<footer_element item-list="true">	<item>	<element>&lt;p&gt;of your overall investment&lt;/p&gt;</element>
 	</item>	<item>	<element>&lt;p&gt;of your overall investment&lt;/p&gt;</element>
 	</item></footer_element>
 	<subComp item-list="true">	<item>	<heading>Duis aute irure dolor in reprenhenderit</heading>
 	<description>&lt;p&gt;Lorem ipsum&lt;/p&gt;</description>
-	<action_label>3 min read</action_label>
+	<action_label>/static-assets/images/uploaded/de/Group%208.png</action_label>
 	<action_route>/toute/to/nextPage</action_route>
-	<id/>
+	<id>3 min label</id>
 	</item>	<item>	<heading>Duis aute irure dolor in reprenhenderit</heading>
 	<description>&lt;p&gt;lorem ipsum&lt;/p&gt;</description>
-	<action_label>3 min read</action_label>
+	<action_label>/static-assets/images/uploaded/de/Mask%20Group%208</action_label>
 	<action_route>/toute/to/nextPage</action_route>
-	<id/>
+	<id>3 min read</id>
 	</item></subComp>
 	<createdDate>2020-02-24T09:51:35.442Z</createdDate>
 	<createdDate_dt>2020-02-24T09:51:35.442Z</createdDate_dt>
-	<lastModifiedDate>2020-02-24T09:51:35.442Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-02-24T09:51:35.442Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-02-26T09:45:57.093Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-02-26T09:45:57.093Z</lastModifiedDate_dt>
 </component>
