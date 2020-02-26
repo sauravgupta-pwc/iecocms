@@ -20,19 +20,19 @@
 	<footer_element item-list="true">	<item>	<element>&lt;p&gt;of your overall investment&lt;/p&gt;</element>
 	</item>	<item>	<element>&lt;p&gt;of your overall investment&lt;/p&gt;</element>
 	</item></footer_element>
-	<subComp item-list="true">	<item>	<heading>Duis aute irure dolor in reprenhenderit</heading>
-	<description>&lt;p&gt;Lorem ipsum&lt;/p&gt;</description>
+	<subComp item-list="true">	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
+	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor&lt;/p&gt;</description>
 	<action_label>/static-assets/images/uploaded/de/Group%208.png</action_label>
 	<action_route>/toute/to/nextPage</action_route>
 	<id>3 min label</id>
-	</item>	<item>	<heading>Duis aute irure dolor in reprenhenderit</heading>
-	<description>&lt;p&gt;lorem ipsum&lt;/p&gt;</description>
+	</item>	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
+	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor&lt;/p&gt;</description>
 	<action_label>/static-assets/images/uploaded/de/Mask%20Group%208</action_label>
 	<action_route>/toute/to/nextPage</action_route>
 	<id>3 min read</id>
 	</item></subComp>
 	<createdDate>2020-02-24T09:51:35.442Z</createdDate>
 	<createdDate_dt>2020-02-24T09:51:35.442Z</createdDate_dt>
-	<lastModifiedDate>2020-02-26T09:50:01.442Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-02-26T09:50:01.442Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-02-26T09:52:47.046Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-02-26T09:52:47.046Z</lastModifiedDate_dt>
 </component>
