@@ -12,7 +12,7 @@
 	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.&lt;/p&gt;</description>
 	<attr item-list="true"/>
 	<footer_element item-list="true">	<item>	<element>&lt;p&gt;of your overall investment&lt;/p&gt;</element>
-	</item>	<item>	<element>&lt;p&gt;of your overall investment&lt;/p&gt;</element>
+	</item>	<item>	<element>&lt;p&gt;of your stocks investments&lt;/p&gt;</element>
 	</item></footer_element>
 	<subComp item-list="true">	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
 	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor&lt;/p&gt;</description>
@@ -27,6 +27,6 @@
 	</item></subComp>
 	<createdDate>2020-02-24T09:51:35.442Z</createdDate>
 	<createdDate_dt>2020-02-24T09:51:35.442Z</createdDate_dt>
-	<lastModifiedDate>2020-02-26T09:59:49.461Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-02-26T09:59:49.461Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-02-28T14:10:30.411Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-02-28T14:10:30.411Z</lastModifiedDate_dt>
 </component>
