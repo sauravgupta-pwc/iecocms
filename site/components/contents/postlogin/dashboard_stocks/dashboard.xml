@@ -10,8 +10,13 @@
 	<file-name>dashboard.xml</file-name>
 	<folder-name/>
 	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
-	<subComp item-list="true">	<item>	<heading>Investment distribution</heading>
-	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.&lt;/p&gt;</description>
+	<subComp item-list="true">	<item>	<heading>sector</heading>
+	<description>&lt;pre&gt;&lt;code&gt;Lorem&lt;/code&gt; ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.&lt;/pre&gt;</description>
+	<action_label/>
+	<action_route/>
+	<id/>
+	</item>	<item>	<heading>category</heading>
+	<description>&lt;pre style="background-color: #ffffff; font-family: Consolas; font-size: 9.8pt;"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.&lt;/pre&gt;</description>
 	<action_label/>
 	<action_route/>
 	<id/>
@@ -19,6 +24,6 @@
 	<attr item-list="true"/>
 	<createdDate>2019-12-26T16:08:45.478Z</createdDate>
 	<createdDate_dt>2019-12-26T16:08:45.478Z</createdDate_dt>
-	<lastModifiedDate>2020-02-26T06:42:56.658Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-02-26T06:42:56.658Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-02-28T07:00:56.444Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-02-28T07:00:56.444Z</lastModifiedDate_dt>
 </component>
