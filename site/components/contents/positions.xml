@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent3</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9a49</objectGroupId>
+	<objectId>9a49bb60-3e63-0f35-8e52-0d6fb341adab</objectId>
+	<file-name>positions.xml</file-name>
+	<folder-name/>
+	<internal-name>Positions</internal-name>
+	<heading>Positions</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<createdDate>2020-02-28T13:59:50.465Z</createdDate>
+	<createdDate_dt>2020-02-28T13:59:50.465Z</createdDate_dt>
+	<lastModifiedDate>2020-02-28T13:59:50.465Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-02-28T13:59:50.465Z</lastModifiedDate_dt>
+</component>
