@@ -398,7 +398,7 @@
 				</field>
 				<field>
 					<type>input</type>
-					<id>bse_lable</id>
+					<id>bse_label</id>
 					<iceId></iceId>
 					<title>bse_label</title>
 					<description></description>
