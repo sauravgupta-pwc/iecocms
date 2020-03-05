@@ -18,9 +18,15 @@
 	<value>INZ000200137 (Member of NSE, BSE, MSE, MCX &amp; NCDEX) AMFI ARN 0164, PMS INP000000258 and Research Analyst INH000000586.</value>
 	</item>	<item>	<key>NSDL/CDSL</key>
 	<value>IN-DP-NSDL-23-97</value>
+	</item>	<item>	<key>BSE</key>
+	<value>https://www.bseindia.com/</value>
+	</item>	<item>	<key>NSE</key>
+	<value>https://www.nseindia.com/</value>
+	</item>	<item>	<key>SEBI</key>
+	<value>https://www.sebi.gov.in/</value>
 	</item></subComp>
 	<createdDate>2019-11-27T10:30:26.963Z</createdDate>
 	<createdDate_dt>2019-11-27T10:30:26.963Z</createdDate_dt>
-	<lastModifiedDate>2019-11-27T10:30:26.963Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-27T10:30:26.963Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-05T15:23:38.408Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-05T15:23:38.408Z</lastModifiedDate_dt>
 </component>
