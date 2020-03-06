@@ -92,7 +92,7 @@
 					<type>input</type>
 					<id>customerID</id>
 					<iceId></iceId>
-					<title>Customer ID</title>
+					<title>CustomerID</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -135,7 +135,7 @@
 					<type>input</type>
 					<id>emailId</id>
 					<iceId></iceId>
-					<title>Registered email id</title>
+					<title>emailId</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -178,7 +178,7 @@
 					<type>input</type>
 					<id>mobileNo</id>
 					<iceId></iceId>
-					<title>Registered mobile number</title>
+					<title>mobileNo</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -221,7 +221,7 @@
 					<type>input</type>
 					<id>accounttype</id>
 					<iceId></iceId>
-					<title>Account type</title>
+					<title>accounttype</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
