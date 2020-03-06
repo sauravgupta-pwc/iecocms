@@ -6,11 +6,11 @@
 	<objectId>9621c641-0f1a-bd9b-13de-4f750a21e1d9</objectId>
 	<internal-name>Order Book</internal-name>
 	<heading>Order book</heading>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<description/>
 	<file-name>order-book.xml</file-name>
 	<folder-name/>
 	<createdDate>2020-02-11T12:40:22.903Z</createdDate>
 	<createdDate_dt>2020-02-11T12:40:22.903Z</createdDate_dt>
-	<lastModifiedDate>2020-02-11T12:43:58.336Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-02-11T12:43:58.336Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-06T13:44:16.085Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-06T13:44:16.085Z</lastModifiedDate_dt>
 </component>
