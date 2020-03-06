@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/accdetails</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d123</objectGroupId>
+	<objectId>d123ae28-dbc2-6f92-e3f8-664713af356e</objectId>
+	<file-name>acc_details.xml</file-name>
+	<folder-name/>
+	<internal-name>details</internal-name>
+	<heading>Account</heading>
+	<description/>
+	<customerID>Customer ID</customerID>
+	<emailId>Registered email id</emailId>
+	<mobileNo>Registered mobile number</mobileNo>
+	<accounttype>Account type</accounttype>
+	<clickable_cards item-list="true">	<item>	<label>KYC details</label>
+	<action_route>/home/kyc-detail</action_route>
+	</item>	<item>	<label>Trading account</label>
+	<action_route>/home/trade-acc</action_route>
+	</item></clickable_cards>
+	<createdDate>2020-03-06T10:09:47.102Z</createdDate>
+	<createdDate_dt>2020-03-06T10:09:47.102Z</createdDate_dt>
+	<lastModifiedDate>2020-03-06T10:09:47.102Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-06T10:09:47.102Z</lastModifiedDate_dt>
+</component>
