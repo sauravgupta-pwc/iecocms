@@ -1,91 +1,267 @@
 <form>
-<title>acc_details</title>
-<description></description>
-<content-type>/component/accdetails</content-type>
-<objectType>component</objectType>
-<properties>
-<property>
-<name>content-type</name>
-<label>Content Type</label>
-<value>/component/accdetails</value>
-<type>string</type>
-</property>
-<property>
-<name>display-template</name>
-<label>Display Template</label>
-<value></value>
-<type>template</type>
-</property>
-<property>
-<name>merge-strategy</name>
-<label>Merge Strategy</label>
-<value>inherit-levels</value>
-<type>string</type>
-</property>
-</properties>
-<sections>
-<section>
-<title>acc_details Properties</title>
-<description></description>
-<defaultOpen>true</defaultOpen>
-<fields>
-<field>
-<type>file-name</type>
-<id>file-name</id>
-<iceId></iceId>
-<title>Component ID</title>
-<description></description>
-<defaultValue></defaultValue>
-<help></help>
-<properties>
-<property>
-<name>size</name>
-<value>50</value>
-<type>int</type>
-</property>
-<property>
-<name>maxlength</name>
-<value>50</value>
-<type>int</type>
-</property>
-<property>
-<name>readonly</name>
-<value></value>
-<type>boolean</type>
-</property>
-</properties>
-<constraints>
-</constraints>
-</field>
-<field>
-<type>input</type>
-<id>internal-name</id>
-<iceId></iceId>
-<title>Internal Name</title>
-<description></description>
-<defaultValue></defaultValue>
-<help></help>
-<properties>
-<property>
-<name>size</name>
-<value>50</value>
-<type>int</type>
-</property>
-<property>
-<name>maxlength</name>
-<value>50</value>
-<type>int</type>
-</property>
-</properties>
-<constraints>
-<constraint>
-<name>required</name>
-<value>true</value>
-<type>boolean</type>
-</constraint>
-</constraints>
-</field>
-</fields>
-</section>
-</sections>
+	<title>acc_details</title>
+	<description></description>
+	<objectType>component</objectType>
+	<content-type>/component/accdetails</content-type>
+	<imageThumbnail>undefined</imageThumbnail>
+	<properties>		<property>
+			<name>display-template</name>
+			<label>Display Template</label>
+			<value></value>
+			<type>template</type>
+		</property>
+		<property>
+			<name>merge-strategy</name>
+			<label>Merge Strategy</label>
+			<value>inherit-levels</value>
+			<type>string</type>
+		</property>
+	</properties>
+	<sections>		<section>
+			<title>acc_details Properties</title>
+			<description></description>
+			<defaultOpen>true</defaultOpen>
+			<fields>
+				<field>
+					<type>file-name</type>
+					<id>file-name</id>
+					<iceId></iceId>
+					<title>Component ID</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>size</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+					</constraints>
+				</field>
+				<field>
+					<type>input</type>
+					<id>internal-name</id>
+					<iceId></iceId>
+					<title>account_details</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>size</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>tokenize</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[true]]></value>
+							<type>boolean</type>
+						</constraint>
+					</constraints>
+				</field>
+				<field>
+					<type>input</type>
+					<id>customerID</id>
+					<iceId></iceId>
+					<title>Customer ID</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>size</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>tokenize</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[]]></value>
+							<type>boolean</type>
+						</constraint>
+						<constraint>
+							<name>pattern</name>
+							<value><![CDATA[]]></value>
+							<type>string</type>
+						</constraint>
+					</constraints>
+				</field>
+				<field>
+					<type>input</type>
+					<id>emailId</id>
+					<iceId></iceId>
+					<title>Registered email id</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>size</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>tokenize</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[]]></value>
+							<type>boolean</type>
+						</constraint>
+						<constraint>
+							<name>pattern</name>
+							<value><![CDATA[]]></value>
+							<type>string</type>
+						</constraint>
+					</constraints>
+				</field>
+				<field>
+					<type>input</type>
+					<id>mobileNo</id>
+					<iceId></iceId>
+					<title>Registered mobile number</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>size</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>tokenize</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[]]></value>
+							<type>boolean</type>
+						</constraint>
+						<constraint>
+							<name>pattern</name>
+							<value><![CDATA[]]></value>
+							<type>string</type>
+						</constraint>
+					</constraints>
+				</field>
+				<field>
+					<type>input</type>
+					<id>accounttype</id>
+					<iceId></iceId>
+					<title>Account type</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>size</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>tokenize</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[]]></value>
+							<type>boolean</type>
+						</constraint>
+						<constraint>
+							<name>pattern</name>
+							<value><![CDATA[]]></value>
+							<type>string</type>
+						</constraint>
+					</constraints>
+				</field>
+			</fields>
+		</section>
+	</sections>
+	<datasources>	</datasources>
 </form>
