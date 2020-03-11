@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent3</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>23d9</objectGroupId>
+	<objectId>23d93187-a605-b538-b0d9-cdb3ed85e598</objectId>
+	<file-name>review-fixed-deposit.xml</file-name>
+	<folder-name/>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<internal-name>Review fixed deposit</internal-name>
+	<heading>Review fixed deposit</heading>
+	<createdDate>2020-03-11T07:46:01.573Z</createdDate>
+	<createdDate_dt>2020-03-11T07:46:01.573Z</createdDate_dt>
+	<lastModifiedDate>2020-03-11T07:46:01.573Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-11T07:46:01.573Z</lastModifiedDate_dt>
+</component>
