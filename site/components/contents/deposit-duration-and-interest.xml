@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>13a4</objectGroupId>
+	<objectId>13a40d7d-a2bb-ce8a-17ef-595e7198e7c2</objectId>
+	<internal-name>Deposit duration and interest</internal-name>
+	<heading>Deposit duration and interest</heading>
+	<footer/>
+	<description>The interest you earn depends on the duration of the deposit. Select your preference.</description>
+	<file-name>deposit-duration-and-interest.xml</file-name>
+	<folder-name/>
+	<createdDate>2020-03-11T07:40:45.952Z</createdDate>
+	<createdDate_dt>2020-03-11T07:40:45.952Z</createdDate_dt>
+	<lastModifiedDate>2020-03-11T07:40:45.952Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-11T07:40:45.952Z</lastModifiedDate_dt>
+</component>
