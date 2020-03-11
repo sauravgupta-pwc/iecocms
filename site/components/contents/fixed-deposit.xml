@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9f88</objectGroupId>
+	<objectId>9f8808e6-781e-d2dc-c958-88e1f8418386</objectId>
+	<file-name>fixed-deposit.xml</file-name>
+	<folder-name/>
+	<internal-name>Fixed Deposit</internal-name>
+	<heading>Fixed deposit</heading>
+	<footer>Indian citizens above 60 years of age will get additional 0.50% interest rate.</footer>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<createdDate>2020-03-11T07:36:29.002Z</createdDate>
+	<createdDate_dt>2020-03-11T07:36:29.002Z</createdDate_dt>
+	<lastModifiedDate>2020-03-11T07:36:29.002Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-11T07:36:29.002Z</lastModifiedDate_dt>
+</component>
