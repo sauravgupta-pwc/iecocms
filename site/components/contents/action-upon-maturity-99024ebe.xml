@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent6</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>defaa802</objectGroupId>
+	<objectId>defaa802-b253-461c-8b7d-b94031ad3598</objectId>
+	<internal-name>Action upon maturity 99024ebe</internal-name>
+	<heading>Action upon maturity</heading>
+	<footer/>
+	<description/>
+	<file-name>action-upon-maturity-99024ebe.xml</file-name>
+	<folder-name>contents</folder-name>
+	<attr item-list="true">	<item>	<key>Renew principal and interest</key>
+	<id/>
+	<value>&lt;p&gt;Reinvest the original principal and the earned interest back into the same scheme.&lt;/p&gt;</value>
+	</item>	<item>	<key>Renew only principal</key>
+	<value>&lt;p&gt;Reinvest only the original principal back into the same scheme. Transfer the earned interest to your bank account.&lt;/p&gt;</value>
+	<id/>
+	</item></attr>
+	<createdDate>2020-03-11T07:43:58.034Z</createdDate>
+	<createdDate_dt>2020-03-11T07:43:58.034Z</createdDate_dt>
+	<lastModifiedDate>2020-03-11T07:48:52.047Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-11T07:48:52.047Z</lastModifiedDate_dt>
+</component>
