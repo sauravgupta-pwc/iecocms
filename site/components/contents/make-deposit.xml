@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent6</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>32bc</objectGroupId>
+	<objectId>32bc3069-a2fd-30c3-2857-e8d6c0e7e283</objectId>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<internal-name>Make a deposit</internal-name>
+	<heading>Make a deposit</heading>
+	<footer/>
+	<file-name>make-deposit.xml</file-name>
+	<folder-name/>
+	<attr item-list="true">	<item>	<key>Fixed deposit</key>
+	<id/>
+	<value>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod&lt;/p&gt;</value>
+	</item>	<item>	<key>Recurring deposit</key>
+	<value>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod&lt;/p&gt;</value>
+	<id/>
+	</item>	<item>	<key>Tax-saving deposit</key>
+	<value>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod&lt;/p&gt;</value>
+	<id/>
+	</item></attr>
+	<subComp item-list="true">	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<action_label>3 min read</action_label>
+	<action_route>/Path/to/next/Page</action_route>
+	<id/>
+	</item>	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<action_label>3 min read</action_label>
+	<action_route>/Path/to/next/Page</action_route>
+	<id/>
+	</item>	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<action_label>3 min read</action_label>
+	<action_route>/Path/to/next/Page</action_route>
+	<id/>
+	</item></subComp>
+	<createdDate>2020-03-11T07:29:43.827Z</createdDate>
+	<createdDate_dt>2020-03-11T07:29:43.827Z</createdDate_dt>
+	<lastModifiedDate>2020-03-11T07:29:43.827Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-11T07:29:43.827Z</lastModifiedDate_dt>
+</component>
