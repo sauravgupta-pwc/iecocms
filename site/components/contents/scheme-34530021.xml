@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent6</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e5347fb9</objectGroupId>
+	<objectId>e5347fb9-1a4e-4d38-a6f0-fae9fa466dac</objectId>
+	<internal-name>Scheme 34530021</internal-name>
+	<heading>Scheme</heading>
+	<footer/>
+	<description/>
+	<file-name>scheme-34530021.xml</file-name>
+	<folder-name>contents</folder-name>
+	<attr item-list="true">	<item>	<key>Cumulative</key>
+	<id/>
+	<value>&lt;p&gt;Receive the total principal and interest at the end of maturity period.&lt;/p&gt;</value>
+	</item>	<item>	<key>Non-cumulative</key>
+	<value>&lt;p&gt;Receive the interest earned on periodic intervals (monthly, quarterly etc.) The principal will be returned at the end of maturity period.&lt;/p&gt;</value>
+	<id/>
+	</item></attr>
+	<createdDate>2020-03-11T07:43:58.034Z</createdDate>
+	<createdDate_dt>2020-03-11T07:43:58.034Z</createdDate_dt>
+	<lastModifiedDate>2020-03-11T07:43:58.034Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-11T07:43:58.034Z</lastModifiedDate_dt>
+</component>
