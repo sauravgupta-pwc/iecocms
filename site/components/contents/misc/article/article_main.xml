@@ -63,11 +63,19 @@
 	<action-route/>
 	<discount_amount/>
 	<section_id>/misc/article_details?section=welcome_create-a-budget-with-your-spouse</section_id>
+	</item>	<item>	<heading>Buying Vs Renting – A debate that is heating up</heading>
+	<image/>
+	<description>Any conversation that ponders over the “buying vs renting” conundrum is likely to end up in a raging debate with the proponents of each passionately defending their corner.</description>
+	<amount/>
+	<action_label>3 min read</action_label>
+	<action-route/>
+	<discount_amount/>
+	<section_id>/misc/article_details?section=welcome_buying-vs-renting---a-debate-that-is-heati</section_id>
 	</item></subComp>
 	<createdDate>2019-08-20T20:18:20.619Z</createdDate>
 	<createdDate_dt>2019-08-20T20:18:20.619Z</createdDate_dt>
-	<lastModifiedDate>2020-03-17T15:40:30.491Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-17T15:40:30.491Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-17T16:05:59.405Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-17T16:05:59.405Z</lastModifiedDate_dt>
 	<max_elements>3</max_elements>
 	<attrs item-list="true"/>
 </component>
