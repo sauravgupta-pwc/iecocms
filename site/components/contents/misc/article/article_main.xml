@@ -56,7 +56,7 @@
 	<discount_amount/>
 	<section_id>/misc/article_details?section=welcome_create-a-retirement-fund</section_id>
 	</item>	<item>	<heading>Create a budget with your spouse</heading>
-	<image/>
+	<image>/static-assets/images/learn/learn_3.png</image>
 	<description>Budgeting does not come easily to most of us. We live in a world of instant gratification where saving has lost much of its previous appeal. The challenges with budgeting get amplified in a marriage. </description>
 	<amount/>
 	<action_label>3 min read</action_label>
@@ -64,7 +64,7 @@
 	<discount_amount/>
 	<section_id>/misc/article_details?section=welcome_create-a-budget-with-your-spouse</section_id>
 	</item>	<item>	<heading>Buying Vs Renting – A debate that is heating up</heading>
-	<image/>
+	<image>/static-assets/images/learn/learn_3.png</image>
 	<description>Any conversation that ponders over the “buying vs renting” conundrum is likely to end up in a raging debate with the proponents of each passionately defending their corner.</description>
 	<amount/>
 	<action_label>3 min read</action_label>
@@ -72,7 +72,7 @@
 	<discount_amount/>
 	<section_id>/misc/article_details?section=welcome_buying-vs-renting---a-debate-that-is-heati</section_id>
 	</item>	<item>	<heading>Don’t let your EMI become a burden</heading>
-	<image/>
+	<image>/static-assets/images/learn/learn_3.png</image>
 	<description>Living in our own home is something that most of us hope to accomplish in our lifetime. While a majority of home buyers use a home loan to finance their purchase</description>
 	<amount/>
 	<action_label>3 min read</action_label>
@@ -80,7 +80,7 @@
 	<discount_amount/>
 	<section_id>/misc/article_details?section=welcome_don-t-let-your-emi-become-a-burden</section_id>
 	</item>	<item>	<heading>Roti, Kapda aur Makaan – What does housing mean fo</heading>
-	<image/>
+	<image>/static-assets/images/learn/learn_3.png</image>
 	<description>In Indian society, home ownership is symbolic of stability and success. “Buying a house” is a goal for a majority of Indians as owning a house serves to be as much of a status symbol as a necessity. </description>
 	<amount/>
 	<action_label>3 min read</action_label>
@@ -88,7 +88,7 @@
 	<discount_amount/>
 	<section_id>/misc/article_details?section=welcome_roti--kapda-aur-makaan---what-does-housing</section_id>
 	</item>	<item>	<heading>Investment advice for newlyweds</heading>
-	<image/>
+	<image>/static-assets/images/learn/learn_3.png</image>
 	<description>Marriage is varyingly described as a union between two kindred spirits, an equal partnership or sometimes, even a merger.</description>
 	<amount/>
 	<action_label>3 min read</action_label>
@@ -96,7 +96,7 @@
 	<discount_amount/>
 	<section_id>/misc/article_details?section=welcome_investment-advice-for-newlyweds</section_id>
 	</item>	<item>	<heading>Planning for your destination wedding</heading>
-	<image/>
+	<image>/static-assets/images/learn/learn_3.png</image>
 	<description>Weddings can be one of the most joyous occasions of an individual’s life. It is something that most of us have dreamed about at some point in time or another. </description>
 	<amount/>
 	<action_label>3 min read</action_label>
@@ -106,8 +106,8 @@
 	</item></subComp>
 	<createdDate>2019-08-20T20:18:20.619Z</createdDate>
 	<createdDate_dt>2019-08-20T20:18:20.619Z</createdDate_dt>
-	<lastModifiedDate>2020-03-17T16:43:44.725Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-17T16:43:44.725Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-17T17:30:15.034Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-17T17:30:15.034Z</lastModifiedDate_dt>
 	<max_elements>3</max_elements>
 	<attrs item-list="true"/>
 </component>
