@@ -71,11 +71,19 @@
 	<action-route/>
 	<discount_amount/>
 	<section_id>/misc/article_details?section=welcome_buying-vs-renting---a-debate-that-is-heati</section_id>
+	</item>	<item>	<heading>Don’t let your EMI become a burden</heading>
+	<image/>
+	<description>Living in our own home is something that most of us hope to accomplish in our lifetime. While a majority of home buyers use a home loan to finance their purchase</description>
+	<amount/>
+	<action_label>3 min read</action_label>
+	<action-route/>
+	<discount_amount/>
+	<section_id>/misc/article_details?section=welcome_don-t-let-your-emi-become-a-burden</section_id>
 	</item></subComp>
 	<createdDate>2019-08-20T20:18:20.619Z</createdDate>
 	<createdDate_dt>2019-08-20T20:18:20.619Z</createdDate_dt>
-	<lastModifiedDate>2020-03-17T16:05:59.405Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-17T16:05:59.405Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-17T16:19:49.266Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-17T16:19:49.266Z</lastModifiedDate_dt>
 	<max_elements>3</max_elements>
 	<attrs item-list="true"/>
 </component>
