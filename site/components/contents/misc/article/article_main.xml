@@ -79,11 +79,19 @@
 	<action-route/>
 	<discount_amount/>
 	<section_id>/misc/article_details?section=welcome_don-t-let-your-emi-become-a-burden</section_id>
+	</item>	<item>	<heading>Roti, Kapda aur Makaan – What does housing mean fo</heading>
+	<image/>
+	<description>In Indian society, home ownership is symbolic of stability and success. “Buying a house” is a goal for a majority of Indians as owning a house serves to be as much of a status symbol as a necessity. </description>
+	<amount/>
+	<action_label/>
+	<action-route/>
+	<discount_amount/>
+	<section_id>/misc/article_details?section=welcome_roti--kapda-aur-makaan---what-does-housing</section_id>
 	</item></subComp>
 	<createdDate>2019-08-20T20:18:20.619Z</createdDate>
 	<createdDate_dt>2019-08-20T20:18:20.619Z</createdDate_dt>
-	<lastModifiedDate>2020-03-17T16:19:49.266Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-17T16:19:49.266Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-17T16:28:01.253Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-17T16:28:01.253Z</lastModifiedDate_dt>
 	<max_elements>3</max_elements>
 	<attrs item-list="true"/>
 </component>
