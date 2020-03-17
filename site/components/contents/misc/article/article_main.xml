@@ -55,11 +55,19 @@
 	<action-route/>
 	<discount_amount/>
 	<section_id>/misc/article_details?section=welcome_create-a-retirement-fund</section_id>
+	</item>	<item>	<heading>Create a budget with your spouse</heading>
+	<image/>
+	<description>Budgeting does not come easily to most of us. We live in a world of instant gratification where saving has lost much of its previous appeal. The challenges with budgeting get amplified in a marriage. </description>
+	<amount/>
+	<action_label>3 min read</action_label>
+	<action-route/>
+	<discount_amount/>
+	<section_id>/misc/article_details?section=welcome_create-a-budget-with-your-spouse</section_id>
 	</item></subComp>
 	<createdDate>2019-08-20T20:18:20.619Z</createdDate>
 	<createdDate_dt>2019-08-20T20:18:20.619Z</createdDate_dt>
-	<lastModifiedDate>2020-02-13T11:52:26.775Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-02-13T11:52:26.775Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-17T15:40:30.491Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-17T15:40:30.491Z</lastModifiedDate_dt>
 	<max_elements>3</max_elements>
 	<attrs item-list="true"/>
 </component>
