@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/randominvestors</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5a4c</objectGroupId>
+	<objectId>5a4cf34e-d217-5354-0f9a-1ad6b4e1c990</objectId>
+	<internal-name>Quote Investors</internal-name>
+	<file-name>investors.xml</file-name>
+	<folder-name/>
+	<item item-list="true">	<item>	<investor>Benjamin Graham</investor>
+	<designation>Economist, father of value investing</designation>
+	<net_worth/>
+	<frequency/>
+	<image_link/>
+	<section_id/>
+	</item>	<item>	<investor>Bill Gates</investor>
+	<designation>Co-founder, Microsoft Corporation</designation>
+	<net_worth>₹ 7,98,000 Crore</net_worth>
+	<frequency/>
+	<image_link/>
+	<section_id/>
+	</item></item>
+	<createdDate>2020-03-18T13:34:45.706Z</createdDate>
+	<createdDate_dt>2020-03-18T13:34:45.706Z</createdDate_dt>
+	<lastModifiedDate>2020-03-18T13:34:45.706Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-18T13:34:45.706Z</lastModifiedDate_dt>
+</component>
