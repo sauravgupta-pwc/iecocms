@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent6</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7035</objectGroupId>
+	<objectId>703563ce-fdf7-6753-8d16-511c6159ccbb</objectId>
+	<file-name>stocks-scroller.xml</file-name>
+	<folder-name/>
+	<internal-name>Stocks Scroller</internal-name>
+	<heading>Stocks</heading>
+	<footer/>
+	<description>"3 Reasons why you must include equities in your portfolio
+</description>
+	<attr item-list="true">	<item>	<key>Reason 1: </key>
+	<id>1</id>
+	<value>&lt;p&gt;Equities have the potential to generate&amp;nbsp;&lt;/p&gt;</value>
+	</item>	<item>	<key>Reason 2:  </key>
+	<value>&lt;p&gt;Investment in equities can help you div&lt;/p&gt;</value>
+	<id>2</id>
+	</item>	<item>	<key>Reason 3</key>
+	<value>&lt;p&gt;Returns generated from equities can potentially help you achieve your financial goals&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</value>
+	<id>3</id>
+	</item></attr>
+	<createdDate>2020-03-18T14:48:34.979Z</createdDate>
+	<createdDate_dt>2020-03-18T14:48:34.979Z</createdDate_dt>
+	<lastModifiedDate>2020-03-18T14:48:34.979Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-18T14:48:34.979Z</lastModifiedDate_dt>
+</component>
