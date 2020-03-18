@@ -7,34 +7,42 @@
 	<internal-name>Deposit Articles</internal-name>
 	<file-name>deposit.xml</file-name>
 	<folder-name/>
-	<subComp item-list="true">	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
-	<amount>sample text</amount>
+	<subComp item-list="true">	<item>	<heading>Create a budget with your spouse</heading>
+	<description>Budgeting does not come easily to most of us. We live in a world of instant gratification where saving has lost much of its previous appeal. The challenges with budgeting get amplified in a marriage. </description>
+	<amount/>
 	<action_label>3 min read</action_label>
-	<action-route>sample text</action-route>
+	<action-route/>
 	<image>/static-assets/images/learn/learn_1.png</image>
 	<discount_amount/>
-	<section_id/>
-	</item>	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
+	<section_id>/misc/article_details?section=welcome_create-a-budget-with-your-spouse</section_id>
+	</item>	<item>	<heading>Buying Vs Renting – A debate that is heating up</heading>
 	<image>/static-assets/images/learn/learn_2.png</image>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<description>Any conversation that ponders over the “buying vs renting” conundrum is likely to end up in a raging debate with the proponents of each passionately defending their corner.</description>
 	<amount/>
 	<action_label>3 min read</action_label>
 	<action-route/>
 	<discount_amount/>
-	<section_id/>
-	</item>	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
+	<section_id>/misc/article_details?section=welcome_buying-vs-renting---a-debate-that-is-heati</section_id>
+	</item>	<item>	<heading>Don’t let your EMI become a burden</heading>
 	<image>/static-assets/images/learn/learn_3.png</image>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<description>Living in our own home is something that most of us hope to accomplish in our lifetime. While a majority of home buyers use a home loan to finance their purchase</description>
 	<amount/>
 	<action_label>3 min read</action_label>
 	<action-route/>
 	<discount_amount/>
-	<section_id/>
+	<section_id>/misc/article_details?section=welcome_don-t-let-your-emi-become-a-burden</section_id>
+	</item>	<item>	<heading>Roti, Kapda aur Makaan – What does housing mean fo</heading>
+	<image>/static-assets/images/learn/learn_3.png</image>
+	<description>In Indian society, home ownership is symbolic of stability and success. “Buying a house” is a goal for a majority of Indians as owning a house serves to be as much of a status symbol as a necessity. </description>
+	<amount/>
+	<action_label/>
+	<action-route/>
+	<discount_amount/>
+	<section_id>/misc/article_details?section=welcome_roti--kapda-aur-makaan---what-does-housing</section_id>
 	</item></subComp>
 	<createdDate>2019-08-20T20:18:20.619Z</createdDate>
 	<createdDate_dt>2019-08-20T20:18:20.619Z</createdDate_dt>
-	<lastModifiedDate>2019-12-30T11:12:14.337Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-12-30T11:12:14.337Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-18T08:23:45.224Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-18T08:23:45.224Z</lastModifiedDate_dt>
 	<max_elements>3</max_elements>
 </component>
