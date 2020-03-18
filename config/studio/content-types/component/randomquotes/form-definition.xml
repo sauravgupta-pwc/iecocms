@@ -1,5 +1,5 @@
 <form>
-	<title>Random Investors</title>
+	<title>Random Quotes</title>
 	<description></description>
 	<objectType>component</objectType>
 	<content-type>/component/randomquotes</content-type>
@@ -18,7 +18,7 @@
 		</property>
 	</properties>
 	<sections>		<section>
-			<title>Random Investors Properties</title>
+			<title>Random Quotes Properties</title>
 			<description></description>
 			<defaultOpen>true</defaultOpen>
 			<fields>
@@ -81,15 +81,15 @@
 			</fields>
 		</section>
 		<section>
-			<title>Default Section Title 1584537206021</title>
+			<title>quotes</title>
 			<description></description>
 			<defaultOpen>false</defaultOpen>
 			<fields>
 				<field>
 					<type>repeat</type>
-					<id>quotes</id>
+					<id>item</id>
 					<iceId></iceId>
-					<title>quotes</title>
+					<title>item</title>
 					<description></description>
 					<minOccurs>0</minOccurs>
 					<maxOccurs>*</maxOccurs>
@@ -107,260 +107,45 @@
 					</properties>
 					<fields>
 				<field>
-					<type>input</type>
-					<id>investor</id>
+					<type>textarea</type>
+					<id>quote</id>
 					<iceId></iceId>
-					<title>investor</title>
+					<title>quote</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
 					<properties>
 						<property>
-							<name>size</name>
+							<name>cols</name>
 							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>rows</name>
+							<value>5</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>maxlength</name>
-							<value>100</value>
+							<value>100000</value>
 							<type>int</type>
 						</property>
 						<property>
-							<name>readonly</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>tokenize</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-					</properties>
-					<constraints>
-						<constraint>
-							<name>required</name>
-							<value><![CDATA[]]></value>
-							<type>boolean</type>
-						</constraint>
-						<constraint>
-							<name>pattern</name>
-							<value><![CDATA[]]></value>
-							<type>string</type>
-						</constraint>
-					</constraints>
-				</field>
-				<field>
-					<type>input</type>
-					<id>designation</id>
-					<iceId></iceId>
-					<title>designation</title>
-					<description></description>
-					<defaultValue></defaultValue>
-					<help></help>
-					<properties>
-						<property>
-							<name>size</name>
-							<value>50</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>maxlength</name>
-							<value>500</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>readonly</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>tokenize</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-					</properties>
-					<constraints>
-						<constraint>
-							<name>required</name>
-							<value><![CDATA[]]></value>
-							<type>boolean</type>
-						</constraint>
-						<constraint>
-							<name>pattern</name>
-							<value><![CDATA[]]></value>
-							<type>string</type>
-						</constraint>
-					</constraints>
-				</field>
-				<field>
-					<type>input</type>
-					<id>networth</id>
-					<iceId></iceId>
-					<title>networth</title>
-					<description></description>
-					<defaultValue></defaultValue>
-					<help></help>
-					<properties>
-						<property>
-							<name>size</name>
-							<value>50</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>maxlength</name>
-							<value>500</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>readonly</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>tokenize</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-					</properties>
-					<constraints>
-						<constraint>
-							<name>required</name>
-							<value><![CDATA[]]></value>
-							<type>boolean</type>
-						</constraint>
-						<constraint>
-							<name>pattern</name>
-							<value><![CDATA[]]></value>
-							<type>string</type>
-						</constraint>
-					</constraints>
-				</field>
-				<field>
-					<type>input</type>
-					<id>frequency</id>
-					<iceId></iceId>
-					<title>frequency</title>
-					<description></description>
-					<defaultValue></defaultValue>
-					<help></help>
-					<properties>
-						<property>
-							<name>size</name>
-							<value>50</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>maxlength</name>
-							<value>50</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>readonly</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>tokenize</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-					</properties>
-					<constraints>
-						<constraint>
-							<name>required</name>
-							<value><![CDATA[]]></value>
-							<type>boolean</type>
-						</constraint>
-						<constraint>
-							<name>pattern</name>
-							<value><![CDATA[]]></value>
-							<type>string</type>
-						</constraint>
-					</constraints>
-				</field>
-				<field>
-					<type>input</type>
-					<id>imageLink</id>
-					<iceId></iceId>
-					<title>imageLink</title>
-					<description></description>
-					<defaultValue></defaultValue>
-					<help></help>
-					<properties>
-						<property>
-							<name>size</name>
-							<value>50</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>maxlength</name>
-							<value>500</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>readonly</name>
+							<name>allowResize</name>
 							<value>true</value>
 							<type>boolean</type>
 						</property>
 						<property>
-							<name>tokenize</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-					</properties>
-					<constraints>
-						<constraint>
-							<name>required</name>
-							<value><![CDATA[]]></value>
-							<type>boolean</type>
-						</constraint>
-						<constraint>
-							<name>pattern</name>
-							<value><![CDATA[]]></value>
-							<type>string</type>
-						</constraint>
-					</constraints>
-				</field>
-				<field>
-					<type>input</type>
-					<id>section_id</id>
-					<iceId></iceId>
-					<title>section_id</title>
-					<description></description>
-					<defaultValue></defaultValue>
-					<help></help>
-					<properties>
-						<property>
-							<name>size</name>
-							<value>50</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>maxlength</name>
-							<value>500</value>
-							<type>int</type>
-						</property>
-						<property>
 							<name>readonly</name>
 							<value></value>
 							<type>boolean</type>
 						</property>
-						<property>
-							<name>tokenize</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
 					</properties>
 					<constraints>
 						<constraint>
 							<name>required</name>
 							<value><![CDATA[]]></value>
 							<type>boolean</type>
-						</constraint>
-						<constraint>
-							<name>pattern</name>
-							<value><![CDATA[]]></value>
-							<type>string</type>
 						</constraint>
 					</constraints>
 				</field>
