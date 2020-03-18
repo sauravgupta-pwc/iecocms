@@ -376,8 +376,8 @@
 	</sections>
 	<datasources>				<datasource>
 					<type>img-repository-upload</type>
-					<id>cMSRepo</id>
-					<title>CMS Repo</title>
+					<id>image_repo</id>
+					<title>image_repo</title>
 					<interface>image</interface>
 					<properties>
 						<property>
