@@ -352,7 +352,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>image_repo</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
