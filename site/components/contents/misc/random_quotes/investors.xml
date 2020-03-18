@@ -11,17 +11,17 @@
 	<designation>Economist, father of value investing</designation>
 	<net_worth/>
 	<frequency/>
-	<image_link/>
-	<section_id>/static-assets/images/quotes_investors/benjamin_raham.png</section_id>
+	<image_link>/static-assets/images/quotes_investors/benjamin_raham.png</image_link>
+	<section_id/>
 	</item>	<item>	<investor>Bill Gates</investor>
 	<designation>Co-founder, Microsoft Corporation</designation>
 	<net_worth>₹ 7,98,000 Crore</net_worth>
 	<frequency/>
 	<image_link>/static-assets/images/quotes_investors/bill_gates.png</image_link>
-	<section_id/>
+	<section_id>/misc/random_quotes?section=bill_gates</section_id>
 	</item></item>
 	<createdDate>2020-03-18T13:34:45.706Z</createdDate>
 	<createdDate_dt>2020-03-18T13:34:45.706Z</createdDate_dt>
-	<lastModifiedDate>2020-03-18T14:13:20.538Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-18T14:13:20.538Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-18T14:30:44.481Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-18T14:30:44.481Z</lastModifiedDate_dt>
 </component>
