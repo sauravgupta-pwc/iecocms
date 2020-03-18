@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/randomquotes</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>56fd</objectGroupId>
+	<objectId>56fd73e1-7298-c064-d183-8660c47412f3</objectId>
+	<internal-name>Bill Gates Quotes</internal-name>
+	<file-name>bill_gates.xml</file-name>
+	<folder-name/>
+	<item item-list="true">	<item>	<quote>If you are born poor it's not your mistake but if you die poor, it's your mistake.</quote>
+	</item>	<item>	<quote>Patience is a key element of success
+</quote>
+	</item></item>
+	<createdDate>2020-03-18T14:17:52.206Z</createdDate>
+	<createdDate_dt>2020-03-18T14:17:52.206Z</createdDate_dt>
+	<lastModifiedDate>2020-03-18T14:17:52.206Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-18T14:17:52.206Z</lastModifiedDate_dt>
+</component>
