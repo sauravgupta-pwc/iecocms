@@ -1171,32 +1171,37 @@
 					</constraints>
 				</field>
 				<field>
-					<type>input</type>
-					<id>reason_pending_url</id>
+					<type>textarea</type>
+					<id>reason_pending_popup</id>
 					<iceId></iceId>
-					<title>reason_pending_url</title>
+					<title>reason_pending_popup</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
 					<properties>
 						<property>
-							<name>size</name>
+							<name>cols</name>
 							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>rows</name>
+							<value>5</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>maxlength</name>
-							<value>50</value>
+							<value>100000</value>
 							<type>int</type>
+						</property>
+						<property>
+							<name>allowResize</name>
+							<value>true</value>
+							<type>boolean</type>
 						</property>
 						<property>
 							<name>readonly</name>
 							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>tokenize</name>
-							<value>false</value>
 							<type>boolean</type>
 						</property>
 					</properties>
@@ -1205,11 +1210,6 @@
 							<name>required</name>
 							<value><![CDATA[]]></value>
 							<type>boolean</type>
-						</constraint>
-						<constraint>
-							<name>pattern</name>
-							<value><![CDATA[]]></value>
-							<type>string</type>
 						</constraint>
 					</constraints>
 				</field>
