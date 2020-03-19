@@ -14,8 +14,8 @@
 	<address>Lorem ipsum dolor sit amet &lt;br&gt;Consetetur sadipscing elitr,&lt;br&gt; Dunt ut labore et dolore magna aliquyam &lt;br&gt;Sed diam voluptua.</address>
 	<createdDate>2019-12-13T11:13:58.490Z</createdDate>
 	<createdDate_dt>2019-12-13T11:13:58.490Z</createdDate_dt>
-	<lastModifiedDate>2020-03-19T13:20:56.164Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-19T13:20:56.164Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-19T13:47:11.291Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-19T13:47:11.291Z</lastModifiedDate_dt>
 	<company_detail_title>&lt;b&gt;Kotak Investment Advisors Ltd&lt;/b&gt;</company_detail_title>
 	<address_title>Registered address</address_title>
 	<bse_link>https://www.bseindia.com/</bse_link>
@@ -36,6 +36,5 @@
 	<pendind_at_value>99,999</pendind_at_value>
 	<as_on>As on Mar 2020</as_on>
 	<reason_pending>Reason for pendency</reason_pending>
-	<reason_pending_popup>&lt;h2&gt;Reason for pendency&lt;/h2&gt;
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea</reason_pending_popup>
+	<reason_pending_popup>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea</reason_pending_popup>
 </component>
