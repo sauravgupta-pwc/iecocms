@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/randomquotes</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0fded87b</objectGroupId>
+	<objectId>0fded87b-5cce-4b74-b56b-8c985e5858c4</objectId>
+	<internal-name>Sir John Templeton 9ffbe8e5</internal-name>
+	<file-name>sir-john-templeton-9ffbe8e5.xml</file-name>
+	<folder-name>random_quotes</folder-name>
+	<item item-list="true">	<item>	<quote>The four most dangerous words in investing are: ‘this time it’s different’</quote>
+	</item>	<item>	<quote>If you want to have a better performance than the crowd, you must do things differently from the crowd.</quote>
+	</item>	<item>	<quote>Bull-markets are born on pessimism, grow on skepticism, mature on optimism and die on euphoria.</quote>
+	</item>	<item>	<quote>Focus on value because most investors focus on outlooks and trends.</quote>
+	</item>	<item>	<quote>Sell when you find a much better bargain to replace what you are selling.</quote>
+	</item>	<item>	<quote>Looking for a good investment is nothing more than looking for a good bargain. </quote>
+	</item>	<item>	<quote>Remain flexible and open-minded about types of investment. </quote>
+	</item></item>
+	<createdDate>2020-03-18T14:17:52.206Z</createdDate>
+	<createdDate_dt>2020-03-18T14:17:52.206Z</createdDate_dt>
+	<lastModifiedDate>2020-03-19T10:26:51.905Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-19T10:26:51.905Z</lastModifiedDate_dt>
+</component>
