@@ -5,25 +5,15 @@
 	<objectGroupId>e3cb1b76</objectGroupId>
 	<objectId>e3cb1b76-5f06-4a18-a24a-d71acdc9c1ac</objectId>
 	<internal-name>dashboard  </internal-name>
-	<heading>Stocks</heading>
+	<heading>Overall</heading>
 	<footer>Buy mutual funds</footer>
 	<file-name>dashboard.xml</file-name>
-	<folder-name>/site/components/contents/postlogin</folder-name>
+	<folder-name/>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-	<subComp item-list="true">	<item>	<heading>sector</heading>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</description>
-	<action_label/>
-	<action_route/>
-	<id/>
-	</item>	<item>	<heading>category</heading>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.</description>
-	<action_label/>
-	<action_route/>
-	<id/>
-	</item></subComp>
+	<subComp item-list="true"/>
 	<attr item-list="true"/>
 	<createdDate>2019-12-26T16:08:45.478Z</createdDate>
 	<createdDate_dt>2019-12-26T16:08:45.478Z</createdDate_dt>
-	<lastModifiedDate>2020-02-28T07:51:05.905Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-02-28T07:51:05.905Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-19T06:56:32.486Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-19T06:56:32.486Z</lastModifiedDate_dt>
 </component>
