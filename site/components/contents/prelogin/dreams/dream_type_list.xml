@@ -7,14 +7,7 @@
 	<file-name>dream_type_list.xml</file-name>
 	<folder-name/>
 	<internal-name>Dream Type List</internal-name>
-	<dream_types item-list="true">	<item>	<title>Brand new &lt;b&gt;car&lt;/b&gt;</title>
-	<description>Zooming off a new set of wheels now gets easier</description>
-	<detail_section_id/>
-	<thumb_img>/static-assets/images/dream_type/car.png</thumb_img>
-	<goal_type_id>12</goal_type_id>
-	<section_id/>
-	<predefined_id>2</predefined_id>
-	</item>	<item>	<title>Top-class &lt;b&gt;education&lt;/b&gt;</title>
+	<dream_types item-list="true">	<item>	<title>Top-class &lt;b&gt;education&lt;/b&gt;</title>
 	<description>Don't let the high cost of education stop you from becoming a topper</description>
 	<thumb_img>/static-assets/images/dream_type/education.png</thumb_img>
 	<detail_section_id/>
@@ -63,9 +56,15 @@
 	<goal_type_id>9</goal_type_id>
 	<section_id>2</section_id>
 	<predefined_id>2</predefined_id>
+	</item>	<item>	<title>Brand new &lt;b&gt;car&lt;/b&gt;</title>
+	<description>Zooming off a new set of wheels now gets easier</description>
+	<goal_type_id>12</goal_type_id>
+	<thumb_img>/static-assets/images/dream_type/car.png</thumb_img>
+	<section_id/>
+	<predefined_id>2</predefined_id>
 	</item></dream_types>
 	<createdDate>2019-11-22T09:02:29.300Z</createdDate>
 	<createdDate_dt>2019-11-22T09:02:29.300Z</createdDate_dt>
-	<lastModifiedDate>2020-01-28T13:52:30.554Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-28T13:52:30.554Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-19T11:40:40.480Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-19T11:40:40.480Z</lastModifiedDate_dt>
 </component>
