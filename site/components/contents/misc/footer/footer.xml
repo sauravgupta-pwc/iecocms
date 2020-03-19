@@ -14,8 +14,8 @@
 	<address>Lorem ipsum dolor sit amet &lt;br&gt;Consetetur sadipscing elitr,&lt;br&gt; Dunt ut labore et dolore magna aliquyam &lt;br&gt;Sed diam voluptua.</address>
 	<createdDate>2019-12-13T11:13:58.490Z</createdDate>
 	<createdDate_dt>2019-12-13T11:13:58.490Z</createdDate_dt>
-	<lastModifiedDate>2020-03-19T09:14:37.730Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-19T09:14:37.730Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-19T09:26:06.151Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-19T09:26:06.151Z</lastModifiedDate_dt>
 	<company_detail_title>&lt;b&gt;Kotak Investment Advisors Ltd&lt;/b&gt;</company_detail_title>
 	<address_title>Registered address</address_title>
 	<bse_link>https://www.bseindia.com/</bse_link>
@@ -24,4 +24,17 @@
 	<sebi_label>SEBI</sebi_label>
 	<sebi_link>https://www.sebi.gov.in/</sebi_link>
 	<bse_label>BSE</bse_label>
+	<k360_label>Kotak 360 is committed to transparency</k360_label>
+	<complaint_no_label>Number of complaints — Feb 2020</complaint_no_label>
+	<at_start_label>At start of Feb</at_start_label>
+	<at_start_value>99,999</at_start_value>
+	<received_in_label>Received in Feb</received_in_label>
+	<received_in_value>99,999</received_in_value>
+	<resolved_in_label>Resolved in Feb</resolved_in_label>
+	<resolved_in_value>99,999</resolved_in_value>
+	<pendind_at_label>Pending at Feb end</pendind_at_label>
+	<pendind_at_value>99,999</pendind_at_value>
+	<as_on>As on Mar 2020</as_on>
+	<reason_pending>Reason for pendency</reason_pending>
+	<reason_pending_url/>
 </component>
