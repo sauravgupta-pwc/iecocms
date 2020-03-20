@@ -12,7 +12,7 @@
 	<net_worth/>
 	<frequency/>
 	<image_link>/static-assets/images/quotes_investors/benjamin_raham.png</image_link>
-	<section_id/>
+	<section_id>/misc/random_quotes?section=benjamin-graham</section_id>
 	</item>	<item>	<investor>Bill Gates</investor>
 	<designation>Co-founder, Microsoft Corporation</designation>
 	<net_worth>₹ 7,98,000 Crore</net_worth>
@@ -22,6 +22,6 @@
 	</item></item>
 	<createdDate>2020-03-18T13:34:45.706Z</createdDate>
 	<createdDate_dt>2020-03-18T13:34:45.706Z</createdDate_dt>
-	<lastModifiedDate>2020-03-18T14:30:44.481Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-18T14:30:44.481Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-20T10:03:32.038Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-20T10:03:32.038Z</lastModifiedDate_dt>
 </component>
