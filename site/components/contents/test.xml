@@ -42,16 +42,19 @@
 	</item></consent>
 	<createdDate>2020-03-20T11:08:07.102Z</createdDate>
 	<createdDate_dt>2020-03-20T11:08:07.102Z</createdDate_dt>
-	<lastModifiedDate>2020-03-20T13:24:19.196Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-20T13:24:19.196Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-20T13:28:33.537Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-20T13:28:33.537Z</lastModifiedDate_dt>
 	<sub-content-id item-list="true">	<item>	<sub-content-id>1</sub-content-id>
 	<index>1</index>
-	<body>lorem-ipsum-1</body>
+	<body>&lt;p&gt;You confirm that you are born in India, resident and citizen of India and not a tax resident of any other country than India and do not have any political exposure.&lt;/p&gt;</body>
 	</item>	<item>	<sub-content-id>1</sub-content-id>
 	<index>2</index>
-	<body>lorem-ipsum-2</body>
+	<body>&lt;p&gt;You also authorize Kotak to access your PAN &amp;amp; KYC information from KRAs(KYC registration agencies) and we will use the same information for your investment journey with us.&lt;/p&gt;</body>
 	</item>	<item>	<sub-content-id>1</sub-content-id>
 	<index>3</index>
-	<body>lorem-ipsum-3</body>
+	<body>&lt;p&gt;By clicking continue you authorize us to contact you. This will override the registry with DNC / NDNC.&lt;/p&gt;</body>
+	</item>	<item>	<sub-content-id>1</sub-content-id>
+	<index>4</index>
+	<body>&lt;p&gt;You also agree to the terms &amp;amp; conditions&lt;/p&gt;</body>
 	</item></sub-content-id>
 </component>
