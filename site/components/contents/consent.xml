@@ -9,31 +9,34 @@
 	<internal-name>Consent</internal-name>
 	<consent item-list="true">	<item>	<consent-id>1</consent-id>
 	<priority>1</priority>
-	<active>1</active>
-	<required>1</required>
-	<content>1</content>
-	<redirecturl>1</redirecturl>
-	<sub-content>&lt;p&gt;1&lt;/p&gt;</sub-content>
-	<consentShortName>&lt;p&gt;1&lt;/p&gt;</consentShortName>
+	<active>Y</active>
+	<required>Y</required>
+	<content>You agree to the following:</content>
+	<redirecturl>/path/to/next/page</redirecturl>
+	<sub-content>&lt;p&gt;You confirm that you are born in India, resident and citizen of India and not a tax resident of any other country than India and do not have any political exposure.&lt;/p&gt;
+&lt;p&gt;You also authorize Kotak to access your PAN &amp; KYC information from KRAs(KYC registration agencies) and we will use the same information for your investment journey with us.&lt;/p&gt;
+&lt;p&gt;By clicking continue you authorize us to contact you. This will override the registry with DNC / NDNC.&lt;/p&gt;
+&lt;p&gt;You also agree to the terms &amp; conditions&lt;/p&gt;</sub-content>
+	<consentShortName>&lt;p&gt;Lorem-ipsum-1&lt;/p&gt;</consentShortName>
 	</item>	<item>	<consent-id>2</consent-id>
-	<consentShortName>&lt;p&gt;2&lt;/p&gt;</consentShortName>
+	<consentShortName/>
 	<priority>2</priority>
-	<active>2</active>
-	<required>2</required>
-	<content>2</content>
-	<sub-content>&lt;p&gt;2&lt;/p&gt;</sub-content>
-	<redirecturl>23</redirecturl>
+	<active>Y</active>
+	<required>Y</required>
+	<content>(Optional) I would like to receive all important communication through Whatsapp </content>
+	<sub-content/>
+	<redirecturl>/path/to/next/page</redirecturl>
 	</item>	<item>	<consent-id>3</consent-id>
-	<consentShortName>&lt;p&gt;3&lt;/p&gt;</consentShortName>
+	<consentShortName/>
 	<priority>3</priority>
-	<active>3</active>
-	<required>3</required>
-	<content>3</content>
-	<sub-content>&lt;p&gt;3&lt;/p&gt;</sub-content>
-	<redirecturl>3</redirecturl>
+	<active>Y</active>
+	<required>Y</required>
+	<content>(Optional) Facial Recognition Consent</content>
+	<sub-content/>
+	<redirecturl>/path/to/next/page</redirecturl>
 	</item></consent>
 	<createdDate>2020-03-22T18:47:40.680Z</createdDate>
 	<createdDate_dt>2020-03-22T18:47:40.680Z</createdDate_dt>
-	<lastModifiedDate>2020-03-22T18:47:40.680Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-22T18:47:40.680Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-22T18:54:36.689Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-22T18:54:36.689Z</lastModifiedDate_dt>
 </component>
