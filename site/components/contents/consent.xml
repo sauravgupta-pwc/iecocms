@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/fatcadeclaration</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a8e8</objectGroupId>
+	<objectId>a8e8d328-9f40-94c8-a68e-78b2545e7f51</objectId>
+	<file-name>consent.xml</file-name>
+	<folder-name/>
+	<internal-name>Consent</internal-name>
+	<consent item-list="true">	<item>	<consent-id>1</consent-id>
+	<priority>1</priority>
+	<active>1</active>
+	<required>1</required>
+	<content>1</content>
+	<redirecturl>1</redirecturl>
+	<sub-content>&lt;p&gt;1&lt;/p&gt;</sub-content>
+	<consentShortName>&lt;p&gt;1&lt;/p&gt;</consentShortName>
+	</item>	<item>	<consent-id>2</consent-id>
+	<consentShortName>&lt;p&gt;2&lt;/p&gt;</consentShortName>
+	<priority>2</priority>
+	<active>2</active>
+	<required>2</required>
+	<content>2</content>
+	<sub-content>&lt;p&gt;2&lt;/p&gt;</sub-content>
+	<redirecturl>23</redirecturl>
+	</item>	<item>	<consent-id>3</consent-id>
+	<consentShortName>&lt;p&gt;3&lt;/p&gt;</consentShortName>
+	<priority>3</priority>
+	<active>3</active>
+	<required>3</required>
+	<content>3</content>
+	<sub-content>&lt;p&gt;3&lt;/p&gt;</sub-content>
+	<redirecturl>3</redirecturl>
+	</item></consent>
+	<createdDate>2020-03-22T18:47:40.680Z</createdDate>
+	<createdDate_dt>2020-03-22T18:47:40.680Z</createdDate_dt>
+	<lastModifiedDate>2020-03-22T18:47:40.680Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-22T18:47:40.680Z</lastModifiedDate_dt>
+</component>
