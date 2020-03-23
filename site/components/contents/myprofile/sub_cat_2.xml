@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/faqsub</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2d92</objectGroupId>
+	<objectId>2d929ad0-3d92-5964-f88b-9c304aeb7d33</objectId>
+	<internal-name>sub_cat_2</internal-name>
+	<heading>Duis aute irure dolor in reprehenderit</heading>
+	<file-name>sub_cat_2.xml</file-name>
+	<folder-name/>
+	<sub_cat item-list="true">	<item>	<label>This is question placeholder?</label>
+	<section_id>details_2</section_id>
+	</item>	<item>	<label>Sed ut perspiciatis unde omnis iste?</label>
+	<section_id>details_2</section_id>
+	</item></sub_cat>
+	<createdDate>2020-03-23T08:26:26.888Z</createdDate>
+	<createdDate_dt>2020-03-23T08:26:26.888Z</createdDate_dt>
+	<lastModifiedDate>2020-03-23T08:26:26.888Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-23T08:26:26.888Z</lastModifiedDate_dt>
+</component>
