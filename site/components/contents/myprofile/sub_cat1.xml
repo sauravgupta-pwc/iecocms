@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/faqsub</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1330</objectGroupId>
+	<objectId>1330d620-93e6-0d1c-154f-19e9127cc86b</objectId>
+	<file-name>sub_cat1.xml</file-name>
+	<folder-name/>
+	<internal-name>sub_cat1</internal-name>
+	<heading>Duis aute irure dolor in reprehenderit</heading>
+	<sub_cat item-list="true">	<item>	<label>Duis aute irure dolor in reprehenderit</label>
+	<section_id>details_2</section_id>
+	</item>	<item>	<label>This is subcategory placeholder.</label>
+	<section_id>details_2</section_id>
+	</item></sub_cat>
+	<createdDate>2020-03-23T08:22:34.188Z</createdDate>
+	<createdDate_dt>2020-03-23T08:22:34.188Z</createdDate_dt>
+	<lastModifiedDate>2020-03-23T08:22:34.188Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-23T08:22:34.188Z</lastModifiedDate_dt>
+</component>
