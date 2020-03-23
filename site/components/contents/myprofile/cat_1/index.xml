@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-	<content-type>/page/subcategory</content-type>	<display-template/>
+	<savedAsDraft>true</savedAsDraft>	<content-type>/page/subcategory</content-type>	<display-template/>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>3096</objectGroupId>
 	<objectId>309639c3-c3c6-2304-71a7-40dd023a2757</objectId>
-	<internal-name>cat_!</internal-name>
+	<internal-name>cat_1</internal-name>
 	<heading>Lorem ipsum dolor sit amet, consectetur adipiscing</heading>
 	<file-name>index.xml</file-name>
 	<folder-name>cat_1</folder-name>
@@ -17,6 +17,6 @@
 	</item></category>
 	<createdDate>2020-03-23T07:12:39.119Z</createdDate>
 	<createdDate_dt>2020-03-23T07:12:39.119Z</createdDate_dt>
-	<lastModifiedDate>2020-03-23T07:12:39.119Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-23T07:12:39.119Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-23T07:14:48.112Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-23T07:14:48.112Z</lastModifiedDate_dt>
 </page>
