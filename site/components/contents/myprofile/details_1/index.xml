@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/faqdetails</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4675</objectGroupId>
+	<objectId>46751514-7dea-d63f-5335-cef680d321b4</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>details_1</internal-name>
+	<heading>Lorem ipsum dolor sit amet, consectetur adipiscing</heading>
+	<description/>
+	<file-name>index.xml</file-name>
+	<folder-name>details_1</folder-name>
+	<createdDate>2020-03-23T06:53:14.712Z</createdDate>
+	<createdDate_dt>2020-03-23T06:53:14.712Z</createdDate_dt>
+	<lastModifiedDate>2020-03-23T06:53:14.712Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-23T06:53:14.712Z</lastModifiedDate_dt>
+</page>
