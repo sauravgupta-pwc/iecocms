@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/faqdetails</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>dad5</objectGroupId>
+	<objectId>dad55de6-31a6-5476-8f5c-6ac2c7e9c571</objectId>
+	<internal-name>details_1</internal-name>
+	<heading>Lorem ipsum dolor sit amet, consectetur adipiscing</heading>
+	<description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam.</description>
+	<file-name>details_1.xml</file-name>
+	<folder-name/>
+	<createdDate>2020-03-23T08:36:36.723Z</createdDate>
+	<createdDate_dt>2020-03-23T08:36:36.723Z</createdDate_dt>
+	<lastModifiedDate>2020-03-23T08:36:36.723Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-23T08:36:36.723Z</lastModifiedDate_dt>
+</component>
