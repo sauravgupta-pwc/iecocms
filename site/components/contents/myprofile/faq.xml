@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/faqmain</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bf8f</objectGroupId>
+	<objectId>bf8f30b0-b79f-259c-c0e2-4c6fff58b4e4</objectId>
+	<internal-name>faq</internal-name>
+	<heading>FAQs</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing</description>
+	<file-name>faq.xml</file-name>
+	<folder-name/>
+	<questions item-list="true">	<item>	<quest>Duis aute irure dolor in reprehenderit?</quest>
+	<section_id>sub_cat_1</section_id>
+	</item>	<item>	<quest>Sed ut perspiciatis unde omnis iste?</quest>
+	<section_id>sub_cat_1</section_id>
+	</item></questions>
+	<topics item-list="true">	<item>	<topic>Duis aute irure dolor in reprehenderit</topic>
+	<section_id>sub_cat_2</section_id>
+	</item>	<item>	<topic>Sed ut perspiciatis unde omnis iste</topic>
+	<section_id>sub_cat_2</section_id>
+	</item></topics>
+	<createdDate>2020-03-23T08:38:39.611Z</createdDate>
+	<createdDate_dt>2020-03-23T08:38:39.611Z</createdDate_dt>
+	<lastModifiedDate>2020-03-23T08:38:39.611Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-23T08:38:39.611Z</lastModifiedDate_dt>
+</component>
