@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commonpopup</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>59fb</objectGroupId>
+	<objectId>59fbc6ee-e4a0-d32b-da0b-8e1aa6351e14</objectId>
+	<internal-name>Delete basket-popup</internal-name>
+	<heading>Are you sure want to delete this basket</heading>
+	<footer/>
+	<description>Delete the basket to exit your positions in these equities</description>
+	<file-name>delete-basket-popup.xml</file-name>
+	<folder-name/>
+	<createdDate>2020-03-26T14:52:29.284Z</createdDate>
+	<createdDate_dt>2020-03-26T14:52:29.284Z</createdDate_dt>
+	<lastModifiedDate>2020-03-26T14:52:29.284Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-26T14:52:29.284Z</lastModifiedDate_dt>
+</component>
