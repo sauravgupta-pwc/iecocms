@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ce7c</objectGroupId>
+	<objectId>ce7c5d3d-5cba-870d-2044-4b85bc33364a</objectId>
+	<file-name>stock-equities.xml</file-name>
+	<folder-name/>
+	<internal-name>Stock equities</internal-name>
+	<heading>Stocks</heading>
+	<footer/>
+	<description>3 Reasons why you must include equities in your portfolio</description>
+	<attrs item-list="true">	<item>	<key>1</key>
+	<value>&lt;p&gt;Reason 1: Equities have the potential to generate long term wealth&lt;/p&gt;</value>
+	</item>	<item>	<key>2</key>
+	<value>&lt;p&gt;Reason 2:&amp;nbsp; Investment in equities can help you diversify your portfolio&lt;/p&gt;</value>
+	</item>	<item>	<key>3</key>
+	<value>&lt;p&gt;Reason 3: Returns generated from equities can potentially help you achieve your financial goals&lt;/p&gt;</value>
+	</item></attrs>
+	<createdDate>2020-03-26T13:19:24.554Z</createdDate>
+	<createdDate_dt>2020-03-26T13:19:24.554Z</createdDate_dt>
+	<lastModifiedDate>2020-03-26T13:19:24.554Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-26T13:19:24.554Z</lastModifiedDate_dt>
+</component>
