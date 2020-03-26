@@ -4,7 +4,7 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>95d9</objectGroupId>
 	<objectId>95d9bab8-576b-167f-05c8-ec31ed84df88</objectId>
-	<description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</description>
+	<description>Below are the stocks that form your stable large cap basket</description>
 	<internal-name>Stable large-cap basket</internal-name>
 	<heading>Stable large-cap basket</heading>
 	<footer/>
@@ -23,6 +23,6 @@
 	</item></subComp>
 	<createdDate>2020-02-04T14:09:14.241Z</createdDate>
 	<createdDate_dt>2020-02-04T14:09:14.241Z</createdDate_dt>
-	<lastModifiedDate>2020-03-26T10:52:07.115Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-26T10:52:07.115Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-26T13:52:07.712Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-26T13:52:07.712Z</lastModifiedDate_dt>
 </component>
