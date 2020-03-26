@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent3</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c958</objectGroupId>
+	<objectId>c95852bf-1d16-7c19-9e9a-ecc970feb20f</objectId>
+	<file-name>breakdown.xml</file-name>
+	<folder-name/>
+	<internal-name>Breakdown</internal-name>
+	<heading>Breakdown</heading>
+	<description>View current holding breakdown</description>
+	<createdDate>2020-03-26T19:17:08.822Z</createdDate>
+	<createdDate_dt>2020-03-26T19:17:08.822Z</createdDate_dt>
+	<lastModifiedDate>2020-03-26T19:17:08.822Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-26T19:17:08.822Z</lastModifiedDate_dt>
+</component>
