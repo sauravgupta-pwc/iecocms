@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commonpopup</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c57e</objectGroupId>
+	<objectId>c57e9690-0a37-b6b3-49c6-b9616b39ef07</objectId>
+	<file-name>consent-popup.xml</file-name>
+	<folder-name/>
+	<internal-name>Consent popup</internal-name>
+	<heading>A small advise, Dwayne</heading>
+	<footer/>
+	<description/>
+	<attr item-list="true">	<item>	<key>1</key>
+	<value>Based on your risk profile you are a low risk taker. We would suggest that instead of stocks you should consider starting with recommended Mutual funds.</value>
+	</item>	<item>	<key>2</key>
+	<value>Based on your prior risk profiling, you are someone who likes to play safe. Instead of stocks, it is better if you start with investing in Exchange Traded Funds (ETF). They are less risky than stocks.</value>
+	</item></attr>
+	<footer_elements item-list="true">	<item>	<heading>Explore investing in ETF</heading>
+	<description/>
+	</item>	<item>	<description/>
+	<heading>Explore investing in ETF</heading>
+	</item></footer_elements>
+	<createdDate>2020-03-26T14:08:32.783Z</createdDate>
+	<createdDate_dt>2020-03-26T14:08:32.783Z</createdDate_dt>
+	<lastModifiedDate>2020-03-26T14:08:32.783Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-26T14:08:32.783Z</lastModifiedDate_dt>
+</component>
