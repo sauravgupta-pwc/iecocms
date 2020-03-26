@@ -17,9 +17,11 @@
 	</item></footer_elements>
 	<attrs item-list="true">	<item>	<key>1</key>
 	<value>&lt;p&gt;Would you like to assess your selection before purchasing the basket? Set a performance review frequency for your basket&lt;/p&gt;</value>
+	</item>	<item>	<key>2</key>
+	<value>&lt;p&gt;Check the performance of your basket fortnightly to make an informed investment decision&lt;/p&gt;</value>
 	</item></attrs>
 	<createdDate>2020-03-26T13:40:11.427Z</createdDate>
 	<createdDate_dt>2020-03-26T13:40:11.427Z</createdDate_dt>
-	<lastModifiedDate>2020-03-26T13:40:11.427Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-26T13:40:11.427Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-26T19:35:04.924Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-26T19:35:04.924Z</lastModifiedDate_dt>
 </component>
