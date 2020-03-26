@@ -4,14 +4,14 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>6fd5</objectGroupId>
 	<objectId>6fd56472-3a4a-af7a-d4b1-21fcf8b7eb1a</objectId>
-	<file-name>successful-fund-add.xml</file-name>
+	<file-name>funds-added-successfully.xml</file-name>
 	<folder-name/>
-	<internal-name>Successful fund add</internal-name>
+	<internal-name>Funds added successfully</internal-name>
 	<heading>Funds added successfully</heading>
 	<footer>Done</footer>
 	<description>An amount of INR XYZ has been successfully transferred to your account</description>
 	<createdDate>2020-03-26T13:08:22.721Z</createdDate>
 	<createdDate_dt>2020-03-26T13:08:22.721Z</createdDate_dt>
-	<lastModifiedDate>2020-03-26T13:08:22.721Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-26T13:08:22.721Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-26T19:23:44.057Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-26T19:23:44.057Z</lastModifiedDate_dt>
 </component>
