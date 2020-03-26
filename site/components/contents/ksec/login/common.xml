@@ -6,7 +6,7 @@
 	<objectId>dd230fec-89d5-2920-c110-5427db51cac3</objectId>
 	<file-name>common.xml</file-name>
 	<folder-name/>
-	<description/>
+	<description>Sign in to your account with your Kotak Securities credentials</description>
 	<internal-name>common</internal-name>
 	<heading>Sign in to your &lt;/br&gt;Kotak Securities account</heading>
 	<forgot>Forgot</forgot>
@@ -14,6 +14,6 @@
 	<ksec_register_action>Create Account</ksec_register_action>
 	<createdDate>2019-09-25T11:59:16.673Z</createdDate>
 	<createdDate_dt>2019-09-25T11:59:16.673Z</createdDate_dt>
-	<lastModifiedDate>2020-03-06T13:45:25.042Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-06T13:45:25.042Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-26T10:16:57.198Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-26T10:16:57.198Z</lastModifiedDate_dt>
 </component>
