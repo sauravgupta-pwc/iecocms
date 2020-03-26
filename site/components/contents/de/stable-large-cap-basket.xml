@@ -17,12 +17,12 @@
 	<value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.&lt;/p&gt;</value>
 	</item></attrs>
 	<subComp item-list="true">	<item>	<heading>I want reminder for this basket</heading>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.</description>
+	<description>Would you like to review your basket at a later date? Set a reminder</description>
 	<action_label/>
 	<action_route/>
 	</item></subComp>
 	<createdDate>2020-02-04T14:09:14.241Z</createdDate>
 	<createdDate_dt>2020-02-04T14:09:14.241Z</createdDate_dt>
-	<lastModifiedDate>2020-02-04T14:09:14.241Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-02-04T14:09:14.241Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-26T10:52:07.115Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-26T10:52:07.115Z</lastModifiedDate_dt>
 </component>
