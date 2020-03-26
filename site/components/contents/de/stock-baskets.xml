@@ -21,6 +21,15 @@
 	</item></attrs>
 	<createdDate>2020-01-30T08:20:55.645Z</createdDate>
 	<createdDate_dt>2020-01-30T08:20:55.645Z</createdDate_dt>
-	<lastModifiedDate>2020-03-26T13:45:06.148Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-26T13:45:06.148Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-26T19:36:49.190Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-26T19:36:49.190Z</lastModifiedDate_dt>
+	<subComp item-list="true">	<item>	<heading>Advisory basket</heading>
+	<description>A basket of stocks advised by KIAL which is recommended for people interested in stocks</description>
+	<action_label>basket 1</action_label>
+	<action_route/>
+	</item>	<item>	<heading>Basket by Anshul Segal of Kotak AMC</heading>
+	<description>Large companies having stable growth projections available at attractive valuations</description>
+	<action_label>basket 2</action_label>
+	<action_route/>
+	</item></subComp>
 </component>
