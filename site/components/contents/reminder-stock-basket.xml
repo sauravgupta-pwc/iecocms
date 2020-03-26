@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>58d4</objectGroupId>
+	<objectId>58d46469-f2a0-da00-dc36-466c98412b16</objectId>
+	<file-name>reminder-stock-basket.xml</file-name>
+	<folder-name/>
+	<internal-name>Reminder stock basket</internal-name>
+	<heading>Reminder for the stock basket</heading>
+	<footer>Select reminder frequency</footer>
+	<description/>
+	<subComp item-list="true"/>
+	<footer_elements item-list="true">	<item>	<label>Fortnightly</label>
+	</item>	<item>	<label>Monthly</label>
+	</item>	<item>	<label>Quarterly</label>
+	</item></footer_elements>
+	<attrs item-list="true">	<item>	<key>1</key>
+	<value>&lt;p&gt;Would you like to assess your selection before purchasing the basket? Set a performance review frequency for your basket&lt;/p&gt;</value>
+	</item></attrs>
+	<createdDate>2020-03-26T13:40:11.427Z</createdDate>
+	<createdDate_dt>2020-03-26T13:40:11.427Z</createdDate_dt>
+	<lastModifiedDate>2020-03-26T13:40:11.427Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-26T13:40:11.427Z</lastModifiedDate_dt>
+</component>
