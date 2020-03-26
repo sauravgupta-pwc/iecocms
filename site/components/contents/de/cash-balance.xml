@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent3</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bb1d</objectGroupId>
+	<objectId>bb1d602a-a014-44e4-d384-3a3e735bc5bf</objectId>
+	<internal-name>Cash balance</internal-name>
+	<heading>Cash balance</heading>
+	<description>The current available limit in your account</description>
+	<file-name>cash-balance.xml</file-name>
+	<folder-name/>
+	<createdDate>2020-03-26T10:27:08.261Z</createdDate>
+	<createdDate_dt>2020-03-26T10:27:08.261Z</createdDate_dt>
+	<lastModifiedDate>2020-03-26T10:27:08.261Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-26T10:27:08.261Z</lastModifiedDate_dt>
+</component>
