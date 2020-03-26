@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9775</objectGroupId>
+	<objectId>97757df8-bcd8-8dc1-b5bf-caf3d7db575f</objectId>
+	<file-name>edit-stock-basket.xml</file-name>
+	<folder-name/>
+	<internal-name>Edit stock basket</internal-name>
+	<heading>Edit stock basket</heading>
+	<footer/>
+	<description>Prefer a different name? Change the name of the basket here</description>
+	<createdDate>2020-03-26T10:56:37.452Z</createdDate>
+	<createdDate_dt>2020-03-26T10:56:37.452Z</createdDate_dt>
+	<lastModifiedDate>2020-03-26T10:56:37.452Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-26T10:56:37.452Z</lastModifiedDate_dt>
+</component>
