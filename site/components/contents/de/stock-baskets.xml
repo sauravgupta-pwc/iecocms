@@ -4,23 +4,23 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>341b</objectGroupId>
 	<objectId>341b7c53-7f2c-512b-0e03-fd10dca45421</objectId>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<description>Select a curated basket of stocks to invest in a theme or strategy</description>
 	<internal-name>Stock baskets</internal-name>
 	<heading>Stock baskets</heading>
 	<footer/>
 	<file-name>stock-baskets.xml</file-name>
 	<folder-name/>
 	<attrs item-list="true">	<item>	<key>Stable large-cap basket</key>
-	<value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor&lt;/p&gt;</value>
+	<value>&lt;p&gt;A basket of large cap stocks that are usually leaders in their industries and have grown at a steady pace historically.&lt;/p&gt;</value>
 	</item>	<item>	<key>Adventurous mixed basket</key>
-	<value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor&lt;/p&gt;</value>
+	<value>&lt;p&gt;A diversified basket of stocks from across market capitalisations to give you the safety of large caps along with the growth potential of mid and small - caps&lt;br /&gt;&lt;/p&gt;</value>
 	</item>	<item>	<key>Long-term winners basket</key>
-	<value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor&lt;/p&gt;</value>
+	<value>&lt;p&gt;A basket containing stocks that are in the early stages of their growth and have the potential to generate significant long-term returns&lt;/p&gt;</value>
 	</item>	<item>	<key>Create your own basket</key>
-	<value>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor&lt;/p&gt;</value>
+	<value>&lt;p&gt;Create your own customised basket to give your equity portfolio the desired exposure&lt;br /&gt;&lt;/p&gt;</value>
 	</item></attrs>
 	<createdDate>2020-01-30T08:20:55.645Z</createdDate>
 	<createdDate_dt>2020-01-30T08:20:55.645Z</createdDate_dt>
-	<lastModifiedDate>2020-01-30T08:20:55.645Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-30T08:20:55.645Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-26T13:45:06.148Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-26T13:45:06.148Z</lastModifiedDate_dt>
 </component>
