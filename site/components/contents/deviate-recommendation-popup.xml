@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commonpopup</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>dae7</objectGroupId>
+	<objectId>dae71049-95f5-55d7-00ba-7995541b51e8</objectId>
+	<file-name>deviate-recommendation-popup.xml</file-name>
+	<folder-name/>
+	<internal-name>Deviate recommendation popup</internal-name>
+	<heading>Deviate from recommendation?</heading>
+	<footer/>
+	<description>By going ahead with the changes to these stocks and their quantity, you will be deviating from our recommendation</description>
+	<createdDate>2020-03-26T14:39:14.418Z</createdDate>
+	<createdDate_dt>2020-03-26T14:39:14.418Z</createdDate_dt>
+	<lastModifiedDate>2020-03-26T14:39:14.418Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-26T14:39:14.418Z</lastModifiedDate_dt>
+</component>
