@@ -11,14 +11,14 @@
 	<file-name>make-deposit.xml</file-name>
 	<folder-name/>
 	<attr item-list="true">	<item>	<key>Fixed deposit</key>
-	<id/>
+	<id>/static-assets/images/uploaded/term-deposit/Savings%20account%20icon.svg</id>
 	<value>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod&lt;/p&gt;</value>
 	</item>	<item>	<key>Recurring deposit</key>
 	<value>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod&lt;/p&gt;</value>
-	<id/>
+	<id>/static-assets/images/uploaded/term-deposit/event-24px%282%29.svg</id>
 	</item>	<item>	<key>Tax-saving deposit</key>
 	<value>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod&lt;/p&gt;</value>
-	<id/>
+	<id>/static-assets/images/uploaded/term-deposit/money%20flying.svg</id>
 	</item></attr>
 	<subComp item-list="true">	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
@@ -38,6 +38,6 @@
 	</item></subComp>
 	<createdDate>2020-03-11T07:29:43.827Z</createdDate>
 	<createdDate_dt>2020-03-11T07:29:43.827Z</createdDate_dt>
-	<lastModifiedDate>2020-03-11T07:29:43.827Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-11T07:29:43.827Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-27T09:04:06.250Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-27T09:04:06.250Z</lastModifiedDate_dt>
 </component>
