@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6642</objectGroupId>
+	<objectId>6642af7e-e435-8bd4-ca7d-f5155108a8b2</objectId>
+	<file-name>deposit-dashboard.xml</file-name>
+	<folder-name/>
+	<internal-name>Deposit dashboard</internal-name>
+	<heading>/static-assets/images/investment/Fortuna_icon.svg</heading>
+	<footer/>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+	<createdDate>2020-03-27T09:49:29.369Z</createdDate>
+	<createdDate_dt>2020-03-27T09:49:29.369Z</createdDate_dt>
+	<lastModifiedDate>2020-03-27T09:49:29.369Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-27T09:49:29.369Z</lastModifiedDate_dt>
+</component>
