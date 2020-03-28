@@ -395,7 +395,7 @@
 					</constraints>
 				</field>
 				<field>
-					<type>rte-tinymce5</type>
+					<type>textarea</type>
 					<id>sub-content</id>
 					<iceId></iceId>
 					<title>sub-content</title>
@@ -404,44 +404,29 @@
 					<help></help>
 					<properties>
 						<property>
-							<name>height</name>
-							<value></value>
+							<name>cols</name>
+							<value>50</value>
 							<type>int</type>
 						</property>
 						<property>
-							<name>forceRootBlockPTag</name>
+							<name>rows</name>
+							<value>5</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value>100000</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>allowResize</name>
 							<value>true</value>
 							<type>boolean</type>
 						</property>
 						<property>
-							<name>forcePTags</name>
-							<value>true</value>
+							<name>readonly</name>
+							<value></value>
 							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceBRTags</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>supportedChannels</name>
-							<value></value>
-							<type>supportedChannels</type>
-						</property>
-						<property>
-							<name>rteConfiguration</name>
-							<value>generic</value>
-							<type>string</type>
-						</property>
-						<property>
-							<name>imageManager</name>
-							<value></value>
-							<type>datasource:image</type>
-						</property>
-						<property>
-							<name>videoManager</name>
-							<value></value>
-							<type>datasource:video</type>
 						</property>
 					</properties>
 					<constraints>
