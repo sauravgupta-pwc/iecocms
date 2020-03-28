@@ -12,15 +12,13 @@
 	<active>Y</active>
 	<required>Y</required>
 	<content>You agree to the following:</content>
-	<redirecturl>/path/to/next/pagg1</redirecturl>
-	<sub-content>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
+	<redirecturl>/path/to/next/page</redirecturl>
+	<sub-content>&lt;ul&gt;
 &lt;li&gt;You confirm that you are born in India, resident and citizen of India and not a tax resident of anyother country than India and do not have any political exposure.&lt;/li&gt;
 &lt;li&gt;You also authorize Kotak to access your PAN &amp; KYC information from KRAs(KYC registration agencies) and we will use the same information for your investment journey with us.&lt;/li&gt;
 &lt;li&gt;By clicking continue you authorize us to contact you. This will override the registry with DNC / NDNC.&lt;/li&gt;
 &lt;li&gt;You also agree to the &lt;a class="ieco-terms-line"&gt;terms &amp; conditions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;</sub-content>
+&lt;/ul&gt;</sub-content>
 	<consentShortName/>
 	</item>	<item>	<consent-id>CON2</consent-id>
 	<consentShortName/>
@@ -41,6 +39,6 @@
 	</item></consent>
 	<createdDate>2020-03-22T18:47:40.680Z</createdDate>
 	<createdDate_dt>2020-03-22T18:47:40.680Z</createdDate_dt>
-	<lastModifiedDate>2020-03-28T06:41:43.341Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-28T06:41:43.341Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-28T07:14:47.135Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-28T07:14:47.135Z</lastModifiedDate_dt>
 </component>
