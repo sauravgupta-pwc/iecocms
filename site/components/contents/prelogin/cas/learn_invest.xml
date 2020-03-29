@@ -4,14 +4,15 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>4fadf732</objectGroupId>
 	<objectId>4fadf732-e7f7-4bef-9521-2fee60b162b3</objectId>
-	<description>Grow your knowledge as you see your investments grow</description>
-	<internal-name>Learn Investing </internal-name>
-	<file-name>learn_invest.xml</file-name>
-	<folder-name>/site/components/contents/prelogin</folder-name>
+	<description>Have you already invested in Mutual funds?
+Track your investment performance</description>
+	<internal-name>External Investments</internal-name>
+	<file-name>external-investments.xml</file-name>
+	<folder-name/>
 	<createdDate>2019-11-25T06:06:21.202Z</createdDate>
 	<createdDate_dt>2019-11-25T06:06:21.202Z</createdDate_dt>
-	<lastModifiedDate>2020-01-15T10:51:12.034Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-15T10:51:12.034Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-29T06:50:52.355Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-29T06:50:52.355Z</lastModifiedDate_dt>
 	<section_id/>
 	<img_url>/static-assets/images/investment/invest_1.png</img_url>
 	<img_lg_url>/static-assets/images/investment/invest_lg_1.png</img_lg_url>
