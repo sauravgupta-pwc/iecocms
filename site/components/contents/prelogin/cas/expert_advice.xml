@@ -5,13 +5,13 @@
 	<objectGroupId>09d8ecae</objectGroupId>
 	<objectId>09d8ecae-6e16-4a73-83e6-dc6e7baf90b9</objectId>
 	<description>Get the best of the advisory acumen of Kotak and create your wealth</description>
-	<internal-name>Expert Advice </internal-name>
-	<file-name>expert_advice.xml</file-name>
-	<folder-name>/site/components/contents/prelogin</folder-name>
+	<internal-name>Consolidated Portfolio</internal-name>
+	<file-name>consolidatedportfolio.xml</file-name>
+	<folder-name/>
 	<createdDate>2019-11-25T06:08:32.428Z</createdDate>
 	<createdDate_dt>2019-11-25T06:08:32.428Z</createdDate_dt>
-	<lastModifiedDate>2020-03-29T06:37:56.633Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-29T06:37:56.633Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-29T06:48:10.660Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-29T06:48:10.660Z</lastModifiedDate_dt>
 	<section_id/>
 	<img_url>/static-assets/images/investment/invest_1.png</img_url>
 	<img_lg_url>/static-assets/images/investment/invest_lg_1.png</img_lg_url>
