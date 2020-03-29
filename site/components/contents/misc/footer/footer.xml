@@ -7,15 +7,17 @@
 	<internal-name>Footer</internal-name>
 	<info_1>Mutual Funds investments are subject to market risks, read all scheme related documents carefully</info_1>
 	<info_2>Investment in securities market are subject to market risks, read all the related documents carefully before investing.</info_2>
-	<complaints_info>For any complaints pertaining to investment please write to &lt;b&gt;abc@kotak.com&lt;/b&gt;</complaints_info>
+	<complaints_info>For any complaints pertaining to investment please write to &lt;b&gt;support360@kotak.com&lt;/b&gt;</complaints_info>
 	<file-name>footer.xml</file-name>
 	<folder-name/>
-	<company_detail>SEBI Registration # 123456789 &lt;br&gt; Investment Advisor 123456789</company_detail>
-	<address>Lorem ipsum dolor sit amet &lt;br&gt;Consetetur sadipscing elitr,&lt;br&gt; Dunt ut labore et dolore magna aliquyam &lt;br&gt;Sed diam voluptua.</address>
+	<company_detail>SEBI Registration: U65990MH1994PLC077472 &lt;br&gt;
+Investment Advisor: INA000012519
+</company_detail>
+	<address>27-BKC, 7th Floor, Plot No. C-27, “G” Block, Bandra-&lt;br&gt; Kurla Complex Bandra (East), Mumbai – 400051</address>
 	<createdDate>2019-12-13T11:13:58.490Z</createdDate>
 	<createdDate_dt>2019-12-13T11:13:58.490Z</createdDate_dt>
-	<lastModifiedDate>2020-03-19T13:47:11.291Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-19T13:47:11.291Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-29T06:59:27.796Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-29T06:59:27.796Z</lastModifiedDate_dt>
 	<company_detail_title>&lt;b&gt;Kotak Investment Advisors Ltd&lt;/b&gt;</company_detail_title>
 	<address_title>Registered address</address_title>
 	<bse_link>https://www.bseindia.com/</bse_link>
