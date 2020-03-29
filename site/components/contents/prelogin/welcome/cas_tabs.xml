@@ -9,18 +9,18 @@
 	<internal-name>Cas Tabs</internal-name>
 	<bg_image/>
 	<nav_headers item-list="true">	<item>	<isEnabled>true</isEnabled>
-	<title>Consolidated portfolio</title>
+	<title>Consolidated Portfolio</title>
 	<id>portfolio</id>
-	<section_id>/prelogin/investment?section=learn_invest</section_id>
+	<section_id>/prelogin/cas?section=consolidated-portfolio</section_id>
 	</item>	<item>	<isEnabled>true</isEnabled>
-	<title>External investments</title>
+	<title>External Investments</title>
 	<id>ext_invst</id>
-	<section_id>/prelogin/investment?section=expert_advice</section_id>
+	<section_id>/prelogin/cas?section=external-investments</section_id>
 	</item></nav_headers>
 	<createdDate>2019-11-25T05:44:44.058Z</createdDate>
 	<createdDate_dt>2019-11-25T05:44:44.058Z</createdDate_dt>
-	<lastModifiedDate>2019-11-26T06:01:24.086Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-11-26T06:01:24.086Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-29T06:53:54.529Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-29T06:53:54.529Z</lastModifiedDate_dt>
 	<section_id/>
 	<action_label>Start investing</action_label>
 </component>
