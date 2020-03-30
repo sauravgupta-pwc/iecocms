@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commonpopup</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fcbf</objectGroupId>
+	<objectId>fcbf0087-7cb5-7b31-74ca-87c3028e4e16</objectId>
+	<file-name>proceed-after-market-order.xml</file-name>
+	<folder-name/>
+	<internal-name>Proceed after market order</internal-name>
+	<heading>Proceed to place after-market order</heading>
+	<footer/>
+	<description>Since the market is currently closed, your order will be placed as an after-market order. The order will be placed into the system as soon as the market reopens</description>
+	<createdDate>2020-03-30T04:43:44.938Z</createdDate>
+	<createdDate_dt>2020-03-30T04:43:44.938Z</createdDate_dt>
+	<lastModifiedDate>2020-03-30T04:43:44.938Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T04:43:44.938Z</lastModifiedDate_dt>
+</component>
