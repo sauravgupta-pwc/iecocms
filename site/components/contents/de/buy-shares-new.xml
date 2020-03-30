@@ -7,14 +7,25 @@
 	<internal-name>buy shares new</internal-name>
 	<heading>You are going to buy shares worth</heading>
 	<footer/>
-	<description>&lt;p&gt;If you are a beginner, make sure this balance is a bit more than your order amount.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;If you are an experienced trader, you can avail the facility to place the order now and fund the ledger with the order amount within 2 days.&lt;/p&gt;
-&lt;p&gt;Failing to do so will incur an interest and charges.&lt;/p&gt;</description>
+	<description>Ensure that your account has sufficient available limit to make this transaction</description>
 	<file-name>buy-shares-new.xml</file-name>
 	<folder-name/>
 	<createdDate>2020-01-07T14:27:03.592Z</createdDate>
 	<createdDate_dt>2020-01-07T14:27:03.592Z</createdDate_dt>
-	<lastModifiedDate>2020-03-30T07:37:50.740Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-30T07:37:50.740Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-30T07:55:21.690Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T07:55:21.690Z</lastModifiedDate_dt>
+	<attr item-list="true"/>
+	<subComp item-list="true">	<item>	<heading/>
+	<description>New to investing? Ensure your balance is enough to fund your investments</description>
+	<action_label/>
+	<action_route/>
+	<id>1</id>
+	</item>	<item>	<heading/>
+	<description>"Experienced investor? Avail our credit facility to place your order despite lower account balance. You can fund the investment within 2 days. 
+
+Note: Interest and other charges are applicable after 2 days"</description>
+	<action_label/>
+	<action_route/>
+	<id>2</id>
+	</item></subComp>
 </component>
