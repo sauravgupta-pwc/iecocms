@@ -4,9 +4,9 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>93fd636d</objectGroupId>
 	<objectId>93fd636d-5261-40db-8d39-8689c7e09c84</objectId>
-	<file-name>place-order-buy-cd76195d.xml</file-name>
-	<folder-name>contents</folder-name>
-	<internal-name>Place Order Buy cd76195d</internal-name>
+	<file-name>place-order-sell.xml</file-name>
+	<folder-name/>
+	<internal-name>Place Order Sell</internal-name>
 	<heading>You are going to buy shares worth </heading>
 	<footer/>
 	<description/>
@@ -17,6 +17,6 @@
 	</item></attrs>
 	<createdDate>2020-03-30T04:47:00.674Z</createdDate>
 	<createdDate_dt>2020-03-30T04:47:00.674Z</createdDate_dt>
-	<lastModifiedDate>2020-03-30T04:47:00.674Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-30T04:47:00.674Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-30T04:49:05.926Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T04:49:05.926Z</lastModifiedDate_dt>
 </component>
