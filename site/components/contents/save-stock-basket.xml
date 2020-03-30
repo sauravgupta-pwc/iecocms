@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commonpopup</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a708</objectGroupId>
+	<objectId>a708b904-d9db-7068-b2d3-e158f56f74ee</objectId>
+	<file-name>save-stock-basket.xml</file-name>
+	<folder-name/>
+	<internal-name>Save Stock Basket</internal-name>
+	<heading>Do you want to save stock basket?</heading>
+	<footer/>
+	<description>Would you like to save the stock basket that you have created?</description>
+	<createdDate>2020-03-30T04:40:59.256Z</createdDate>
+	<createdDate_dt>2020-03-30T04:40:59.256Z</createdDate_dt>
+	<lastModifiedDate>2020-03-30T04:40:59.256Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T04:40:59.256Z</lastModifiedDate_dt>
+</component>
