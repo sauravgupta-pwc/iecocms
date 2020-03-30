@@ -4,10 +4,10 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>528660ad</objectGroupId>
 	<objectId>528660ad-33d6-4a54-a9c4-c9789dbf4e06</objectId>
-	<file-name>equity-buy-9db9daeb.xml</file-name>
-	<folder-name>de</folder-name>
-	<internal-name>Equity buy  9db9daeb</internal-name>
-	<heading>Buy stock</heading>
+	<file-name>equity-sell.xml</file-name>
+	<folder-name/>
+	<internal-name>Equity sell</internal-name>
+	<heading>Sell Stock</heading>
 	<footer/>
 	<description>Order Type</description>
 	<subComp item-list="true">	<item>	<heading>Market Order</heading>
@@ -27,8 +27,7 @@
 	<action_label/>
 	<action_route/>
 	</item>	<item>	<heading>IOC</heading>
-	<description>In an IOC order, if an order released into the market fails to get executed due to a price mismatch, it is immediately cancelled
-</description>
+	<description>In an IOC order, if an order released into the market fails to get executed due to a price mismatch, it is immediately cancelled</description>
 	<action_label/>
 	<action_route/>
 	</item>	<item>	<heading>Smart Order Routing</heading>
@@ -38,6 +37,6 @@
 	</item></subComp>
 	<createdDate>2020-03-30T09:51:40.472Z</createdDate>
 	<createdDate_dt>2020-03-30T09:51:40.472Z</createdDate_dt>
-	<lastModifiedDate>2020-03-30T09:51:40.472Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-30T09:51:40.472Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-30T09:54:20.008Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T09:54:20.008Z</lastModifiedDate_dt>
 </component>
