@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1d45</objectGroupId>
+	<objectId>1d45cf43-b542-6f2a-83b1-74272ae98327</objectId>
+	<file-name>acc-creation-request-submitted.xml</file-name>
+	<folder-name/>
+	<internal-name>Acc Creation request submitted</internal-name>
+	<heading>Account creation request submitted</heading>
+	<footer/>
+	<description>We are in the process of opening your Kotak Securities account. You will be notified on your registered email id or Mobile No. once the process is completed (takes upto 2 working days)</description>
+	<createdDate>2020-03-30T09:19:49.059Z</createdDate>
+	<createdDate_dt>2020-03-30T09:19:49.059Z</createdDate_dt>
+	<lastModifiedDate>2020-03-30T09:19:49.059Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T09:19:49.059Z</lastModifiedDate_dt>
+</component>
