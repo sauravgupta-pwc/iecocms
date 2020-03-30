@@ -7,7 +7,7 @@
 	<file-name>place-order-sell.xml</file-name>
 	<folder-name/>
 	<internal-name>Place Order Sell</internal-name>
-	<heading>You are going to buy shares worth </heading>
+	<heading>You are going to sell shares worth </heading>
 	<footer/>
 	<description/>
 	<attrs item-list="true">	<item>	<key>1</key>
@@ -17,6 +17,6 @@
 	</item></attrs>
 	<createdDate>2020-03-30T04:47:00.674Z</createdDate>
 	<createdDate_dt>2020-03-30T04:47:00.674Z</createdDate_dt>
-	<lastModifiedDate>2020-03-30T04:49:05.926Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-30T04:49:05.926Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-30T04:50:56.899Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T04:50:56.899Z</lastModifiedDate_dt>
 </component>
