@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>54e6</objectGroupId>
+	<objectId>54e64f46-79ed-ff46-f6d3-1ae7e5a96f7c</objectId>
+	<file-name>create-stock-basket-2.xml</file-name>
+	<folder-name/>
+	<internal-name>Create Stock basket 2</internal-name>
+	<heading>Create Stock basket</heading>
+	<footer/>
+	<description>Select the stocks and the quantity that you would like to purchase in your customised stock basket</description>
+	<createdDate>2020-03-30T04:39:29.577Z</createdDate>
+	<createdDate_dt>2020-03-30T04:39:29.577Z</createdDate_dt>
+	<lastModifiedDate>2020-03-30T04:39:29.577Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T04:39:29.577Z</lastModifiedDate_dt>
+</component>
