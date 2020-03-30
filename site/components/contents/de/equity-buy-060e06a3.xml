@@ -4,10 +4,10 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>7571569c</objectGroupId>
 	<objectId>7571569c-f8f8-4cbe-91a5-eb3314f46e8a</objectId>
-	<file-name>equity-buy-060e06a3.xml</file-name>
-	<folder-name>de</folder-name>
-	<internal-name>Equity buy  060e06a3</internal-name>
-	<heading>Buy stock</heading>
+	<file-name>equity-buy-modify.xml</file-name>
+	<folder-name/>
+	<internal-name>Equity buy modify</internal-name>
+	<heading>Modify stock</heading>
 	<footer/>
 	<description>Order Type</description>
 	<subComp item-list="true">	<item>	<heading>Market Order</heading>
@@ -38,6 +38,6 @@
 	</item></subComp>
 	<createdDate>2020-03-30T09:51:40.472Z</createdDate>
 	<createdDate_dt>2020-03-30T09:51:40.472Z</createdDate_dt>
-	<lastModifiedDate>2020-03-30T09:51:40.472Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-30T09:51:40.472Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-30T10:05:34.811Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T10:05:34.811Z</lastModifiedDate_dt>
 </component>
