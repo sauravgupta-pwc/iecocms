@@ -7,7 +7,118 @@
 	<internal-name>Dreams List</internal-name>
 	<file-name>dreams_list.xml</file-name>
 	<folder-name/>
-	<dreams item-list="true">	<item>	<title>Vacation in Bali</title>
+	<dreams item-list="true">	<item>	<image>/static-assets/images/dreams/dream_1.png</image>
+	<image_lg>/static-assets/images/dreams/dream_lg_1.png</image_lg>
+	<title>Plan a Holiday</title>
+	<description/>
+	<amount/>
+	<discounted_amt/>
+	<sub_label/>
+	<action_label/>
+	<section_id/>
+	<bg_color/>
+	<goal_type_id/>
+	<deadline_label/>
+	<pursuing_text_1/>
+	<pursuing_text_2/>
+	<pursuing_text_3/>
+	<cost_max/>
+	<cost_min/>
+	<cost_intervals/>
+	<tenure_min/>
+	<tenure_max/>
+	<tenure_color/>
+	<tenure_intervals/>
+	<exp_cst_inc_max/>
+	<exp_cst_inc_intervals/>
+	<exp_cst_inc_min/>
+	<taking_loan_min/>
+	<taking_loan_max/>
+	<taking_loan_intervals/>
+	<taking_laon_color/>
+	<cost_initial/>
+	<cost_min_input/>
+	<tenure_initial/>
+	<exp_cst_inc_initial/>
+	<taking_loan_initial/>
+	<unique_goal_id>HOLIDAY</unique_goal_id>
+	<deadline_date>2023-07-01T05:00:00.000Z</deadline_date>
+	<deadline_date_tz>EST5EDT</deadline_date_tz>
+	</item>	<item>	<image>/static-assets/images/dreams/dream_2.png</image>
+	<image_lg>/static-assets/images/dreams/dream_lg_2.png</image_lg>
+	<title>Retire early</title>
+	<description/>
+	<amount/>
+	<discounted_amt/>
+	<sub_label/>
+	<action_label/>
+	<section_id/>
+	<bg_color/>
+	<goal_type_id/>
+	<deadline_label/>
+	<pursuing_text_1/>
+	<pursuing_text_2/>
+	<pursuing_text_3/>
+	<cost_max/>
+	<cost_min/>
+	<cost_intervals/>
+	<tenure_min/>
+	<tenure_max/>
+	<tenure_color/>
+	<tenure_intervals/>
+	<exp_cst_inc_max/>
+	<exp_cst_inc_intervals/>
+	<exp_cst_inc_min/>
+	<taking_loan_min/>
+	<taking_loan_max/>
+	<taking_loan_intervals/>
+	<taking_laon_color/>
+	<cost_initial/>
+	<cost_min_input/>
+	<tenure_initial/>
+	<exp_cst_inc_initial/>
+	<taking_loan_initial/>
+	<unique_goal_id>RETIRE</unique_goal_id>
+	<deadline_date>2020-03-30T04:00:00.000Z</deadline_date>
+	<deadline_date_tz>EST5EDT</deadline_date_tz>
+	</item>	<item>	<image>/static-assets/images/dreams/dream_3.png</image>
+	<image_lg>/static-assets/images/dreams/dream_lg_3.png</image_lg>
+	<title>Buy your own Home</title>
+	<description/>
+	<amount/>
+	<discounted_amt/>
+	<sub_label/>
+	<action_label/>
+	<section_id/>
+	<bg_color/>
+	<goal_type_id/>
+	<deadline_label/>
+	<pursuing_text_1/>
+	<pursuing_text_2/>
+	<pursuing_text_3/>
+	<cost_max/>
+	<cost_min/>
+	<cost_intervals/>
+	<tenure_min/>
+	<tenure_max/>
+	<tenure_color/>
+	<tenure_intervals/>
+	<exp_cst_inc_max/>
+	<exp_cst_inc_intervals/>
+	<exp_cst_inc_min/>
+	<taking_loan_min/>
+	<taking_loan_max/>
+	<taking_loan_intervals/>
+	<taking_laon_color/>
+	<cost_initial/>
+	<cost_min_input/>
+	<tenure_initial/>
+	<exp_cst_inc_initial/>
+	<taking_loan_initial/>
+	<unique_goal_id>HOME</unique_goal_id>
+	<deadline_date>2020-03-30T04:00:00.000Z</deadline_date>
+	<deadline_date_tz>EST5EDT</deadline_date_tz>
+	</item>	<item>	<title>Vacation in Bali</title>
 	<description>Are the warm waters and rice fields of Bali calling out to you? Let your investments fund your vacations.</description>
 	<amount>₹ 50,000</amount>
 	<discounted_amt>₹ 40,000</discounted_amt>
@@ -124,7 +235,7 @@
 	</item></dreams>
 	<createdDate>2019-11-22T12:31:48.225Z</createdDate>
 	<createdDate_dt>2019-11-22T12:31:48.225Z</createdDate_dt>
-	<lastModifiedDate>2020-03-16T09:35:38.728Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-16T09:35:38.728Z</lastModifiedDate_dt>
-	<no_of_dreams>4</no_of_dreams>
+	<lastModifiedDate>2020-03-30T16:50:20.576Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T16:50:20.576Z</lastModifiedDate_dt>
+	<no_of_dreams>3</no_of_dreams>
 </component>
