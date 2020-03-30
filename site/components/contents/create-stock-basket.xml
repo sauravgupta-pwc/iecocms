@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6260</objectGroupId>
+	<objectId>626004ab-e7e8-c4b7-d062-ad6688c23af6</objectId>
+	<internal-name>Create Stock basket</internal-name>
+	<heading>Create Stock basket</heading>
+	<footer/>
+	<description>Create your own customised stock basket for an equity exposure of your choice</description>
+	<file-name>create-stock-basket.xml</file-name>
+	<folder-name/>
+	<createdDate>2020-03-30T04:36:03.483Z</createdDate>
+	<createdDate_dt>2020-03-30T04:36:03.483Z</createdDate_dt>
+	<lastModifiedDate>2020-03-30T04:36:03.483Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T04:36:03.483Z</lastModifiedDate_dt>
+</component>
