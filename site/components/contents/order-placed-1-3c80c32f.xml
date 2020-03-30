@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0c697109</objectGroupId>
+	<objectId>0c697109-eb5d-4efa-b702-cc56d6e25e5c</objectId>
+	<file-name>order-placed-1-3c80c32f.xml</file-name>
+	<folder-name>contents</folder-name>
+	<description>Your order to purchase the stocks in the Large-cap basket has been successfully placed</description>
+	<internal-name>Order placed 1 3c80c32f</internal-name>
+	<heading>Order placed</heading>
+	<footer>Done</footer>
+	<footer_elements item-list="true">	<item>	<label>See order status</label>
+	</item></footer_elements>
+	<createdDate>2020-03-26T14:45:29.196Z</createdDate>
+	<createdDate_dt>2020-03-26T14:45:29.196Z</createdDate_dt>
+	<lastModifiedDate>2020-03-30T06:03:15.869Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T06:03:15.869Z</lastModifiedDate_dt>
+</component>
