@@ -4,17 +4,17 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>d051f498</objectGroupId>
 	<objectId>d051f498-bbb2-40d4-aaad-b9e0bb157d59</objectId>
-	<internal-name>buy shares e4a3585c</internal-name>
+	<internal-name>buy shares new</internal-name>
 	<heading>You are going to buy shares worth</heading>
 	<footer/>
 	<description>&lt;p&gt;If you are a beginner, make sure this balance is a bit more than your order amount.&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;If you are an experienced trader, you can avail the facility to place the order now and fund the ledger with the order amount within 2 days.&lt;/p&gt;
 &lt;p&gt;Failing to do so will incur an interest and charges.&lt;/p&gt;</description>
-	<file-name>buy-shares-e4a3585c.xml</file-name>
-	<folder-name>de</folder-name>
+	<file-name>buy-shares-new.xml</file-name>
+	<folder-name/>
 	<createdDate>2020-01-07T14:27:03.592Z</createdDate>
 	<createdDate_dt>2020-01-07T14:27:03.592Z</createdDate_dt>
-	<lastModifiedDate>2020-01-07T14:27:03.592Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-07T14:27:03.592Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-30T07:37:50.740Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T07:37:50.740Z</lastModifiedDate_dt>
 </component>
