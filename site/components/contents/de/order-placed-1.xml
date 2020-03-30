@@ -4,16 +4,16 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>702a</objectGroupId>
 	<objectId>702a172e-3e17-5b7c-2638-5dc7be3eff32</objectId>
-	<file-name>order-placed-1.xml</file-name>
+	<file-name>order-placed.xml</file-name>
 	<folder-name/>
 	<description>Your order to purchase &lt;No.of shares&gt; of &lt;Reliance Industries&gt; has been successfully placed</description>
-	<internal-name>Order placed 1</internal-name>
+	<internal-name>Order placed</internal-name>
 	<heading>Order placed</heading>
 	<footer>Done</footer>
 	<footer_elements item-list="true">	<item>	<label>See order status</label>
 	</item></footer_elements>
 	<createdDate>2020-03-26T14:45:29.196Z</createdDate>
 	<createdDate_dt>2020-03-26T14:45:29.196Z</createdDate_dt>
-	<lastModifiedDate>2020-03-30T08:44:49.193Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-30T08:44:49.193Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-30T10:18:36.022Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T10:18:36.022Z</lastModifiedDate_dt>
 </component>
