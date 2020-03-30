@@ -12,9 +12,12 @@
 	<folder-name/>
 	<createdDate>2020-01-07T14:27:03.592Z</createdDate>
 	<createdDate_dt>2020-01-07T14:27:03.592Z</createdDate_dt>
-	<lastModifiedDate>2020-03-30T07:55:21.690Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-30T07:55:21.690Z</lastModifiedDate_dt>
-	<attr item-list="true"/>
+	<lastModifiedDate>2020-03-30T07:59:20.972Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T07:59:20.972Z</lastModifiedDate_dt>
+	<attr item-list="true">	<item>	<key>Review buy order</key>
+	<id/>
+	<value>&lt;p&gt;We will purchase all the stocks in the &lt;stock basket&gt; immediately, at the best available market price from either NSE or BSE. Note: the final purchase price might vary marginally&amp;nbsp;&lt;/p&gt;</value>
+	</item></attr>
 	<subComp item-list="true">	<item>	<heading/>
 	<description>New to investing? Ensure your balance is enough to fund your investments</description>
 	<action_label/>
