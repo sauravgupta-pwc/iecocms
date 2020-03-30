@@ -4,16 +4,16 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>4b7c8b7d</objectGroupId>
 	<objectId>4b7c8b7d-c062-4f1f-9fba-7027150c95bc</objectId>
-	<file-name>order-placed-1-eaa6ae46.xml</file-name>
-	<folder-name>de</folder-name>
+	<file-name>order-placed-3.xml</file-name>
+	<folder-name/>
 	<description>Your order to purchase the stocks in the Large-cap basket has been successfully placed</description>
-	<internal-name>Order placed 1 eaa6ae46</internal-name>
+	<internal-name>Order placed 3</internal-name>
 	<heading>Order placed</heading>
 	<footer>Done</footer>
 	<footer_elements item-list="true">	<item>	<label>See order status</label>
 	</item></footer_elements>
 	<createdDate>2020-03-26T14:45:29.196Z</createdDate>
 	<createdDate_dt>2020-03-26T14:45:29.196Z</createdDate_dt>
-	<lastModifiedDate>2020-03-30T06:03:15.869Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-30T06:03:15.869Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-30T08:03:58.139Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T08:03:58.139Z</lastModifiedDate_dt>
 </component>
