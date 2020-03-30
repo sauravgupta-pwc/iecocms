@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>038a</objectGroupId>
+	<objectId>038ae087-c35c-99be-5d57-79db4ea781f6</objectId>
+	<file-name>place-order-buy.xml</file-name>
+	<folder-name/>
+	<internal-name>Place Order Buy</internal-name>
+	<heading>You are going to buy shares worth </heading>
+	<footer/>
+	<description/>
+	<attrs item-list="true">	<item>	<key>1</key>
+	<value>&lt;p&gt;If you are a beginner, ensure that the ledger balance is a bit more than the amount required to make the transaction&lt;/p&gt;</value>
+	</item>	<item>	<key>2</key>
+	<value>&lt;p&gt;If you are an experienced investor, you can choose to avail our credit facility i.e. incase of insufficient balance you can continue to place the order now and fund the ledger with the order amount within 2 days. Note: Failing to do so will incur an interest and other charges&lt;/p&gt;</value>
+	</item></attrs>
+	<createdDate>2020-03-30T04:47:00.674Z</createdDate>
+	<createdDate_dt>2020-03-30T04:47:00.674Z</createdDate_dt>
+	<lastModifiedDate>2020-03-30T04:47:00.674Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T04:47:00.674Z</lastModifiedDate_dt>
+</component>
