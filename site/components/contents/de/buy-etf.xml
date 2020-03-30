@@ -5,22 +5,22 @@
 	<objectGroupId>009d</objectGroupId>
 	<objectId>009d7d72-1158-1133-7661-342aa55f6e21</objectId>
 	<internal-name>buy ETF</internal-name>
-	<heading>Buy exchange traded funds</heading>
+	<heading>Buy Exchange traded funds</heading>
 	<footer/>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<description>An ETF is simply a basket of securities that is listed and traded on the stock exchange</description>
 	<file-name>buy-etf.xml</file-name>
 	<folder-name/>
 	<subComp item-list="true">	<item>	<heading>ETF</heading>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<description>A stock or Index ETF aims to track the price of a benchmark</description>
 	<action_label>/static-assets/images/uploaded/etf/investment_icon.svg?crafterSite=ieco_cms</action_label>
 	<action_route>/path/to/next/page</action_route>
 	</item>	<item>	<heading>Gold ETF</heading>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do</description>
+	<description>A Gold ETF aims to track the domestic price of gold</description>
 	<action_label>/static-assets/images/uploaded/etf/gold_etf.svg?crafterSite=ieco_cms</action_label>
 	<action_route>/path/to/image/file</action_route>
 	</item></subComp>
 	<createdDate>2020-01-02T07:22:58.868Z</createdDate>
 	<createdDate_dt>2020-01-02T07:22:58.868Z</createdDate_dt>
-	<lastModifiedDate>2020-01-02T11:37:43.818Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-02T11:37:43.818Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-30T04:54:18.399Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T04:54:18.399Z</lastModifiedDate_dt>
 </component>
