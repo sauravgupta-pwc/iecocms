@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7571569c</objectGroupId>
+	<objectId>7571569c-f8f8-4cbe-91a5-eb3314f46e8a</objectId>
+	<file-name>equity-buy-060e06a3.xml</file-name>
+	<folder-name>de</folder-name>
+	<internal-name>Equity buy  060e06a3</internal-name>
+	<heading>Buy stock</heading>
+	<footer/>
+	<description>Order Type</description>
+	<subComp item-list="true">	<item>	<heading>Market Order</heading>
+	<description>An order to buy or sell a stock at the best available price. Generally, this type of order will be executed immediately</description>
+	<action_label/>
+	<action_route/>
+	</item>	<item>	<heading>Limit Order</heading>
+	<description>An order to buy or sell a stock at a specific price or better</description>
+	<action_label/>
+	<action_route/>
+	</item>	<item>	<heading>Validity</heading>
+	<description/>
+	<action_label/>
+	<action_route/>
+	</item>	<item>	<heading>GFD</heading>
+	<description>An order which is valid only for the same day on which it is placed</description>
+	<action_label/>
+	<action_route/>
+	</item>	<item>	<heading>IOC</heading>
+	<description>In an IOC order, if an order released into the market fails to get executed due to a price mismatch, it is immediately cancelled
+</description>
+	<action_label/>
+	<action_route/>
+	</item>	<item>	<heading>Smart Order Routing</heading>
+	<description>An automated order system that ensures price discovery</description>
+	<action_label/>
+	<action_route/>
+	</item></subComp>
+	<createdDate>2020-03-30T09:51:40.472Z</createdDate>
+	<createdDate_dt>2020-03-30T09:51:40.472Z</createdDate_dt>
+	<lastModifiedDate>2020-03-30T09:51:40.472Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T09:51:40.472Z</lastModifiedDate_dt>
+</component>
