@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
-	<savedAsDraft>true</savedAsDraft>	<content-type>/component/commoncomponent</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<content-type>/component/commoncomponent</content-type>	<display-template>/templates/web/entry.ftl</display-template>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>a2086467</objectGroupId>
 	<objectId>a2086467-9635-45f5-9977-ff228e3900ef</objectId>
-	<internal-name>buy-sell-equity e397c452</internal-name>
-	<file-name>buy-sell-equity-e397c452.xml</file-name>
-	<folder-name>de</folder-name>
+	<internal-name>buy-sell-equity-modify</internal-name>
+	<file-name>buy-sell-equity-modify.xml</file-name>
+	<folder-name/>
 	<createdDate>2019-11-25T10:15:57.804Z</createdDate>
 	<createdDate_dt>2019-11-25T10:15:57.804Z</createdDate_dt>
-	<lastModifiedDate>2020-01-14T07:56:56.008Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-14T07:56:56.008Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-30T08:58:34.955Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T08:58:34.955Z</lastModifiedDate_dt>
 	<max_elements/>
 	<subComp item-list="true">	<item>	<heading>Market Description</heading>
 	<amount/>
