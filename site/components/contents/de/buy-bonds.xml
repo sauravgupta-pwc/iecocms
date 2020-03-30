@@ -9,13 +9,13 @@
 	<internal-name>buy bonds</internal-name>
 	<heading>Buy bonds</heading>
 	<footer/>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<description>Invest in low risk debt instruments that provide periodic payments</description>
 	<subComp item-list="true">	<item>	<heading>Tax-free bonds</heading>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<description>Buy notified bonds that give tax free interest income</description>
 	<action_label>/static-assets/images/uploaded/bonds/stocks_icon.svg?crafterSite=ieco_cms</action_label>
 	<action_route>/path/to/next/page</action_route>
 	</item>	<item>	<heading>Sovereign gold bond</heading>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
+	<description>Buy a government issued gold bond as a substitute of physical gold that can earn assured interest </description>
 	<action_label>/static-assets/images/uploaded/bonds/gold_bond.svg?crafterSite=ieco_cms</action_label>
 	<action_route>/path/to/next/page</action_route>
 	</item>	<item>	<heading>Others</heading>
@@ -25,6 +25,6 @@
 	</item></subComp>
 	<createdDate>2020-01-02T07:39:20.913Z</createdDate>
 	<createdDate_dt>2020-01-02T07:39:20.913Z</createdDate_dt>
-	<lastModifiedDate>2020-01-02T11:13:40.426Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-02T11:13:40.426Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-30T04:55:40.870Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T04:55:40.870Z</lastModifiedDate_dt>
 </component>
