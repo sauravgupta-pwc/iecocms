@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponents2</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3199</objectGroupId>
+	<objectId>31998a30-b489-9991-48c7-f94a23f3fe0c</objectId>
+	<file-name>open-trading-account.xml</file-name>
+	<folder-name/>
+	<internal-name>Ready to open trading account</internal-name>
+	<heading>Ready to open your trading account</heading>
+	<footer/>
+	<description>Want to buy or sell shares? Open your trading account now with Kotak Securities</description>
+	<createdDate>2020-03-30T05:44:32.483Z</createdDate>
+	<createdDate_dt>2020-03-30T05:44:32.483Z</createdDate_dt>
+	<lastModifiedDate>2020-03-30T05:44:32.483Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T05:44:32.483Z</lastModifiedDate_dt>
+</component>
