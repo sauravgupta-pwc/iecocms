@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commonpopup</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7380</objectGroupId>
+	<objectId>7380b7ba-cf67-6ce4-c9a3-fcc8e17921b1</objectId>
+	<internal-name>Select bank account</internal-name>
+	<heading>Select bank account</heading>
+	<footer/>
+	<description>Select the bank account that you would like to link to your investment account</description>
+	<file-name>select-bank-account.xml</file-name>
+	<folder-name/>
+	<createdDate>2020-03-30T05:43:20.917Z</createdDate>
+	<createdDate_dt>2020-03-30T05:43:20.917Z</createdDate_dt>
+	<lastModifiedDate>2020-03-30T05:43:20.917Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T05:43:20.917Z</lastModifiedDate_dt>
+</component>
