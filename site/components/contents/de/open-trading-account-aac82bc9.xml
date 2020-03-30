@@ -4,7 +4,7 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>3199</objectGroupId>
 	<objectId>31998a30-b489-9991-48c7-f94a23f3fe0c</objectId>
-	<file-name>open-trading-account.xml</file-name>
+	<file-name>open-trading-account-aac.xml</file-name>
 	<folder-name/>
 	<internal-name>Ready to open trading account</internal-name>
 	<heading>Ready to open your trading account</heading>
@@ -12,8 +12,8 @@
 	<description>Want to buy or sell shares? Open your trading account now with Kotak Securities</description>
 	<createdDate>2020-03-30T05:44:32.483Z</createdDate>
 	<createdDate_dt>2020-03-30T05:44:32.483Z</createdDate_dt>
-	<lastModifiedDate>2020-03-30T05:46:40.541Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-30T05:46:40.541Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-30T09:13:07.410Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T09:13:07.410Z</lastModifiedDate_dt>
 	<subComp item-list="true">	<item>	<heading>Consent to share information</heading>
 	<description>I have reviewed the form and give my consent to share its details to complete my KYC with Ksec and other Kotak group companies.</description>
 	<action_label/>
