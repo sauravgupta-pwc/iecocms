@@ -12,10 +12,10 @@
 	<title>Plan a Holiday</title>
 	<description/>
 	<amount/>
-	<discounted_amt/>
+	<discounted_amt>1 Lakh</discounted_amt>
 	<sub_label/>
 	<action_label/>
-	<section_id/>
+	<section_id>/prelogin/dream_details?section=plan-a-holiday</section_id>
 	<bg_color/>
 	<goal_type_id/>
 	<deadline_label/>
@@ -235,7 +235,7 @@
 	</item></dreams>
 	<createdDate>2019-11-22T12:31:48.225Z</createdDate>
 	<createdDate_dt>2019-11-22T12:31:48.225Z</createdDate_dt>
-	<lastModifiedDate>2020-03-30T16:50:20.576Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-30T16:50:20.576Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-30T17:13:12.614Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T17:13:12.614Z</lastModifiedDate_dt>
 	<no_of_dreams>3</no_of_dreams>
 </component>
