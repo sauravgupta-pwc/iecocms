@@ -9,7 +9,7 @@
 	<footer>Buy mutual funds</footer>
 	<file-name>dashboard.xml</file-name>
 	<folder-name/>
-	<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
+	<description>Churchill once said, "Never waste a crisis". Its time to gain wisdom from his sayings. Markets are 25% down from the peak. Mutual Funds and stocks are available at attractive valuations. Invest now to make the most of the situation.</description>
 	<subComp item-list="true">	<item>	<heading>Investment distribution</heading>
 	<description>&lt;p&gt;Your portfolio has investments into different sector as per given proportions.&lt;/p&gt;</description>
 	<action_label/>
@@ -46,6 +46,6 @@
 	</item></attr>
 	<createdDate>2019-12-26T16:08:45.478Z</createdDate>
 	<createdDate_dt>2019-12-26T16:08:45.478Z</createdDate_dt>
-	<lastModifiedDate>2020-03-29T08:00:29.890Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-29T08:00:29.890Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-31T16:05:48.243Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-31T16:05:48.243Z</lastModifiedDate_dt>
 </component>
