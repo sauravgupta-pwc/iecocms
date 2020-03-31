@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/dream_detail</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6aa62910</objectGroupId>
+	<objectId>6aa62910-0882-4cf9-9564-fccde6e196be</objectId>
+	<internal-name>Plan a Holiday 9a44b312</internal-name>
+	<details_heading>Plan a Holiday</details_heading>
+	<detail_desc>We live in a fake world obsessed with materialistic pleasures. But this happiness over material items will fade away and what will remain are "experiences". There would have definitely been instances when many of you us have fondly recalled the amazing time that we spent on a family holiday or the thrill we felt when you went sky diving in Dubai. Let's create more such experiences through judicious financial planning and investment management</detail_desc>
+	<offer_label>Do you know?</offer_label>
+	<offer_desc>To accumate a sum of Rs. 100000 in 3 years, one needs to do a per month SIP of ~Rs. 3000 giving an annual return of 6.5%. That’s the beauty of Goal planning.  Why wait! Start planning for vacation now</offer_desc>
+	<terms_label>Happy Kotak360 stories</terms_label>
+	<terms_desc>&lt;ul&gt;
+&lt;li&gt;Mayank had planned to go to Venice for vacations next year along with his wife. He had calculated his expenses to be Rs. 3,00,000 and he was confused if he should opt for loan or save for the holidays.&lt;/li&gt;
+&lt;li&gt;He invested through his model portfolio and accumulated the amount within time&lt;/li&gt;
+&lt;/ul&gt;</terms_desc>
+	<action_label>Pursue this dream</action_label>
+	<file-name>plan-a-holiday-9a44b312.xml</file-name>
+	<folder-name>dream_details</folder-name>
+	<createdDate>2019-11-23T03:15:22.324Z</createdDate>
+	<createdDate_dt>2019-11-23T03:15:22.324Z</createdDate_dt>
+	<lastModifiedDate>2020-03-31T12:26:55.098Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-31T12:26:55.098Z</lastModifiedDate_dt>
+</component>
