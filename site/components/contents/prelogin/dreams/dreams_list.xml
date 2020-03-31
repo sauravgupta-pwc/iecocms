@@ -10,7 +10,7 @@
 	<dreams item-list="true">	<item>	<image>/static-assets/images/dreams/dream_1.png</image>
 	<image_lg>/static-assets/images/dreams/dream_lg_1.png</image_lg>
 	<title>Plan a Holiday</title>
-	<description/>
+	<description>Tired of hustle bustle of the city life. Maybe, its time for you to take a break and be at peace. Let your investments fund your holiday.</description>
 	<amount/>
 	<discounted_amt>1 Lakh</discounted_amt>
 	<sub_label/>
@@ -47,12 +47,12 @@
 	</item>	<item>	<image>/static-assets/images/dreams/dream_2.png</image>
 	<image_lg>/static-assets/images/dreams/dream_lg_2.png</image_lg>
 	<title>Retire early</title>
-	<description/>
+	<description>Thinking of hanging up your boots and become free from the stress of work life. Dont bother about financials and let your investments take care of your needs</description>
 	<amount/>
-	<discounted_amt/>
+	<discounted_amt>5 Crore</discounted_amt>
 	<sub_label/>
 	<action_label/>
-	<section_id/>
+	<section_id>/prelogin/dream_details?section=retire-early</section_id>
 	<bg_color/>
 	<goal_type_id/>
 	<deadline_label/>
@@ -79,17 +79,17 @@
 	<exp_cst_inc_initial/>
 	<taking_loan_initial/>
 	<unique_goal_id>RETIRE</unique_goal_id>
-	<deadline_date>2020-03-30T04:00:00.000Z</deadline_date>
+	<deadline_date>2050-07-01T05:00:00.000Z</deadline_date>
 	<deadline_date_tz>EST5EDT</deadline_date_tz>
 	</item>	<item>	<image>/static-assets/images/dreams/dream_3.png</image>
 	<image_lg>/static-assets/images/dreams/dream_lg_3.png</image_lg>
 	<title>Buy your own Home</title>
-	<description/>
+	<description>Living in our own home is something that most of us hope to accomplish in our lifetime. Invest and don’t let money become a hurdle in owing your own home</description>
 	<amount/>
-	<discounted_amt/>
+	<discounted_amt>20 Lakhs</discounted_amt>
 	<sub_label/>
 	<action_label/>
-	<section_id/>
+	<section_id>/prelogin/dream_details?section=</section_id>
 	<bg_color/>
 	<goal_type_id/>
 	<deadline_label/>
@@ -116,7 +116,7 @@
 	<exp_cst_inc_initial/>
 	<taking_loan_initial/>
 	<unique_goal_id>HOME</unique_goal_id>
-	<deadline_date>2020-03-30T04:00:00.000Z</deadline_date>
+	<deadline_date>2030-07-01T05:00:00.000Z</deadline_date>
 	<deadline_date_tz>EST5EDT</deadline_date_tz>
 	</item>	<item>	<title>Vacation in Bali</title>
 	<description>Are the warm waters and rice fields of Bali calling out to you? Let your investments fund your vacations.</description>
@@ -235,7 +235,7 @@
 	</item></dreams>
 	<createdDate>2019-11-22T12:31:48.225Z</createdDate>
 	<createdDate_dt>2019-11-22T12:31:48.225Z</createdDate_dt>
-	<lastModifiedDate>2020-03-30T17:13:12.614Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-30T17:13:12.614Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-31T13:07:35.176Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-31T13:07:35.176Z</lastModifiedDate_dt>
 	<no_of_dreams>3</no_of_dreams>
 </component>
