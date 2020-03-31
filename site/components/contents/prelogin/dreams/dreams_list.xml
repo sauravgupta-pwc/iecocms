@@ -62,25 +62,25 @@
 </pursuing_text_1>
 	<pursuing_text_2>50 people</pursuing_text_2>
 	<pursuing_text_3>Pursuing this dream</pursuing_text_3>
-	<cost_max/>
-	<cost_min/>
-	<cost_intervals/>
-	<tenure_min/>
-	<tenure_max/>
-	<tenure_color/>
-	<tenure_intervals/>
-	<exp_cst_inc_max/>
-	<exp_cst_inc_intervals/>
-	<exp_cst_inc_min/>
-	<taking_loan_min/>
-	<taking_loan_max/>
-	<taking_loan_intervals/>
-	<taking_laon_color/>
-	<cost_initial/>
-	<cost_min_input/>
-	<tenure_initial/>
-	<exp_cst_inc_initial/>
-	<taking_loan_initial/>
+	<cost_max>50000000</cost_max>
+	<cost_min>5000000</cost_min>
+	<cost_intervals>1000000</cost_intervals>
+	<tenure_min>1</tenure_min>
+	<tenure_max>10</tenure_max>
+	<tenure_color>2,3,4</tenure_color>
+	<tenure_intervals>1</tenure_intervals>
+	<exp_cst_inc_max>0.25</exp_cst_inc_max>
+	<exp_cst_inc_intervals>0.02</exp_cst_inc_intervals>
+	<exp_cst_inc_min>0.05</exp_cst_inc_min>
+	<taking_loan_min>0.05</taking_loan_min>
+	<taking_loan_max>0.95</taking_loan_max>
+	<taking_loan_intervals>0.1</taking_loan_intervals>
+	<taking_laon_color>0.45,0.55,0.75</taking_laon_color>
+	<cost_initial>5000000</cost_initial>
+	<cost_min_input>1000000</cost_min_input>
+	<tenure_initial>3</tenure_initial>
+	<exp_cst_inc_initial>0.09</exp_cst_inc_initial>
+	<taking_loan_initial>0.45</taking_loan_initial>
 	<unique_goal_id>RETIRE</unique_goal_id>
 	<deadline_date>2050-07-01T05:00:00.000Z</deadline_date>
 	<deadline_date_tz>EST5EDT</deadline_date_tz>
@@ -238,7 +238,7 @@
 	</item></dreams>
 	<createdDate>2019-11-22T12:31:48.225Z</createdDate>
 	<createdDate_dt>2019-11-22T12:31:48.225Z</createdDate_dt>
-	<lastModifiedDate>2020-03-31T16:31:45.360Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-31T16:31:45.360Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-31T19:17:56.195Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-31T19:17:56.195Z</lastModifiedDate_dt>
 	<no_of_dreams>3</no_of_dreams>
 </component>
