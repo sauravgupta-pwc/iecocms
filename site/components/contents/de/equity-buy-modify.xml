@@ -4,9 +4,9 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>7571569c</objectGroupId>
 	<objectId>7571569c-f8f8-4cbe-91a5-eb3314f46e8a</objectId>
-	<file-name>equity-buy-modify.xml</file-name>
+	<file-name>equity-modify.xml</file-name>
 	<folder-name/>
-	<internal-name>Equity buy modify</internal-name>
+	<internal-name>Equity modify</internal-name>
 	<heading>Modify stock</heading>
 	<footer/>
 	<description>Order Type</description>
@@ -35,9 +35,14 @@
 	<description>An automated order system that ensures price discovery</description>
 	<action_label/>
 	<action_route/>
+	</item>	<item>	<heading>Stop Loss</heading>
+	<description>An order to buy or sell a stock once it reaches a certain price. A stop loss limits the loss on a security to a pre-determined amount
+</description>
+	<action_label/>
+	<action_route/>
 	</item></subComp>
 	<createdDate>2020-03-30T09:51:40.472Z</createdDate>
 	<createdDate_dt>2020-03-30T09:51:40.472Z</createdDate_dt>
-	<lastModifiedDate>2020-03-30T10:05:34.811Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-30T10:05:34.811Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-01T17:02:56.336Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-01T17:02:56.336Z</lastModifiedDate_dt>
 </component>
