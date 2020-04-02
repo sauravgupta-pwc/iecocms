@@ -12,22 +12,22 @@
 	<description/>
 	<subComp item-list="true">	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor </description>
-	<action_label>/image1</action_label>
-	<action_route>/static-assets/images/uploaded/de/newpapers_articl</action_route>
+	<action_label>/static-assets/images/uploaded/de/newpapers_article.png</action_label>
+	<action_route>/Path/to/next/page</action_route>
 	<id>1</id>
 	</item>	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor </description>
-	<action_label>/image2</action_label>
-	<action_route>/static-assets/images/uploaded/de/newpapers_articl</action_route>
+	<action_label>/static-assets/images/uploaded/de/newpapers_article.png</action_label>
+	<action_route>/path/to/next/page</action_route>
 	<id>2</id>
 	</item>	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor </description>
-	<action_label>/static-assets/images/uploaded/de/newpapers_articl</action_label>
+	<action_label>/static-assets/images/uploaded/de/newpapers_article.png</action_label>
 	<action_route>/Path/to/nextPage</action_route>
 	<id>3</id>
 	</item></subComp>
 	<createdDate>2020-04-02T17:56:37.125Z</createdDate>
 	<createdDate_dt>2020-04-02T17:56:37.125Z</createdDate_dt>
-	<lastModifiedDate>2020-04-02T17:56:37.125Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-02T17:56:37.125Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-02T18:10:39.185Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-02T18:10:39.185Z</lastModifiedDate_dt>
 </component>
