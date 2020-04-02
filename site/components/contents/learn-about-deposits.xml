@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent6</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4d72</objectGroupId>
+	<objectId>4d726a47-d05d-bf43-97a3-397253ecc694</objectId>
+	<file-name>learn-about-deposits.xml</file-name>
+	<folder-name/>
+	<internal-name>Learn about deposits</internal-name>
+	<heading>Learn about deposits</heading>
+	<footer/>
+	<description/>
+	<subComp item-list="true">	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor </description>
+	<action_label>/image1</action_label>
+	<action_route>/static-assets/images/uploaded/de/newpapers_articl</action_route>
+	<id>1</id>
+	</item>	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor </description>
+	<action_label>/image2</action_label>
+	<action_route>/static-assets/images/uploaded/de/newpapers_articl</action_route>
+	<id>2</id>
+	</item>	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
+	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor </description>
+	<action_label>/static-assets/images/uploaded/de/newpapers_articl</action_label>
+	<action_route>/Path/to/nextPage</action_route>
+	<id>3</id>
+	</item></subComp>
+	<createdDate>2020-04-02T17:56:37.125Z</createdDate>
+	<createdDate_dt>2020-04-02T17:56:37.125Z</createdDate_dt>
+	<lastModifiedDate>2020-04-02T17:56:37.125Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-02T17:56:37.125Z</lastModifiedDate_dt>
+</component>
