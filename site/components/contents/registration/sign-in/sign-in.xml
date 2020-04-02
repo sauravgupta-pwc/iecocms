@@ -4,15 +4,15 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>7b83</objectGroupId>
 	<objectId>7b83c3b5-afe9-e1e1-3b89-467c11f3f8b3</objectId>
-	<description>Sign in to your account to start your investment journey in equities</description>
+	<description>Sign in with your email id and password to start your investment journey</description>
 	<file-name>sign-in.xml</file-name>
 	<folder-name/>
 	<internal-name>Sign In</internal-name>
 	<heading>Sign in to your account</heading>
 	<createdDate>2019-08-20T20:26:20.590Z</createdDate>
 	<createdDate_dt>2019-08-20T20:26:20.590Z</createdDate_dt>
-	<lastModifiedDate>2020-03-26T13:02:41.663Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-26T13:02:41.663Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-02T15:02:18.967Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-02T15:02:18.967Z</lastModifiedDate_dt>
 	<footer>Sign in</footer>
 	<subComp item-list="true">	<item>	<heading>Don’t have an account?</heading>
 	<description/>
