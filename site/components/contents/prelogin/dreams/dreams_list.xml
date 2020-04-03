@@ -17,15 +17,15 @@
 	<action_label>Live it in Jul 2023</action_label>
 	<section_id>/prelogin/dream_details?section=plan-a-holiday</section_id>
 	<bg_color>#813d04</bg_color>
-	<goal_type_id>14</goal_type_id>
+	<goal_type_id>8</goal_type_id>
 	<deadline_label>Achievement deadline</deadline_label>
 	<pursuing_text_1>50 pursuing
 </pursuing_text_1>
 	<pursuing_text_2>50 people</pursuing_text_2>
 	<pursuing_text_3>Pursuing this dream</pursuing_text_3>
-	<cost_max>100000</cost_max>
-	<cost_min>20000</cost_min>
-	<cost_intervals>10000</cost_intervals>
+	<cost_max>500000</cost_max>
+	<cost_min>50000</cost_min>
+	<cost_intervals>50000</cost_intervals>
 	<tenure_min>1</tenure_min>
 	<tenure_max>6</tenure_max>
 	<tenure_color>2,3,4</tenure_color>
@@ -238,7 +238,7 @@
 	</item></dreams>
 	<createdDate>2019-11-22T12:31:48.225Z</createdDate>
 	<createdDate_dt>2019-11-22T12:31:48.225Z</createdDate_dt>
-	<lastModifiedDate>2020-04-03T07:46:49.101Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-03T07:46:49.101Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-03T08:06:31.007Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-03T08:06:31.007Z</lastModifiedDate_dt>
 	<no_of_dreams>3</no_of_dreams>
 </component>
