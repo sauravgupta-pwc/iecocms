@@ -7,8 +7,8 @@
 	<internal-name>Dreams List</internal-name>
 	<file-name>dreams_list.xml</file-name>
 	<folder-name/>
-	<dreams item-list="true">	<item>	<image>/static-assets/images/dreams/dream_1.png</image>
-	<image_lg>/static-assets/images/dreams/dream_lg_1.png</image_lg>
+	<dreams item-list="true">	<item>	<image>/static-assets/images/dreams/exotic_vacation.png</image>
+	<image_lg>/static-assets/images/dreams/exotic_vacation_lg.png</image_lg>
 	<title>Plan a Holiday</title>
 	<description>Tired of hustle bustle of the city life. Maybe, its time for you to take a break and be at peace. Let your investments fund your holiday.</description>
 	<amount/>
@@ -16,7 +16,7 @@
 	<sub_label/>
 	<action_label>Live it in Jul 2023</action_label>
 	<section_id>/prelogin/dream_details?section=plan-a-holiday</section_id>
-	<bg_color>#2145AE</bg_color>
+	<bg_color>#813d04</bg_color>
 	<goal_type_id>8</goal_type_id>
 	<deadline_label>Achievement deadline</deadline_label>
 	<pursuing_text_1>50 pursuing
@@ -45,8 +45,8 @@
 	<unique_goal_id>HOLIDAY</unique_goal_id>
 	<deadline_date>2023-07-01T05:00:00.000Z</deadline_date>
 	<deadline_date_tz>EST5EDT</deadline_date_tz>
-	</item>	<item>	<image>/static-assets/images/dreams/dream_2.png</image>
-	<image_lg>/static-assets/images/dreams/dream_lg_2.png</image_lg>
+	</item>	<item>	<image>/static-assets/images/dreams/early_retirement.png</image>
+	<image_lg>/static-assets/images/dreams/early_retirement_lg.png</image_lg>
 	<title>Retire early</title>
 	<description>Thinking of hanging up your boots and become free from the stress of work life. Dont bother about financials and let your investments take care of your needs</description>
 	<amount/>
@@ -54,7 +54,7 @@
 	<sub_label/>
 	<action_label>Live it in Jul 2050</action_label>
 	<section_id>/prelogin/dream_details?section=retire-early</section_id>
-	<bg_color>#9F6D56</bg_color>
+	<bg_color>#6e93c4</bg_color>
 	<goal_type_id>8</goal_type_id>
 	<deadline_label>Achievement deadline</deadline_label>
 	<pursuing_text_1>50 pursuing
@@ -84,8 +84,8 @@
 	<unique_goal_id>RETIRE</unique_goal_id>
 	<deadline_date>2050-07-01T05:00:00.000Z</deadline_date>
 	<deadline_date_tz>EST5EDT</deadline_date_tz>
-	</item>	<item>	<image>/static-assets/images/dreams/dream_3.png</image>
-	<image_lg>/static-assets/images/dreams/dream_lg_3.png</image_lg>
+	</item>	<item>	<image>/static-assets/images/dreams/your_new_home.png</image>
+	<image_lg>/static-assets/images/dreams/your_new_home_lg.png</image_lg>
 	<title>Buy your own Home</title>
 	<description>Living in our own home is something that most of us hope to accomplish in our lifetime. Invest and don’t let money become a hurdle in owing your own home</description>
 	<amount/>
@@ -93,7 +93,7 @@
 	<sub_label/>
 	<action_label>Live it in Jul 2030</action_label>
 	<section_id>/prelogin/dream_details?section=buy-your-own-home</section_id>
-	<bg_color>#020003</bg_color>
+	<bg_color>#b28a68</bg_color>
 	<goal_type_id>8</goal_type_id>
 	<deadline_label>Achievement deadline</deadline_label>
 	<pursuing_text_1>50 pursuing</pursuing_text_1>
@@ -238,7 +238,7 @@
 	</item></dreams>
 	<createdDate>2019-11-22T12:31:48.225Z</createdDate>
 	<createdDate_dt>2019-11-22T12:31:48.225Z</createdDate_dt>
-	<lastModifiedDate>2020-04-01T11:34:35.484Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-01T11:34:35.484Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-03T07:37:07.834Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-03T07:37:07.834Z</lastModifiedDate_dt>
 	<no_of_dreams>3</no_of_dreams>
 </component>
