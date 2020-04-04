@@ -37,9 +37,9 @@
 	<taking_loan_max>0.95</taking_loan_max>
 	<taking_loan_intervals>0.1</taking_loan_intervals>
 	<taking_laon_color>0.45,0.55,0.75</taking_laon_color>
-	<cost_initial>30000</cost_initial>
-	<cost_min_input>5000</cost_min_input>
-	<tenure_initial>3</tenure_initial>
+	<cost_initial>500000</cost_initial>
+	<cost_min_input>50000</cost_min_input>
+	<tenure_initial>2</tenure_initial>
 	<exp_cst_inc_initial>0.09</exp_cst_inc_initial>
 	<taking_loan_initial>0.45</taking_loan_initial>
 	<unique_goal_id>HOLIDAY</unique_goal_id>
@@ -238,7 +238,7 @@
 	</item></dreams>
 	<createdDate>2019-11-22T12:31:48.225Z</createdDate>
 	<createdDate_dt>2019-11-22T12:31:48.225Z</createdDate_dt>
-	<lastModifiedDate>2020-04-04T13:01:10.239Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-04T13:01:10.239Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-04T13:22:00.459Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-04T13:22:00.459Z</lastModifiedDate_dt>
 	<no_of_dreams>3</no_of_dreams>
 </component>
