@@ -12,7 +12,7 @@
 	<title>Plan an Exotic Holiday</title>
 	<description>Tired of hustle bustle of the city life. Maybe, its time for you to take a break and be at peace. Let your investments fund your holiday.</description>
 	<amount/>
-	<discounted_amt>₹ 5 Lakh</discounted_amt>
+	<discounted_amt>₹ 5 Lakhs</discounted_amt>
 	<sub_label/>
 	<action_label>Live it in Jul 2023</action_label>
 	<section_id>/prelogin/dream_details?section=plan-a-holiday</section_id>
@@ -37,7 +37,7 @@
 	<taking_loan_max>0.95</taking_loan_max>
 	<taking_loan_intervals>0.1</taking_loan_intervals>
 	<taking_laon_color>0.45,0.55,0.75</taking_laon_color>
-	<cost_initial>500000</cost_initial>
+	<cost_initial>200000</cost_initial>
 	<cost_min_input>50000</cost_min_input>
 	<tenure_initial>2</tenure_initial>
 	<exp_cst_inc_initial>0.09</exp_cst_inc_initial>
@@ -50,7 +50,7 @@
 	<title>Retire Early</title>
 	<description>Thinking of hanging up your boots and become free from the stress of work life. Dont bother about financials and let your investments take care of your needs</description>
 	<amount/>
-	<discounted_amt>₹ 5 Crore</discounted_amt>
+	<discounted_amt>₹ 5 Crores</discounted_amt>
 	<sub_label/>
 	<action_label>Live it in Jul 2050</action_label>
 	<section_id>/prelogin/dream_details?section=retire-early</section_id>
@@ -238,7 +238,7 @@
 	</item></dreams>
 	<createdDate>2019-11-22T12:31:48.225Z</createdDate>
 	<createdDate_dt>2019-11-22T12:31:48.225Z</createdDate_dt>
-	<lastModifiedDate>2020-04-04T13:22:00.459Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-04T13:22:00.459Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-04T14:52:50.606Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-04T14:52:50.606Z</lastModifiedDate_dt>
 	<no_of_dreams>3</no_of_dreams>
 </component>
