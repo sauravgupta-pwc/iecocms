@@ -81,7 +81,7 @@
 			</fields>
 		</section>
 		<section>
-			<title>Default Section Title 1586177235147</title>
+			<title>Default Section Title 1586178255426</title>
 			<description></description>
 			<defaultOpen>false</defaultOpen>
 			<fields>
@@ -888,9 +888,9 @@
 				</field>
 				<field>
 					<type>textarea</type>
-					<id>contact1</id>
+					<id>description</id>
 					<iceId></iceId>
-					<title>contact1</title>
+					<title>description</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -931,9 +931,9 @@
 				</field>
 				<field>
 					<type>textarea</type>
-					<id>contact2</id>
+					<id>designation</id>
 					<iceId></iceId>
-					<title>contact2</title>
+					<title>designation</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -974,9 +974,9 @@
 				</field>
 				<field>
 					<type>textarea</type>
-					<id>contact3</id>
+					<id>name</id>
 					<iceId></iceId>
-					<title>contact3</title>
+					<title>name</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -1017,9 +1017,9 @@
 				</field>
 				<field>
 					<type>textarea</type>
-					<id>contact4</id>
+					<id>email</id>
 					<iceId></iceId>
-					<title>contact4</title>
+					<title>email</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -1060,9 +1060,9 @@
 				</field>
 				<field>
 					<type>textarea</type>
-					<id>contact5</id>
+					<id>phone</id>
 					<iceId></iceId>
-					<title>contact5</title>
+					<title>phone</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -1102,6 +1102,49 @@
 					</constraints>
 				</field>
 					</fields>
+				</field>
+				<field>
+					<type>textarea</type>
+					<id>disclaimer</id>
+					<iceId></iceId>
+					<title>disclaimer</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>cols</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>rows</name>
+							<value>5</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value>100000</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>allowResize</name>
+							<value>true</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[]]></value>
+							<type>boolean</type>
+						</constraint>
+					</constraints>
 				</field>
 			</fields>
 		</section>
