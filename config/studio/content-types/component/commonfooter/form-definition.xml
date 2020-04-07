@@ -153,7 +153,7 @@
 				</field>
 				<field>
 					<type>input</type>
-					<id>group-name</id>
+					<id>address</id>
 					<iceId></iceId>
 					<title>address</title>
 					<description></description>
