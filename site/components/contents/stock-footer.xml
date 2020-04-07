@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commonfooter</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>151f</objectGroupId>
+	<objectId>151feeee-b1d7-6cac-6f11-3b9dd7335f68</objectId>
+	<file-name>stock-footer.xml</file-name>
+	<folder-name/>
+	<internal-name>Stock footer</internal-name>
+	<group_name>Kotak Securities Limited</group_name>
+	<address/>
+	<member>Member ID</member>
+	<disclaimer>Investments in securities market are subject to market risks, read all the related documents carefully before investing.</disclaimer>
+	<contact_message>In case you require any clarification or have any concern, kindly write to us at the below email addresses:</contact_message>
+	<member_details item-list="true">	<item>	<id/>
+	<value/>
+	</item></member_details>
+	<categories item-list="true">	<item>	<name>Privacy policy</name>
+	</item>	<item>	<name>Disclaimer</name>
+	</item>	<item>	<name>Terms and conditions</name>
+	</item>	<item>	<name>Security tips</name>
+	</item></categories>
+	<compliance_officer item-list="true">	<item>	<designation>Compliance officer details</designation>
+	<name>Mr Manoj Agarwal</name>
+	<phone>Phone  0224285 8484</phone>
+	<email>Email  ks.compliance@kotak.com</email>
+	</item></compliance_officer>
+	<level item-list="true">	<item>	<id>Level 1</id>
+	<designation>For Trading related queries, contact our customer service at</designation>
+	<name/>
+	<description/>
+	<email>service.securities@kotak.com</email>
+	<phone>Or call us on
+Toll free numbers 18002099191 / 1860 266 9191</phone>
+	<description_2>For Demat account related queries contact us at </description_2>
+	<email_2>ks.demat@kotak.com</email_2>
+	<phone_2/>
+	</item></level>
+	<createdDate>2020-04-07T07:58:36.478Z</createdDate>
+	<createdDate_dt>2020-04-07T07:58:36.478Z</createdDate_dt>
+	<lastModifiedDate>2020-04-07T07:58:36.478Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-07T07:58:36.478Z</lastModifiedDate_dt>
+</component>
