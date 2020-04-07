@@ -81,6 +81,25 @@ Toll free numbers 18002099191 / 1860 266 9191</phone>
 	</item></level>
 	<createdDate>2020-04-07T07:58:36.478Z</createdDate>
 	<createdDate_dt>2020-04-07T07:58:36.478Z</createdDate_dt>
-	<lastModifiedDate>2020-04-07T08:15:51.064Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-07T08:15:51.064Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-07T08:20:13.240Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-07T08:20:13.240Z</lastModifiedDate_dt>
+	<adress_details item-list="true">	<item>	<name>Registered office</name>
+	<location>27 BKC, C 27, G Block, Bandra Kurla Complex, Bandra (E)
+Mumbai 400051</location>
+	<number>CIN U99999MH1994PLC134051</number>
+	<phone>Telephone  02243360000
+Fax  02267132430</phone>
+	<email>www.kotak.com  |  www.kotaksecurities.com</email>
+	<registration_type/>
+	<registration_details/>
+	</item>	<item>	<name>Correspondence address</name>
+	<location>Infinity IT Park, Building #21, Opposite Film City Road
+A K Vaidya Marg, Malad (east)
+Mumbai 400097</location>
+	<number/>
+	<phone>Telephone  02242856825</phone>
+	<email/>
+	<registration_type>SEBI registration number</registration_type>
+	<registration_details>INZ000200137 (Member of NSE, BSE, MSE, MCX &amp; NCDEX)</registration_details>
+	</item></adress_details>
 </component>
