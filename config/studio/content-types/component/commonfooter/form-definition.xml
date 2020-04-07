@@ -81,7 +81,7 @@
 			</fields>
 		</section>
 		<section>
-			<title>Default Section Title 1586244888781</title>
+			<title>form</title>
 			<description></description>
 			<defaultOpen>false</defaultOpen>
 			<fields>
@@ -1320,9 +1320,9 @@
 				</field>
 				<field>
 					<type>textarea</type>
-					<id>contact-message</id>
+					<id>contact_message</id>
 					<iceId></iceId>
-					<title>contact-message</title>
+					<title>contact_message</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
