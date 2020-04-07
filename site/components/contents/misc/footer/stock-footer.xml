@@ -41,9 +41,9 @@
 	<email>Email  ks.compliance@kotak.com</email>
 	</item></compliance_officer>
 	<level item-list="true">	<item>	<id>Level 1</id>
-	<designation>For Trading related queries, contact our customer service at</designation>
+	<designation/>
 	<name/>
-	<description/>
+	<description>For Trading related queries, contact our customer service at</description>
 	<email>service.securities@kotak.com</email>
 	<phone>Or call us on</phone>
 	<description_2>For Demat account related queries contact us at </description_2>
@@ -79,8 +79,8 @@
 	</item></level>
 	<createdDate>2020-04-07T07:58:36.478Z</createdDate>
 	<createdDate_dt>2020-04-07T07:58:36.478Z</createdDate_dt>
-	<lastModifiedDate>2020-04-07T08:33:12.048Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-07T08:33:12.048Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-07T08:45:17.641Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-07T08:45:17.641Z</lastModifiedDate_dt>
 	<adress_details item-list="true">	<item>	<name>Registered office</name>
 	<location>27 BKC, C 27, G Block, Bandra Kurla Complex, Bandra (E)
 Mumbai 400051</location>
