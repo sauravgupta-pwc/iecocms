@@ -45,11 +45,10 @@
 	<name/>
 	<description/>
 	<email>service.securities@kotak.com</email>
-	<phone>Or call us on
-Toll free numbers 18002099191 / 1860 266 9191</phone>
+	<phone>Or call us on</phone>
 	<description_2>For Demat account related queries contact us at </description_2>
 	<email_2>ks.demat@kotak.com</email_2>
-	<phone_2/>
+	<phone_2>Toll free numbers 18002099191 / 1860 266 9191</phone_2>
 	</item>	<item>	<id>Level 2</id>
 	<designation/>
 	<name/>
@@ -80,17 +79,17 @@ Toll free numbers 18002099191 / 1860 266 9191</phone>
 	</item></level>
 	<createdDate>2020-04-07T07:58:36.478Z</createdDate>
 	<createdDate_dt>2020-04-07T07:58:36.478Z</createdDate_dt>
-	<lastModifiedDate>2020-04-07T08:25:17.687Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-07T08:25:17.687Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-07T08:33:12.048Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-07T08:33:12.048Z</lastModifiedDate_dt>
 	<adress_details item-list="true">	<item>	<name>Registered office</name>
 	<location>27 BKC, C 27, G Block, Bandra Kurla Complex, Bandra (E)
 Mumbai 400051</location>
 	<number>CIN U99999MH1994PLC134051</number>
-	<phone>Telephone  02243360000
-Fax  02267132430</phone>
+	<phone>Telephone  02243360000</phone>
 	<email>www.kotak.com  |  www.kotaksecurities.com</email>
 	<registration_type/>
 	<registration_details/>
+	<fax>Fax  02267132430</fax>
 	</item>	<item>	<name>Correspondence address</name>
 	<location>Infinity IT Park, Building #21, Opposite Film City Road
 A K Vaidya Marg, Malad (east)
@@ -100,5 +99,6 @@ Mumbai 400097</location>
 	<email/>
 	<registration_type>SEBI registration number</registration_type>
 	<registration_details>INZ000200137 (Member of NSE, BSE, MSE, MCX &amp; NCDEX)</registration_details>
+	<fax/>
 	</item></adress_details>
 </component>
