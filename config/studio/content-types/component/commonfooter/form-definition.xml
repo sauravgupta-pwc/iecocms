@@ -714,6 +714,49 @@
 					</fields>
 				</field>
 				<field>
+					<type>textarea</type>
+					<id>contact_message</id>
+					<iceId></iceId>
+					<title>contact_message</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>cols</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>rows</name>
+							<value>5</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value>100000</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>allowResize</name>
+							<value>true</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[]]></value>
+							<type>boolean</type>
+						</constraint>
+					</constraints>
+				</field>
+				<field>
 					<type>repeat</type>
 					<id>compliance_officer</id>
 					<iceId></iceId>
@@ -1323,49 +1366,6 @@
 					<id>disclaimer</id>
 					<iceId></iceId>
 					<title>disclaimer</title>
-					<description></description>
-					<defaultValue></defaultValue>
-					<help></help>
-					<properties>
-						<property>
-							<name>cols</name>
-							<value>50</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>rows</name>
-							<value>5</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>maxlength</name>
-							<value>100000</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>allowResize</name>
-							<value>true</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>readonly</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-					</properties>
-					<constraints>
-						<constraint>
-							<name>required</name>
-							<value><![CDATA[]]></value>
-							<type>boolean</type>
-						</constraint>
-					</constraints>
-				</field>
-				<field>
-					<type>textarea</type>
-					<id>contact_message</id>
-					<iceId></iceId>
-					<title>contact_message</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
