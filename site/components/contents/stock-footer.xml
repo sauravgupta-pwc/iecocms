@@ -35,9 +35,36 @@ Toll free numbers 18002099191 / 1860 266 9191</phone>
 	<description_2>For Demat account related queries contact us at </description_2>
 	<email_2>ks.demat@kotak.com</email_2>
 	<phone_2/>
+	</item>	<item>	<id>Level 2</id>
+	<designation/>
+	<name/>
+	<description>If you do not receive a satisfactory response at Level 1 within 3 working days, you may write to us at</description>
+	<email>ks.escalation@kotak.com</email>
+	<phone>or call us on 02242858445</phone>
+	<description_2>if you feel you are still unheard, write to our customer service HOD at</description_2>
+	<email_2>ks.servicehead@kotak.com</email_2>
+	<phone_2>or call us on 02242858208</phone_2>
+	</item>	<item>	<id>Level 3</id>
+	<designation>Compliance Officer</designation>
+	<name>Mr Manoj Agarwal</name>
+	<description>If you still have not received a satisfactory response at Level 2 within 3 working days, you may contact</description>
+	<email>ks.compliance@kotak.com</email>
+	<phone>or call on 0224285 8484</phone>
+	<description_2/>
+	<email_2/>
+	<phone_2/>
+	</item>	<item>	<id>Level 4</id>
+	<designation>Managing Director / CEO</designation>
+	<name>Mr Jaideep Hansraj</name>
+	<description>If you have not received a satisfactory response at Level 3 within 7 working days, you may also approach</description>
+	<email>ceo.ks@kotak.com</email>
+	<phone>or call on 91-(022) 4285 8301</phone>
+	<description_2/>
+	<email_2/>
+	<phone_2/>
 	</item></level>
 	<createdDate>2020-04-07T07:58:36.478Z</createdDate>
 	<createdDate_dt>2020-04-07T07:58:36.478Z</createdDate_dt>
-	<lastModifiedDate>2020-04-07T07:58:36.478Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-07T07:58:36.478Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-07T08:08:43.842Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-07T08:08:43.842Z</lastModifiedDate_dt>
 </component>
