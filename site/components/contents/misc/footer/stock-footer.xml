@@ -15,46 +15,6 @@
 	</item>	<item>	<name>Terms and conditions</name>
 	</item>	<item>	<name>Security tips</name>
 	</item></categories>
-	<adress-details item-list="true">	<item>	<name>Registered office</name>
-	<location>27 BKC, C 27, G Block, Bandra Kurla Complex, Bandra (E)
-Mumbai 400051</location>
-	<number>CIN U99999MH1994PLC134051</number>
-	<phone>Telephone  02243360000
-Fax  02267132430</phone>
-	<email>www.kotak.com  |  www.kotaksecurities.com</email>
-	<unique/>
-	<registration-type/>
-	<registration-details/>
-	</item>	<item>	<name>Correspondence address</name>
-	<location>Infinity IT Park, Building #21, Opposite Film City Road
-A K Vaidya Marg, Malad (east)
-Mumbai 400097</location>
-	<number/>
-	<phone>Telephone  02242856825</phone>
-	<email/>
-	<unique/>
-	<registration-type>SEBI registration number</registration-type>
-	<registration-details>INZ000200137(Member of NSE, BSE, MSE, MCX &amp; NCDEX)</registration-details>
-	</item></adress-details>
-	<member-details item-list="true">	<item>	<id>1</id>
-	<value>NSE 08081</value>
-	</item>	<item>	<id>2</id>
-	<value>BSE 673</value>
-	</item>	<item>	<id>3</id>
-	<value>MSE 1024</value>
-	</item>	<item>	<id>4</id>
-	<value>MCX 56285</value>
-	</item>	<item>	<id>5</id>
-	<value>NCDEX 1262</value>
-	</item>	<item>	<id>6</id>
-	<value>AMFI ARN 0164</value>
-	</item>	<item>	<id>7</id>
-	<value>PMS INP000000258</value>
-	</item>	<item>	<id>8</id>
-	<value>Research Analyst INH000000586</value>
-	</item>	<item>	<id>9</id>
-	<value>NSDL/CDSL IN-DP-NSDL-23-97</value>
-	</item></member-details>
 	<compliance-officer item-list="true">	<item>	<designation>Compliance officer details</designation>
 	<name>Mr Manoj Agarwal</name>
 	<phone>Phone  0224285 8484</phone>
@@ -62,8 +22,8 @@ Mumbai 400097</location>
 	</item></compliance-officer>
 	<createdDate>2020-04-06T13:08:12.046Z</createdDate>
 	<createdDate_dt>2020-04-06T13:08:12.046Z</createdDate_dt>
-	<lastModifiedDate>2020-04-07T06:47:34.210Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-07T06:47:34.210Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-07T07:39:15.291Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-07T07:39:15.291Z</lastModifiedDate_dt>
 	<contact-message>In case you require any clarification or have any concern, kindly write to us at the below email addresses:</contact-message>
 	<level item-list="true">	<item>	<id>Level 1</id>
 	<description>For Trading related queries, contact our customer service at</description>
@@ -75,6 +35,9 @@ Toll free numbers 18002099191 / 1860 266 9191</phone>
 	<description-2>For Demat account related queries contact us at </description-2>
 	<email-2>ks.demat@kotak.com</email-2>
 	<phone-2/>
+	<description_2/>
+	<email_2/>
+	<phone_2/>
 	</item>	<item>	<id>Level 2</id>
 	<description>If you do not receive a satisfactory response at Level 1 within 3 working days, you may write to us at</description>
 	<designation/>
@@ -84,6 +47,9 @@ Toll free numbers 18002099191 / 1860 266 9191</phone>
 	<description-2>if you feel you are still unheard, write to our customer service HOD at</description-2>
 	<email-2>ks.servicehead@kotak.com</email-2>
 	<phone-2>or call us on 02242858208</phone-2>
+	<description_2/>
+	<email_2/>
+	<phone_2/>
 	</item>	<item>	<id>Level 3</id>
 	<description>If you still have not received a satisfactory response at Level 2 within 3 working days, you may contact</description>
 	<designation>Compliance Officer</designation>
@@ -93,6 +59,9 @@ Toll free numbers 18002099191 / 1860 266 9191</phone>
 	<description-2/>
 	<email-2/>
 	<phone-2/>
+	<description_2/>
+	<email_2/>
+	<phone_2/>
 	</item>	<item>	<id>Level 4</id>
 	<description>If you have not received a satisfactory response at Level 3 within 7 working days, you may also approach</description>
 	<designation>Managing Director / CEO</designation>
@@ -102,5 +71,8 @@ Toll free numbers 18002099191 / 1860 266 9191</phone>
 	<description-2/>
 	<email-2/>
 	<phone-2/>
+	<description_2/>
+	<email_2/>
+	<phone_2/>
 	</item></level>
 </component>
