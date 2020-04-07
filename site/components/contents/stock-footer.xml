@@ -12,8 +12,24 @@
 	<member>Member ID</member>
 	<disclaimer>Investments in securities market are subject to market risks, read all the related documents carefully before investing.</disclaimer>
 	<contact_message>In case you require any clarification or have any concern, kindly write to us at the below email addresses:</contact_message>
-	<member_details item-list="true">	<item>	<id/>
-	<value/>
+	<member_details item-list="true">	<item>	<id>1</id>
+	<value>NSE 08081</value>
+	</item>	<item>	<id>2</id>
+	<value>BSE 673</value>
+	</item>	<item>	<id>3</id>
+	<value>MSE 1024</value>
+	</item>	<item>	<id>4</id>
+	<value>MCX 56285</value>
+	</item>	<item>	<id>5</id>
+	<value>NCDEX 1262</value>
+	</item>	<item>	<id>6</id>
+	<value>AMFI ARN 0164</value>
+	</item>	<item>	<id>7</id>
+	<value>PMS INP000000258</value>
+	</item>	<item>	<id>8</id>
+	<value>Research Analyst INH000000586</value>
+	</item>	<item>	<id>9</id>
+	<value>NSDL/CDSL IN-DP-NSDL-23-97</value>
 	</item></member_details>
 	<categories item-list="true">	<item>	<name>Privacy policy</name>
 	</item>	<item>	<name>Disclaimer</name>
@@ -65,6 +81,6 @@ Toll free numbers 18002099191 / 1860 266 9191</phone>
 	</item></level>
 	<createdDate>2020-04-07T07:58:36.478Z</createdDate>
 	<createdDate_dt>2020-04-07T07:58:36.478Z</createdDate_dt>
-	<lastModifiedDate>2020-04-07T08:08:43.842Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-07T08:08:43.842Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-07T08:15:51.064Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-07T08:15:51.064Z</lastModifiedDate_dt>
 </component>
