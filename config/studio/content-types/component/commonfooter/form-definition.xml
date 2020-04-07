@@ -81,7 +81,7 @@
 			</fields>
 		</section>
 		<section>
-			<title>Default Section Title 1586239028142</title>
+			<title>Default Section Title 1586244888781</title>
 			<description></description>
 			<defaultOpen>false</defaultOpen>
 			<fields>
@@ -196,9 +196,9 @@
 				</field>
 				<field>
 					<type>repeat</type>
-					<id>adress-details</id>
+					<id>adress_details</id>
 					<iceId></iceId>
-					<title>adress-details</title>
+					<title>adress_details</title>
 					<description></description>
 					<minOccurs>0</minOccurs>
 					<maxOccurs>*</maxOccurs>
@@ -432,9 +432,9 @@
 				</field>
 				<field>
 					<type>input</type>
-					<id>registration-type</id>
+					<id>registration_type</id>
 					<iceId></iceId>
-					<title>registration-type</title>
+					<title>registration_type</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -475,9 +475,9 @@
 				</field>
 				<field>
 					<type>input</type>
-					<id>registration-details</id>
+					<id>registration_details</id>
 					<iceId></iceId>
-					<title>registration-details</title>
+					<title>registration_details</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -563,9 +563,9 @@
 				</field>
 				<field>
 					<type>repeat</type>
-					<id>member-details</id>
+					<id>member_details</id>
 					<iceId></iceId>
-					<title>member-details</title>
+					<title>member_details</title>
 					<description></description>
 					<minOccurs>0</minOccurs>
 					<maxOccurs>*</maxOccurs>
@@ -1146,9 +1146,9 @@
 				</field>
 				<field>
 					<type>textarea</type>
-					<id>description-2</id>
+					<id>description_2</id>
 					<iceId></iceId>
-					<title>description-2</title>
+					<title>description_2</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -1189,9 +1189,9 @@
 				</field>
 				<field>
 					<type>textarea</type>
-					<id>email-2</id>
+					<id>email_2</id>
 					<iceId></iceId>
-					<title>email-2</title>
+					<title>email_2</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -1232,9 +1232,9 @@
 				</field>
 				<field>
 					<type>textarea</type>
-					<id>phone-2</id>
+					<id>phone_2</id>
 					<iceId></iceId>
-					<title>phone-2</title>
+					<title>phone_2</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
