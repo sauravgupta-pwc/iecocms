@@ -4,9 +4,9 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>0ad5</objectGroupId>
 	<objectId>0ad5668b-4c44-f37d-3b10-486ef1ce2b7f</objectId>
-	<file-name>common-footer.xml</file-name>
+	<file-name>stock-footer.xml</file-name>
 	<folder-name/>
-	<internal-name>common-footer</internal-name>
+	<internal-name>Stock footer</internal-name>
 	<group-name>Kotak Securities Limited</group-name>
 	<member>Member ID</member>
 	<disclaimer>Investments in securities market are subject to market risks, read all the related documents carefully before investing. </disclaimer>
@@ -62,8 +62,8 @@ Mumbai 400097</location>
 	</item></compliance-officer>
 	<createdDate>2020-04-06T13:08:12.046Z</createdDate>
 	<createdDate_dt>2020-04-06T13:08:12.046Z</createdDate_dt>
-	<lastModifiedDate>2020-04-07T06:02:02.128Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-07T06:02:02.128Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-07T06:47:34.210Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-07T06:47:34.210Z</lastModifiedDate_dt>
 	<contact-message>In case you require any clarification or have any concern, kindly write to us at the below email addresses:</contact-message>
 	<level item-list="true">	<item>	<id>Level 1</id>
 	<description>For Trading related queries, contact our customer service at</description>
