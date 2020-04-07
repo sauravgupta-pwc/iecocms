@@ -11,33 +11,33 @@
 	<file-name>make-deposit.xml</file-name>
 	<folder-name/>
 	<attr item-list="true">	<item>	<key>Fixed deposit</key>
-	<id>/static-assets/images/uploaded/term-deposit/Savings%20account%20icon.svg</id>
+	<id>/static-assets/images/uploaded/Fixed%20deposit.svg</id>
 	<value>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod&lt;/p&gt;</value>
 	</item>	<item>	<key>Recurring deposit</key>
 	<value>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod&lt;/p&gt;</value>
-	<id>/static-assets/images/uploaded/term-deposit/event-24px%282%29.svg</id>
+	<id>/static-assets/images/uploaded/Recurring%20deposit.svg</id>
 	</item>	<item>	<key>Tax-saving deposit</key>
 	<value>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod&lt;/p&gt;</value>
-	<id>/static-assets/images/uploaded/term-deposit/money%20flying.svg</id>
+	<id>/static-assets/images/uploaded/Tax%20saving%20deposit.svg</id>
 	</item></attr>
 	<subComp item-list="true">	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
 	<action_label>3 min read</action_label>
-	<action_route>/Path/to/next/Page</action_route>
-	<id/>
+	<action_route>/static-assets/images/learn/learn_1.png</action_route>
+	<id>1</id>
 	</item>	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
 	<action_label>3 min read</action_label>
-	<action_route>/Path/to/next/Page</action_route>
-	<id/>
+	<action_route>/static-assets/images/learn/learn_2.png</action_route>
+	<id>2</id>
 	</item>	<item>	<heading>Duis aute irure dolor in reprehenderit</heading>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</description>
 	<action_label>3 min read</action_label>
-	<action_route>/Path/to/next/Page</action_route>
-	<id/>
+	<action_route>/static-assets/images/learn/learn_3.png</action_route>
+	<id>3</id>
 	</item></subComp>
 	<createdDate>2020-03-11T07:29:43.827Z</createdDate>
 	<createdDate_dt>2020-03-11T07:29:43.827Z</createdDate_dt>
-	<lastModifiedDate>2020-03-27T09:04:06.250Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-27T09:04:06.250Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-07T12:16:39.243Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-07T12:16:39.243Z</lastModifiedDate_dt>
 </component>
