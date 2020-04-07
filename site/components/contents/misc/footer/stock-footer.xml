@@ -8,7 +8,6 @@
 	<folder-name/>
 	<internal-name>Stock footer</internal-name>
 	<group_name>Kotak Securities Limited</group_name>
-	<address/>
 	<member>Member ID</member>
 	<disclaimer>Investments in securities market are subject to market risks, read all the related documents carefully before investing.</disclaimer>
 	<contact_message>In case you require any clarification or have any concern, kindly write to us at the below email addresses:</contact_message>
@@ -81,8 +80,8 @@ Toll free numbers 18002099191 / 1860 266 9191</phone>
 	</item></level>
 	<createdDate>2020-04-07T07:58:36.478Z</createdDate>
 	<createdDate_dt>2020-04-07T07:58:36.478Z</createdDate_dt>
-	<lastModifiedDate>2020-04-07T08:20:13.240Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-07T08:20:13.240Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-07T08:25:17.687Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-07T08:25:17.687Z</lastModifiedDate_dt>
 	<adress_details item-list="true">	<item>	<name>Registered office</name>
 	<location>27 BKC, C 27, G Block, Bandra Kurla Complex, Bandra (E)
 Mumbai 400051</location>
