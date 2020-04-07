@@ -672,9 +672,9 @@
 				</field>
 				<field>
 					<type>repeat</type>
-					<id>compliance-officer</id>
+					<id>compliance_officer</id>
 					<iceId></iceId>
-					<title>compliance-officer</title>
+					<title>compliance_officer</title>
 					<description></description>
 					<minOccurs>0</minOccurs>
 					<maxOccurs>*</maxOccurs>
