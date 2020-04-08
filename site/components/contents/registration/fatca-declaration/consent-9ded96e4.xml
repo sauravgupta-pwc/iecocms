@@ -4,9 +4,9 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>d2347b45</objectGroupId>
 	<objectId>d2347b45-1de0-4f69-89a6-f44021ce690b</objectId>
-	<file-name>consent-9ded96e4.xml</file-name>
-	<folder-name>fatca-declaration</folder-name>
-	<internal-name>Consent 9ded96e4</internal-name>
+	<file-name>video-verification-consent.xml</file-name>
+	<folder-name/>
+	<internal-name>Video verification consent</internal-name>
 	<consent item-list="true">	<item>	<consent-id>REG_AGREE_CON</consent-id>
 	<priority>1</priority>
 	<active>Y</active>
@@ -34,6 +34,6 @@
 	</item></consent>
 	<createdDate>2020-03-22T18:47:40.680Z</createdDate>
 	<createdDate_dt>2020-03-22T18:47:40.680Z</createdDate_dt>
-	<lastModifiedDate>2020-03-31T11:39:54.704Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-31T11:39:54.704Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-08T07:47:03.711Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-08T07:47:03.711Z</lastModifiedDate_dt>
 </component>
