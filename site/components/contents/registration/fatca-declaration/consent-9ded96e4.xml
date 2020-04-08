@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/fatcadeclaration</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d2347b45</objectGroupId>
+	<objectId>d2347b45-1de0-4f69-89a6-f44021ce690b</objectId>
+	<file-name>consent-9ded96e4.xml</file-name>
+	<folder-name>fatca-declaration</folder-name>
+	<internal-name>Consent 9ded96e4</internal-name>
+	<consent item-list="true">	<item>	<consent-id>REG_AGREE_CON</consent-id>
+	<priority>1</priority>
+	<active>Y</active>
+	<required>Y</required>
+	<content>You agree to the following:</content>
+	<redirecturl>/path/to/next/pagg1</redirecturl>
+	<sub-content>&lt;li&gt;You confirm that you are born in India, resident and citizen of India and not a tax resident of anyother country than India and do not have any political exposure.&lt;/li&gt;&lt;li&gt;You also authorize Kotak to access your PAN &amp; KYC information from KRAs(KYC registration agencies) and we will use the same information for your investment journey with us.&lt;/li&gt;&lt;li&gt;By clicking continue you authorize us to contact you. This will override the registry with DNC / NDNC.&lt;/li&gt;&lt;li&gt; You also agree to the &lt;a class="ieco-terms-line" #agreementConsent id="agreementConsent" &gt;terms &amp; conditions&lt;/a&gt;&lt;/li&gt;</sub-content>
+	<consentShortName/>
+	</item>	<item>	<consent-id>REG_WHATSAPP_CON</consent-id>
+	<consentShortName/>
+	<priority>2</priority>
+	<active>Y</active>
+	<required>N</required>
+	<content>(Optional) I would like to receive all important communication through Whatsapp </content>
+	<sub-content/>
+	<redirecturl>/path/to/next/page</redirecturl>
+	</item>	<item>	<consent-id>REG_FACIAL_RECOG_CON</consent-id>
+	<consentShortName/>
+	<priority>3</priority>
+	<active>Y</active>
+	<required>N</required>
+	<content>(Optional) Facial Recognition Consent</content>
+	<sub-content/>
+	<redirecturl>/path/to/next/page</redirecturl>
+	</item></consent>
+	<createdDate>2020-03-22T18:47:40.680Z</createdDate>
+	<createdDate_dt>2020-03-22T18:47:40.680Z</createdDate_dt>
+	<lastModifiedDate>2020-03-31T11:39:54.704Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-31T11:39:54.704Z</lastModifiedDate_dt>
+</component>
