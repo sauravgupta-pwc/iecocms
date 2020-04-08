@@ -10,10 +10,16 @@
 	<heading>Video verification</heading>
 	<description>We will now do your personal verification on video. This process will also require you to show your real PAN card.</description>
 	<attrs item-list="true">	<item>	<key>footer_note</key>
-	<value>sample text</value>
+	<value>&lt;p&gt;sample text&lt;/p&gt;</value>
 	</item></attrs>
 	<createdDate>2019-08-20T20:43:01.524Z</createdDate>
 	<createdDate_dt>2019-08-20T20:43:01.524Z</createdDate_dt>
-	<lastModifiedDate>2019-08-27T10:37:44.388Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-08-27T10:37:44.388Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-08T07:39:51.924Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-08T07:39:51.924Z</lastModifiedDate_dt>
+	<footer/>
+	<subComp item-list="true">	<item>	<heading/>
+	<description>For a smooth experience, please do the verification process while connected to a WiFi network also please make sure you have the following items ready with you for the video call.</description>
+	<action_label>Your original PAN card</action_label>
+	<action_route>A blank sheet of paper and a pen</action_route>
+	</item></subComp>
 </component>
