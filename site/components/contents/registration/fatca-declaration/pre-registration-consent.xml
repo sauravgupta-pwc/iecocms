@@ -10,10 +10,22 @@
 	<footer_action/>
 	<file-name>pre-registration-consent.xml</file-name>
 	<folder-name/>
-	<array item-list="true"/>
+	<array item-list="true">	<item>	<elements>'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+    </elements>
+	</item>	<item>	<elements>'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+    </elements>
+	</item>	<item>	<elements>'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+    </elements>
+	</item>	<item>	<elements>'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+    </elements>
+	</item>	<item>	<elements>'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+    </elements>
+	</item>	<item>	<elements>'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+    </elements>
+	</item></array>
 	<createdDate>2019-10-14T08:03:21.247Z</createdDate>
 	<createdDate_dt>2019-10-14T08:03:21.247Z</createdDate_dt>
-	<lastModifiedDate>2020-04-08T07:41:51.763Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-08T07:41:51.763Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-11T09:03:34.699Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-11T09:03:34.699Z</lastModifiedDate_dt>
 	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
 </component>
