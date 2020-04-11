@@ -5,7 +5,7 @@
 	<objectGroupId>1f268771</objectGroupId>
 	<objectId>1f268771-7050-49b7-8ea6-84604d87a77f</objectId>
 	<internal-name>Pre registration consent</internal-name>
-	<heading>Lorem ipsum dolor sit amet </heading>
+	<heading>Before we get started</heading>
 	<footer_label/>
 	<footer_action/>
 	<file-name>pre-registration-consent.xml</file-name>
@@ -25,7 +25,9 @@
 	</item></array>
 	<createdDate>2019-10-14T08:03:21.247Z</createdDate>
 	<createdDate_dt>2019-10-14T08:03:21.247Z</createdDate_dt>
-	<lastModifiedDate>2020-04-11T10:12:37.763Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-11T10:12:37.763Z</lastModifiedDate_dt>
-	<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+	<lastModifiedDate>2020-04-11T10:42:12.746Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-11T10:42:12.746Z</lastModifiedDate_dt>
+	<description>Please read and accept certain important terms mentioned below. This will helpset the right expectations between us.</description>
+	<id>REG_PRE_CON</id>
+	<consent_heading>Please read and accept certain important terms mentioned below. This will helpset the right expectations between us.</consent_heading>
 </component>
