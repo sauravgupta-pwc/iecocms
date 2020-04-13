@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/more</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cc85</objectGroupId>
+	<objectId>cc85c0eb-b274-72d9-7ec4-ddf8a4288bce</objectId>
+	<file-name>more_main.xml</file-name>
+	<folder-name/>
+	<internal-name>More_modules</internal-name>
+	<title/>
+	<text/>
+	<acc_route/>
+	<bank_OTM/>
+	<bank_OTM_text/>
+	<bank_OTM_route/>
+	<calculators_title/>
+	<calculators_text/>
+	<calculators_route/>
+	<createdDate>2020-04-13T10:37:19.368Z</createdDate>
+	<createdDate_dt>2020-04-13T10:37:19.368Z</createdDate_dt>
+	<lastModifiedDate>2020-04-13T10:37:19.368Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-13T10:37:19.368Z</lastModifiedDate_dt>
+</component>
