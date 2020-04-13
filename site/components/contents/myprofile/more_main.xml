@@ -7,17 +7,17 @@
 	<file-name>more_main.xml</file-name>
 	<folder-name/>
 	<internal-name>More_modules</internal-name>
-	<title/>
-	<text/>
+	<title>Account</title>
+	<text>A consilidated view of all the information entered by you while enrolling on Kotak 360</text>
 	<acc_route/>
-	<bank_OTM/>
-	<bank_OTM_text/>
+	<bank_OTM>Bank and OTM details</bank_OTM>
+	<bank_OTM_text>A consolidated view of your Bank account details a</bank_OTM_text>
 	<bank_OTM_route/>
 	<calculators_title/>
 	<calculators_text/>
 	<calculators_route/>
 	<createdDate>2020-04-13T10:37:19.368Z</createdDate>
 	<createdDate_dt>2020-04-13T10:37:19.368Z</createdDate_dt>
-	<lastModifiedDate>2020-04-13T10:37:19.368Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-13T10:37:19.368Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-13T15:55:05.222Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-13T15:55:05.222Z</lastModifiedDate_dt>
 </component>
