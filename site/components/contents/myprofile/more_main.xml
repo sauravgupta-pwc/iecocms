@@ -13,11 +13,11 @@
 	<bank_OTM>Bank and OTM details</bank_OTM>
 	<bank_OTM_text>A consolidated view of your Bank account details a</bank_OTM_text>
 	<bank_OTM_route/>
-	<calculators_title/>
-	<calculators_text/>
+	<calculators_title>Calculators</calculators_title>
+	<calculators_text>Financial planning calculators to learn, iterate, </calculators_text>
 	<calculators_route/>
 	<createdDate>2020-04-13T10:37:19.368Z</createdDate>
 	<createdDate_dt>2020-04-13T10:37:19.368Z</createdDate_dt>
-	<lastModifiedDate>2020-04-13T15:55:05.222Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-13T15:55:05.222Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-13T16:17:31.550Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-13T16:17:31.550Z</lastModifiedDate_dt>
 </component>
