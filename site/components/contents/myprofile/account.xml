@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/more</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d4f0</objectGroupId>
+	<objectId>d4f05554-0ea9-5d0f-b42e-c7f3b809d5df</objectId>
+	<file-name>account.xml</file-name>
+	<folder-name/>
+	<internal-name>account</internal-name>
+	<title>Account</title>
+	<text>A consolidated view of all the information entered</text>
+	<createdDate>2020-04-13T09:30:28.926Z</createdDate>
+	<createdDate_dt>2020-04-13T09:30:28.926Z</createdDate_dt>
+	<lastModifiedDate>2020-04-13T09:30:28.926Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-13T09:30:28.926Z</lastModifiedDate_dt>
+</component>
