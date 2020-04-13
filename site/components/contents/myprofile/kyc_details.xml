@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/account</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>60bd</objectGroupId>
+	<objectId>60bd5d8b-109a-d7d3-2ea4-9c7c50a8be36</objectId>
+	<file-name>kyc_details.xml</file-name>
+	<folder-name/>
+	<internal-name>KycDetails</internal-name>
+	<title/>
+	<text/>
+	<createdDate>2020-04-13T10:31:19.863Z</createdDate>
+	<createdDate_dt>2020-04-13T10:31:19.863Z</createdDate_dt>
+	<lastModifiedDate>2020-04-13T10:31:19.863Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-13T10:31:19.863Z</lastModifiedDate_dt>
+</component>
