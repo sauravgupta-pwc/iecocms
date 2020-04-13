@@ -9,15 +9,15 @@
 	<internal-name>More_modules</internal-name>
 	<title>Account</title>
 	<text>A consilidated view of all the information entered by you while enrolling on Kotak 360</text>
-	<acc_route/>
+	<acc_route>/home/account-details</acc_route>
 	<bank_OTM>Bank and OTM details</bank_OTM>
-	<bank_OTM_text>A consolidated view of your Bank account details a</bank_OTM_text>
-	<bank_OTM_route/>
+	<bank_OTM_text>A consolidated view of your Bank account details and the OTM details</bank_OTM_text>
+	<bank_OTM_route>/home/bank-otm-details</bank_OTM_route>
 	<calculators_title>Calculators</calculators_title>
-	<calculators_text>Financial planning calculators to learn, iterate, </calculators_text>
+	<calculators_text>Financial planning calculators to learn, iterate, calculate and help you invest</calculators_text>
 	<calculators_route/>
 	<createdDate>2020-04-13T10:37:19.368Z</createdDate>
 	<createdDate_dt>2020-04-13T10:37:19.368Z</createdDate_dt>
-	<lastModifiedDate>2020-04-13T16:17:31.550Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-13T16:17:31.550Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-13T17:51:59.582Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-13T17:51:59.582Z</lastModifiedDate_dt>
 </component>
