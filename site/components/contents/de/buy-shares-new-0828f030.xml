@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/commoncomponent6</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f6bdb575</objectGroupId>
+	<objectId>f6bdb575-b9ab-4c8a-9a62-7a92730698ee</objectId>
+	<internal-name>buy shares new 0828f030</internal-name>
+	<heading>You are going to buy shares worth</heading>
+	<footer/>
+	<description>Ensure that your account has sufficient available limit to make this transaction</description>
+	<file-name>buy-shares-new-0828f030.xml</file-name>
+	<folder-name>de</folder-name>
+	<createdDate>2020-01-07T14:27:03.592Z</createdDate>
+	<createdDate_dt>2020-01-07T14:27:03.592Z</createdDate_dt>
+	<lastModifiedDate>2020-03-30T07:59:20.972Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-30T07:59:20.972Z</lastModifiedDate_dt>
+	<attr item-list="true">	<item>	<key>Review buy order</key>
+	<id/>
+	<value>&lt;p&gt;We will purchase all the stocks in the &lt;stock basket&gt; immediately, at the best available market price from either NSE or BSE. Note: the final purchase price might vary marginally&amp;nbsp;&lt;/p&gt;</value>
+	</item></attr>
+	<subComp item-list="true">	<item>	<heading/>
+	<description>New to investing? Ensure your balance is enough to fund your investments</description>
+	<action_label/>
+	<action_route/>
+	<id>1</id>
+	</item>	<item>	<heading/>
+	<description>"Experienced investor? Avail our credit facility to place your order despite lower account balance. You can fund the investment within 2 days. 
+
+Note: Interest and other charges are applicable after 2 days"</description>
+	<action_label/>
+	<action_route/>
+	<id>2</id>
+	</item></subComp>
+</component>
