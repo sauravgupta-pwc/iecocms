@@ -5,12 +5,12 @@
 	<objectGroupId>71e9</objectGroupId>
 	<objectId>71e9658f-5340-6fdb-8bb1-eca2226c67f1</objectId>
 	<internal-name>RegulatoryInfo</internal-name>
-	<title/>
-	<text/>
+	<title>Regulatory Info/ Additional information</title>
+	<text>Here is a representation of some additional information entered by you while registering</text>
 	<file-name>regulatory_info.xml</file-name>
 	<folder-name/>
 	<createdDate>2020-04-13T10:39:28.832Z</createdDate>
 	<createdDate_dt>2020-04-13T10:39:28.832Z</createdDate_dt>
-	<lastModifiedDate>2020-04-13T10:39:28.832Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-13T10:39:28.832Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-13T11:45:30.109Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-13T11:45:30.109Z</lastModifiedDate_dt>
 </component>
