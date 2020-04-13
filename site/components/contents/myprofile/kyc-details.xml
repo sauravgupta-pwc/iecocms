@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/more</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6c5f</objectGroupId>
+	<objectId>6c5f3101-1f18-233f-12f5-bdf6f5da45b1</objectId>
+	<file-name>kyc-details.xml</file-name>
+	<folder-name/>
+	<internal-name>KYC Details</internal-name>
+	<title>KYC Details</title>
+	<text>Here is a representation of some details fetched f</text>
+	<createdDate>2020-04-13T09:32:08.139Z</createdDate>
+	<createdDate_dt>2020-04-13T09:32:08.139Z</createdDate_dt>
+	<lastModifiedDate>2020-04-13T09:32:08.139Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-13T09:32:08.139Z</lastModifiedDate_dt>
+</component>
