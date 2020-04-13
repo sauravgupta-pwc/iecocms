@@ -5,12 +5,12 @@
 	<objectGroupId>7493</objectGroupId>
 	<objectId>749367a3-f2c7-1e51-6e30-4968e042de44</objectId>
 	<internal-name>OTM</internal-name>
-	<title/>
-	<text/>
+	<title>OTM</title>
+	<text>OTM will help you setup automatic payment instructions from your bank account for your investments</text>
 	<file-name>otm.xml</file-name>
 	<folder-name/>
 	<createdDate>2020-04-13T10:47:23.624Z</createdDate>
 	<createdDate_dt>2020-04-13T10:47:23.624Z</createdDate_dt>
-	<lastModifiedDate>2020-04-13T10:47:23.624Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-13T10:47:23.624Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-13T15:53:36.187Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-13T15:53:36.187Z</lastModifiedDate_dt>
 </component>
