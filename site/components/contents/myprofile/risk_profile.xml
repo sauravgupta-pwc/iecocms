@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/account</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4e09</objectGroupId>
+	<objectId>4e090e85-5603-8394-cf99-a0ccfabef121</objectId>
+	<internal-name>Risk Profile</internal-name>
+	<title>Edit Risk Profile</title>
+	<text>Lorem ipsum dolor sit amet, consectetur adipiscing     elit, sed do eiusmod     tempor</text>
+	<file-name>risk_profile.xml</file-name>
+	<folder-name/>
+	<createdDate>2020-04-14T13:47:37.963Z</createdDate>
+	<createdDate_dt>2020-04-14T13:47:37.963Z</createdDate_dt>
+	<lastModifiedDate>2020-04-14T13:47:37.963Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-14T13:47:37.963Z</lastModifiedDate_dt>
+</component>
