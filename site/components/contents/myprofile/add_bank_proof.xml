@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/account</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1ff8</objectGroupId>
+	<objectId>1ff80f22-0fef-0180-63f4-aa03d5626580</objectId>
+	<file-name>add_bank_proof.xml</file-name>
+	<folder-name/>
+	<internal-name>Add Bank Proof</internal-name>
+	<title>Add Bank Proof</title>
+	<text>Lorem ipsum dolor sit amet, consectetur adipiscing     elit, sed do eiusmod     tempor</text>
+	<createdDate>2020-04-14T13:45:56.821Z</createdDate>
+	<createdDate_dt>2020-04-14T13:45:56.821Z</createdDate_dt>
+	<lastModifiedDate>2020-04-14T13:45:56.821Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-14T13:45:56.821Z</lastModifiedDate_dt>
+</component>
