@@ -10,24 +10,25 @@
 	<footer_action/>
 	<file-name>pre-registration-consent.xml</file-name>
 	<folder-name/>
-	<array item-list="true">	<item>	<elements>'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-    </elements>
-	</item>	<item>	<elements>'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-    </elements>
-	</item>	<item>	<elements>'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-    </elements>
-	</item>	<item>	<elements>'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-    </elements>
-	</item>	<item>	<elements>'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-    </elements>
-	</item>	<item>	<elements>'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-    </elements>
+	<array item-list="true">	<item>	<elements>Please note that this platform is currently 
+not open for existing Kotak Group customers. We will shortly make it available for existing customers. </elements>
+	</item>	<item>	<elements>In case you are existing customer of any of Kotak Group entities, we will fetch your details (Client id, CRN etc.) from the respective entities (Kotak Bank, Kotak securities, Kotak Life Insurance, Kotak General Insurance etc.) using your PAN</elements>
+	</item>	<item>	<elements>Before proceeding further we would like to tell you that in this journey you will be on-boarded as an advisory customer of Kotak Investment Advisors Limited which is a SEBI registered entity having SEBI Registration No - INA000012519. You will be asked to agree 
+with all the terms &amp; conditions of an advisory agreement.</elements>
+	</item>	<item>	<elements>We will be giving advice on all products after doing your risk profiling (wherever necessary). You have an option to re-take/review the risk assessment later.</elements>
+	</item>	<item>	<elements>All advise pertaining to mutual funds will be executed in Direct Plan (HDFC, ICICI, Mirae etc.) from where KIAL will not earn any commission from any of the AMCs.</elements>
+	</item>	<item>	<elements>All advise pertaining to direct equities, bonds, ETFs etc. will be referred to Kotak Securities Ltd for seamless execution from where KIAL will earn referral income/commission.</elements>
+	</item>	<item>	<elements>All advise pertaining to Bank products (Fixed deposit, Recurring deposit) will be restricted to Kotak Mahindra Bank Ltd for seamless execution from where KIAL will not earn any referral income or commission.</elements>
+	</item>	<item>	<elements>Similarly, in future for any other product which KIAL advises, it may be referring you to various Kotak group entities on which KIAL may or may not earn referral income or commission.</elements>
+	</item>	<item>	<elements>Since, this platform is a Do it yourself platform (DIY) you are free to execute our advice anywhere else.</elements>
+	</item>	<item>	<elements>Please note, we may charge advisory fees in future. You will be duly intimated before we 
+do so.</elements>
 	</item></array>
 	<createdDate>2019-10-14T08:03:21.247Z</createdDate>
 	<createdDate_dt>2019-10-14T08:03:21.247Z</createdDate_dt>
-	<lastModifiedDate>2020-04-11T10:42:12.746Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-11T10:42:12.746Z</lastModifiedDate_dt>
-	<description>Please read and accept certain important terms mentioned below. This will helpset the right expectations between us.</description>
+	<lastModifiedDate>2020-04-15T15:22:10.654Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-15T15:22:10.654Z</lastModifiedDate_dt>
+	<description>Please read and accept certain important terms mentioned below. This will help set the right expectations between us.</description>
 	<id>REG_PRE_CON</id>
-	<consent_heading>Please read and accept certain important terms mentioned below. This will helpset the right expectations between us.</consent_heading>
+	<consent_heading>By tapping Accept, you agree to have understood and accepted all the below points:</consent_heading>
 </component>
