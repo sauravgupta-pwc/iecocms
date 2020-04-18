@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/portfolio</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1328</objectGroupId>
+	<objectId>13289cd6-227a-df90-3486-c75b5cd15e4b</objectId>
+	<file-name>postlogin_overall.xml</file-name>
+	<folder-name/>
+	<internal-name>postlogin_overall</internal-name>
+	<heading/>
+	<description/>
+	<account_statement/>
+	<account_statement_desc/>
+	<investment_distribution/>
+	<investment_distribution_desc/>
+	<mf_portfolio_all/>
+	<mf_portfolio_all_desc/>
+	<switch/>
+	<switch_desc/>
+	<switch_order_placed/>
+	<switch_order_placed_desc/>
+	<stp/>
+	<stp_desc/>
+	<swp/>
+	<swp_desc/>
+	<sip_cancelled/>
+	<sip_cancelled_desc/>
+	<positions/>
+	<positions_desc/>
+	<cash_balance/>
+	<cash_balance_desc/>
+	<add_funds/>
+	<add_funds_desc/>
+	<withdraw_funds/>
+	<withdraw_funds_desc/>
+	<past_transactions_desc/>
+	<past_transactions/>
+	<confirm_your_purchase/>
+	<confirm_your_purchase_desc/>
+	<tax_implications/>
+	<createdDate>2020-04-18T13:54:29.369Z</createdDate>
+	<createdDate_dt>2020-04-18T13:54:29.369Z</createdDate_dt>
+	<lastModifiedDate>2020-04-18T13:54:29.369Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-18T13:54:29.369Z</lastModifiedDate_dt>
+</component>
