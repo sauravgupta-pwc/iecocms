@@ -932,7 +932,7 @@
 						</property>
 						<property>
 							<name>maxlength</name>
-							<value>50</value>
+							<value>1000</value>
 							<type>int</type>
 						</property>
 						<property>
