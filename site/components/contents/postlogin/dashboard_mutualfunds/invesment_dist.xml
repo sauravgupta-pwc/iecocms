@@ -5,7 +5,7 @@
 	<objectGroupId>0e2b</objectGroupId>
 	<objectId>0e2b6696-a97b-666a-6476-da4574f467ec</objectId>
 	<internal-name>invesment_dist</internal-name>
-	<heading>Overall portfolio</heading>
+	<heading>Mutual fund portfolio</heading>
 	<description/>
 	<sectors_label>Sectors</sectors_label>
 	<sectors_desc>Your portofolio has investments into different sector as per given proportions</sectors_desc>
@@ -20,7 +20,7 @@
 	<stocks_label>Stocks</stocks_label>
 	<stocks_desc>Your portfolio has investments into different stocks as per given proportions</stocks_desc>
 	<ratings_label>Ratings</ratings_label>
-	<ratings_desc>Your portfolio has investments into different rate</ratings_desc>
+	<ratings_desc>Mutual fund portfolio</ratings_desc>
 	<sector_label>Sectors</sector_label>
 	<sector_desc>Your portofolio has investments into different sector as per given proportions</sector_desc>
 	<duration_label/>
@@ -29,6 +29,6 @@
 	<folder-name/>
 	<createdDate>2020-04-22T15:19:38.874Z</createdDate>
 	<createdDate_dt>2020-04-22T15:19:38.874Z</createdDate_dt>
-	<lastModifiedDate>2020-04-22T15:19:38.874Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-22T15:19:38.874Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-22T15:32:08.589Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-22T15:32:08.589Z</lastModifiedDate_dt>
 </component>
