@@ -7,7 +7,7 @@
 	<file-name>video-verification-consent.xml</file-name>
 	<folder-name/>
 	<internal-name>Video verification consent</internal-name>
-	<consent item-list="true">	<item>	<consent-id>REG_AGREE_CON</consent-id>
+	<consent item-list="true">	<item>	<consent-id>KYC_VIPV_CON</consent-id>
 	<priority>1</priority>
 	<active>Y</active>
 	<required>Y</required>
@@ -18,6 +18,6 @@
 	</item></consent>
 	<createdDate>2020-03-22T18:47:40.680Z</createdDate>
 	<createdDate_dt>2020-03-22T18:47:40.680Z</createdDate_dt>
-	<lastModifiedDate>2020-04-22T05:11:59.318Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-22T05:11:59.318Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-22T06:52:30.653Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-22T06:52:30.653Z</lastModifiedDate_dt>
 </component>
