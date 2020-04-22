@@ -6,7 +6,7 @@
 	<objectId>5a59bf71-9d8a-0424-dfcd-c2c3f2f2026d</objectId>
 	<internal-name>dreams-overall-portfolio</internal-name>
 	<heading/>
-	<description/>
+	<description>The fund has distributed the investments into equity and debt as per below proportions</description>
 	<sectors_label/>
 	<sectors_desc>Sectors</sectors_desc>
 	<holdings_label/>
@@ -29,6 +29,8 @@
 	<folder-name/>
 	<createdDate>2020-04-22T15:36:17.754Z</createdDate>
 	<createdDate_dt>2020-04-22T15:36:17.754Z</createdDate_dt>
-	<lastModifiedDate>2020-04-22T15:36:17.754Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-22T15:36:17.754Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-22T15:43:31.567Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-22T15:43:31.567Z</lastModifiedDate_dt>
+	<overall_heading>Overall portfolio</overall_heading>
+	<dreams_heading>Dreams portfolio</dreams_heading>
 </component>
