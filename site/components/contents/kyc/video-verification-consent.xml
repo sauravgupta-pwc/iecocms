@@ -11,13 +11,13 @@
 	<priority>1</priority>
 	<active>Y</active>
 	<required>Y</required>
-	<content>You agree to the following:</content>
+	<content>You will be redirected to complete Video Verification</content>
 	<redirecturl>/path/to/next/pagg1</redirecturl>
-	<sub-content>You confirm that you are born in India, resident and citizen of India and not a tax resident of another country than India and do not have any political exposure</sub-content>
+	<sub-content>I understand that I will be redirected to IDfy platform (run by Baldor Technologies Pvt. Ltd.) to complete the video KYC process. I have to allow the platform to access my location, camera and microphone in order to initiate the video call</sub-content>
 	<consentShortName/>
 	</item></consent>
 	<createdDate>2020-03-22T18:47:40.680Z</createdDate>
 	<createdDate_dt>2020-03-22T18:47:40.680Z</createdDate_dt>
-	<lastModifiedDate>2020-04-09T14:46:19.903Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-09T14:46:19.903Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-22T05:09:17.135Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-22T05:09:17.135Z</lastModifiedDate_dt>
 </component>
