@@ -6,7 +6,7 @@
 	<objectId>0e2b6696-a97b-666a-6476-da4574f467ec</objectId>
 	<internal-name>invesment_dist</internal-name>
 	<heading>Mutual fund portfolio</heading>
-	<description/>
+	<description>The fund has distributed the investments into equity and debt as per below proportions</description>
 	<sectors_label>Sectors</sectors_label>
 	<sectors_desc>Your portofolio has investments into different sector as per given proportions</sectors_desc>
 	<holdings_label>Holdings</holdings_label>
@@ -29,6 +29,8 @@
 	<folder-name/>
 	<createdDate>2020-04-22T15:19:38.874Z</createdDate>
 	<createdDate_dt>2020-04-22T15:19:38.874Z</createdDate_dt>
-	<lastModifiedDate>2020-04-22T15:33:34.202Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-22T15:33:34.202Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-22T15:45:17.877Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-22T15:45:17.877Z</lastModifiedDate_dt>
+	<overall_heading/>
+	<dreams_heading/>
 </component>
