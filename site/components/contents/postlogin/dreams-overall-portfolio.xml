@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/portfolio</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5a59</objectGroupId>
+	<objectId>5a59bf71-9d8a-0424-dfcd-c2c3f2f2026d</objectId>
+	<internal-name>dreams-overall-portfolio</internal-name>
+	<heading/>
+	<description/>
+	<sectors_label/>
+	<sectors_desc>Sectors</sectors_desc>
+	<holdings_label/>
+	<holdings_desc/>
+	<portfolio_label>Portfolio</portfolio_label>
+	<portfolio_desc>Your portfolio has distribution spread across below investment options in the given proportions</portfolio_desc>
+	<breakup_label>Breakup</breakup_label>
+	<breakup_desc>Your portfolio has distributions spread across different instruments in the given proportions</breakup_desc>
+	<categories_label>Categories</categories_label>
+	<categories_desc>Your portfolio has distribution spread across below categories in the given proportions</categories_desc>
+	<stocks_label>Your portfolio has distribution spread across belo</stocks_label>
+	<stocks_desc/>
+	<ratings_label>Ratings</ratings_label>
+	<ratings_desc>Your portfolio has distribution spread across below securities basis ratings in the given proportions</ratings_desc>
+	<sector_label/>
+	<sector_desc/>
+	<duration_label>Duration</duration_label>
+	<duration_desc>Your portfolio has distribution spread across below securities basis duration in the given proportions</duration_desc>
+	<file-name>dreams-overall-portfolio.xml</file-name>
+	<folder-name/>
+	<createdDate>2020-04-22T15:36:17.754Z</createdDate>
+	<createdDate_dt>2020-04-22T15:36:17.754Z</createdDate_dt>
+	<lastModifiedDate>2020-04-22T15:36:17.754Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-22T15:36:17.754Z</lastModifiedDate_dt>
+</component>
