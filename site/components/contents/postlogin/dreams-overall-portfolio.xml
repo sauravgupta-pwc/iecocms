@@ -17,7 +17,7 @@
 	<breakup_desc>Your portfolio has distributions spread across different instruments in the given proportions</breakup_desc>
 	<categories_label>Categories</categories_label>
 	<categories_desc>Your portfolio has distribution spread across below categories in the given proportions</categories_desc>
-	<stocks_label>Your portfolio has distribution spread across belo</stocks_label>
+	<stocks_label/>
 	<stocks_desc/>
 	<ratings_label>Ratings</ratings_label>
 	<ratings_desc>Your portfolio has distribution spread across below securities basis ratings in the given proportions</ratings_desc>
@@ -29,8 +29,8 @@
 	<folder-name/>
 	<createdDate>2020-04-22T15:36:17.754Z</createdDate>
 	<createdDate_dt>2020-04-22T15:36:17.754Z</createdDate_dt>
-	<lastModifiedDate>2020-04-23T12:12:35.806Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-23T12:12:35.806Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-23T12:31:16.890Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-23T12:31:16.890Z</lastModifiedDate_dt>
 	<overall_heading>Overall portfolio</overall_heading>
 	<dreams_heading>Dreams portfolio</dreams_heading>
 </component>
