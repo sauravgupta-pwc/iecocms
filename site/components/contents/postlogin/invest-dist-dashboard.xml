@@ -5,12 +5,12 @@
 	<objectGroupId>7c9b</objectGroupId>
 	<objectId>7c9b5533-41c2-48c2-d886-b5f8f9c9aca8</objectId>
 	<internal-name>invest-dist-dashboard</internal-name>
-	<investment_dist_label>Investment Distribution</investment_dist_label>
+	<investment_dist_label>Investment distribution</investment_dist_label>
 	<investment_dist_desc>The fund has distributed the investments into equity and debt as per given proportions</investment_dist_desc>
 	<file-name>invest-dist-dashboard.xml</file-name>
 	<folder-name/>
 	<createdDate>2020-04-22T15:34:47.638Z</createdDate>
 	<createdDate_dt>2020-04-22T15:34:47.638Z</createdDate_dt>
-	<lastModifiedDate>2020-04-22T15:34:47.638Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-04-22T15:34:47.638Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-04-24T14:06:05.296Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-24T14:06:05.296Z</lastModifiedDate_dt>
 </component>
